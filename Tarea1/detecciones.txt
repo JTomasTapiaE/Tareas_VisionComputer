@@ -1,0 +1,4590 @@
+Fecha de ejecución: 2025-04-26 00:53:28.998893
+
+Clase copa: 298 detectados
+Clase Liquido: 2600 detectados
+Clase vaso: 880 detectados
+Clase botella: 801 detectados
+
+Líquidos peligrosos: 818
+Líquidos no peligrosos: 3761
+
+Detalles de cada recipiente:
+copa - 51.07% - amarillo claro - sano
+copa - 86.71% - amarillo claro - sano
+copa - 48.25% - amarillo intenso - moderado
+Liquido - 43.33% - amarillo intenso - moderado
+copa - 42.5% - amarillo intenso - moderado
+Liquido - 76.96% - amarillo intenso - moderado
+copa - 66.23% - amarillo intenso - moderado
+Liquido - 68.07% - amarillo intenso - moderado
+copa - 73.24% - amarillo intenso - moderado
+Liquido - 41.82% - amarillo intenso - moderado
+copa - 65.44% - amarillo intenso - moderado
+Liquido - 55.71% - amarillo intenso - moderado
+Liquido - 48.68% - amarillo intenso - moderado
+copa - 87.97% - amarillo intenso - moderado
+copa - 57.29% - amarillo intenso - moderado
+Liquido - 57.45% - amarillo claro - sano
+copa - 77.67% - amarillo intenso - moderado
+copa - 78.51% - amarillo intenso - moderado
+Liquido - 55.68% - amarillo intenso - moderado
+copa - 92.47% - amarillo intenso - moderado
+copa - 63.29% - amarillo intenso - moderado
+Liquido - 78.33% - amarillo claro - sano
+copa - 57.05% - amarillo claro - sano
+Liquido - 72.97% - amarillo claro - sano
+copa - 73.92% - amarillo claro - sano
+Liquido - 46.57% - amarillo claro - sano
+copa - 90.16% - amarillo claro - sano
+Liquido - 64.71% - amarillo claro - sano
+copa - 47.95% - amarillo claro - sano
+Liquido - 84.65% - amarillo claro - sano
+copa - 66.7% - amarillo intenso - moderado
+Liquido - 44.51% - amarillo claro - sano
+copa - 49.17% - amarillo intenso - moderado
+copa - 45.18% - amarillo intenso - moderado
+Liquido - 52.15% - amarillo claro - sano
+copa - 95.37% - amarillo intenso - moderado
+copa - 63.18% - amarillo intenso - moderado
+Liquido - 40.06% - amarillo claro - sano
+copa - 72.29% - amarillo intenso - moderado
+copa - 56.53% - amarillo intenso - moderado
+copa - 97.6% - amarillo intenso - moderado
+copa - 83.65% - amarillo intenso - moderado
+copa - 54.73% - amarillo intenso - moderado
+copa - 47.4% - amarillo intenso - moderado
+copa - 68.05% - amarillo claro - sano
+copa - 80.54% - amarillo claro - sano
+copa - 51.21% - amarillo intenso - moderado
+copa - 56.62% - amarillo intenso - moderado
+copa - 71.09% - amarillo intenso - moderado
+copa - 55.72% - amarillo intenso - moderado
+copa - 81.36% - amarillo intenso - moderado
+Liquido - 57.7% - amarillo claro - sano
+copa - 67.46% - amarillo claro - sano
+copa - 46.79% - amarillo claro - sano
+Liquido - 64.77% - amarillo claro - sano
+copa - 67.71% - amarillo intenso - moderado
+Liquido - 44.34% - amarillo claro - sano
+copa - 63.64% - amarillo claro - sano
+Liquido - 43.06% - amarillo claro - sano
+copa - 66.29% - amarillo claro - sano
+Liquido - 76.38% - amarillo claro - sano
+copa - 59.51% - amarillo intenso - moderado
+Liquido - 55.05% - amarillo claro - sano
+copa - 54.05% - amarillo intenso - moderado
+Liquido - 45.12% - amarillo claro - sano
+copa - 46.08% - amarillo intenso - moderado
+Liquido - 66.43% - amarillo claro - sano
+copa - 92.64% - amarillo intenso - moderado
+Liquido - 59.06% - amarillo claro - sano
+copa - 83.46% - amarillo intenso - moderado
+Liquido - 98.05% - amarillo claro - sano
+copa - 94.23% - amarillo intenso - moderado
+Liquido - 66.42% - amarillo claro - sano
+copa - 63.37% - amarillo intenso - moderado
+Liquido - 42.29% - amarillo claro - sano
+copa - 64.03% - amarillo intenso - moderado
+Liquido - 55.11% - amarillo claro - sano
+copa - 84.1% - amarillo intenso - moderado
+Liquido - 93.91% - amarillo claro - sano
+copa - 42.86% - amarillo intenso - moderado
+Liquido - 50.07% - amarillo claro - sano
+copa - 96.57% - amarillo intenso - moderado
+Liquido - 50.61% - amarillo claro - sano
+copa - 69.79% - amarillo intenso - moderado
+Liquido - 96.7% - amarillo claro - sano
+copa - 94.86% - amarillo intenso - moderado
+Liquido - 57.2% - amarillo claro - sano
+copa - 70.59% - amarillo intenso - moderado
+Liquido - 46.01% - amarillo claro - sano
+copa - 76.28% - amarillo intenso - moderado
+Liquido - 68.38% - amarillo claro - sano
+copa - 68.3% - amarillo intenso - moderado
+Liquido - 56.28% - amarillo claro - sano
+copa - 98.48% - amarillo claro - sano
+Liquido - 57.51% - amarillo claro - sano
+copa - 61.08% - amarillo intenso - moderado
+Liquido - 63.13% - amarillo claro - sano
+copa - 45.78% - amarillo intenso - moderado
+Liquido - 72.82% - amarillo claro - sano
+copa - 42.69% - amarillo intenso - moderado
+Liquido - 64.62% - amarillo claro - sano
+copa - 56.89% - amarillo intenso - moderado
+copa - 68.6% - amarillo intenso - moderado
+Liquido - 60.33% - amarillo claro - sano
+copa - 75.71% - amarillo intenso - moderado
+Liquido - 72.61% - amarillo claro - sano
+copa - 91.0% - amarillo intenso - moderado
+Liquido - 44.07% - amarillo intenso - moderado
+copa - 89.18% - amarillo intenso - moderado
+copa - 73.48% - amarillo intenso - moderado
+copa - 41.5% - amarillo intenso - moderado
+copa - 66.97% - amarillo intenso - moderado
+copa - 48.34% - amarillo intenso - moderado
+Liquido - 62.42% - amarillo claro - sano
+copa - 69.08% - amarillo intenso - moderado
+Liquido - 76.75% - amarillo claro - sano
+copa - 46.38% - amarillo intenso - moderado
+Liquido - 79.63% - amarillo intenso - moderado
+copa - 59.73% - amarillo intenso - moderado
+Liquido - 69.9% - amarillo claro - sano
+copa - 79.41% - amarillo intenso - moderado
+Liquido - 59.26% - amarillo claro - sano
+copa - 99.64% - amarillo intenso - moderado
+Liquido - 66.1% - amarillo claro - sano
+copa - 43.64% - amarillo intenso - moderado
+Liquido - 94.52% - amarillo intenso - moderado
+copa - 45.83% - amarillo intenso - moderado
+Liquido - 57.5% - amarillo claro - sano
+copa - 85.58% - amarillo intenso - moderado
+Liquido - 45.43% - amarillo claro - sano
+copa - 92.16% - amarillo intenso - moderado
+Liquido - 46.62% - amarillo claro - sano
+copa - 94.19% - amarillo intenso - moderado
+Liquido - 69.41% - amarillo claro - sano
+copa - 70.15% - amarillo intenso - moderado
+Liquido - 87.7% - amarillo claro - sano
+Liquido - 45.46% - amarillo intenso - moderado
+copa - 81.94% - amarillo intenso - moderado
+Liquido - 47.72% - amarillo claro - sano
+copa - 52.05% - amarillo intenso - moderado
+Liquido - 97.32% - amarillo claro - sano
+copa - 59.93% - amarillo intenso - moderado
+Liquido - 42.45% - amarillo claro - sano
+copa - 46.48% - amarillo intenso - moderado
+Liquido - 83.72% - amarillo claro - sano
+copa - 91.45% - amarillo intenso - moderado
+Liquido - 82.72% - amarillo claro - sano
+copa - 72.97% - amarillo intenso - moderado
+Liquido - 64.48% - amarillo claro - sano
+copa - 48.58% - amarillo intenso - moderado
+Liquido - 53.92% - amarillo claro - sano
+copa - 62.52% - amarillo intenso - moderado
+copa - 84.63% - amarillo intenso - moderado
+Liquido - 44.69% - amarillo claro - sano
+copa - 48.72% - amarillo claro - sano
+Liquido - 83.71% - amarillo claro - sano
+copa - 83.38% - amarillo intenso - moderado
+copa - 86.37% - amarillo intenso - moderado
+Liquido - 55.38% - amarillo claro - sano
+copa - 87.64% - amarillo intenso - moderado
+Liquido - 94.43% - amarillo claro - sano
+copa - 44.75% - amarillo intenso - moderado
+Liquido - 69.01% - amarillo claro - sano
+copa - 80.28% - amarillo intenso - moderado
+Liquido - 97.16% - amarillo claro - sano
+copa - 72.22% - amarillo intenso - moderado
+Liquido - 40.84% - amarillo claro - sano
+copa - 97.71% - amarillo intenso - moderado
+Liquido - 40.77% - amarillo claro - sano
+copa - 81.06% - amarillo intenso - moderado
+Liquido - 97.96% - amarillo claro - sano
+copa - 66.91% - amarillo intenso - moderado
+Liquido - 85.65% - amarillo claro - sano
+copa - 64.81% - amarillo intenso - moderado
+Liquido - 45.84% - amarillo claro - sano
+copa - 65.19% - amarillo intenso - moderado
+Liquido - 63.44% - amarillo claro - sano
+copa - 73.89% - amarillo intenso - moderado
+Liquido - 69.36% - amarillo claro - sano
+copa - 94.66% - amarillo intenso - moderado
+Liquido - 77.26% - amarillo claro - sano
+copa - 99.09% - amarillo intenso - moderado
+Liquido - 50.85% - amarillo claro - sano
+copa - 70.74% - amarillo intenso - moderado
+Liquido - 78.86% - amarillo claro - sano
+copa - 91.16% - amarillo intenso - moderado
+Liquido - 43.44% - amarillo claro - sano
+copa - 88.22% - amarillo intenso - moderado
+Liquido - 48.37% - amarillo claro - sano
+copa - 85.68% - amarillo intenso - moderado
+Liquido - 94.77% - amarillo claro - sano
+copa - 66.28% - amarillo intenso - moderado
+Liquido - 57.78% - amarillo claro - sano
+copa - 57.9% - amarillo intenso - moderado
+Liquido - 58.44% - amarillo intenso - moderado
+copa - 48.94% - amarillo intenso - moderado
+Liquido - 80.17% - amarillo intenso - moderado
+copa - 52.79% - amarillo intenso - moderado
+Liquido - 43.72% - amarillo claro - sano
+Liquido - 56.75% - amarillo intenso - moderado
+copa - 49.97% - amarillo intenso - moderado
+copa - 51.07% - amarillo intenso - moderado
+Liquido - 43.41% - amarillo intenso - moderado
+copa - 41.13% - amarillo intenso - moderado
+Liquido - 48.62% - amarillo intenso - moderado
+copa - 59.53% - amarillo intenso - moderado
+Liquido - 75.9% - amarillo intenso - moderado
+copa - 48.58% - amarillo intenso - moderado
+Liquido - 75.74% - amarillo intenso - moderado
+copa - 43.95% - amarillo intenso - moderado
+Liquido - 99.71% - amarillo intenso - moderado
+copa - 92.13% - amarillo intenso - moderado
+Liquido - 96.05% - amarillo claro - sano
+copa - 47.4% - amarillo intenso - moderado
+Liquido - 95.03% - amarillo claro - sano
+copa - 45.84% - amarillo intenso - moderado
+Liquido - 90.52% - amarillo claro - sano
+copa - 58.19% - amarillo intenso - moderado
+Liquido - 70.53% - amarillo claro - sano
+copa - 71.91% - amarillo intenso - moderado
+Liquido - 97.12% - amarillo claro - sano
+copa - 79.31% - amarillo intenso - moderado
+Liquido - 91.75% - amarillo claro - sano
+copa - 95.06% - amarillo intenso - moderado
+Liquido - 92.55% - amarillo claro - sano
+copa - 69.03% - amarillo intenso - moderado
+Liquido - 59.19% - amarillo claro - sano
+copa - 44.86% - amarillo intenso - moderado
+Liquido - 78.4% - amarillo claro - sano
+copa - 66.76% - amarillo intenso - moderado
+Liquido - 85.74% - amarillo intenso - moderado
+copa - 68.73% - amarillo intenso - moderado
+Liquido - 85.89% - amarillo intenso - moderado
+copa - 71.43% - amarillo intenso - moderado
+Liquido - 95.16% - amarillo intenso - moderado
+copa - 41.67% - amarillo intenso - moderado
+Liquido - 59.48% - amarillo intenso - moderado
+copa - 91.61% - amarillo intenso - moderado
+Liquido - 86.6% - amarillo intenso - moderado
+copa - 80.6% - amarillo intenso - moderado
+Liquido - 77.23% - amarillo intenso - moderado
+copa - 89.06% - amarillo intenso - moderado
+Liquido - 86.72% - amarillo intenso - moderado
+copa - 68.21% - amarillo intenso - moderado
+Liquido - 67.79% - amarillo intenso - moderado
+copa - 69.77% - amarillo intenso - moderado
+Liquido - 79.97% - amarillo intenso - moderado
+copa - 65.01% - amarillo intenso - moderado
+Liquido - 92.77% - amarillo intenso - moderado
+copa - 44.1% - amarillo intenso - moderado
+Liquido - 47.98% - amarillo intenso - moderado
+copa - 67.12% - amarillo intenso - moderado
+Liquido - 66.55% - amarillo intenso - moderado
+copa - 72.79% - amarillo intenso - moderado
+Liquido - 60.3% - amarillo intenso - moderado
+copa - 73.4% - amarillo intenso - moderado
+Liquido - 42.82% - amarillo intenso - moderado
+copa - 73.37% - amarillo intenso - moderado
+Liquido - 84.93% - amarillo intenso - moderado
+copa - 68.82% - amarillo intenso - moderado
+Liquido - 63.36% - amarillo intenso - moderado
+copa - 57.46% - amarillo intenso - moderado
+Liquido - 85.79% - amarillo intenso - moderado
+copa - 49.1% - amarillo intenso - moderado
+Liquido - 55.33% - amarillo intenso - moderado
+copa - 40.48% - amarillo intenso - moderado
+Liquido - 78.13% - amarillo intenso - moderado
+copa - 55.72% - amarillo intenso - moderado
+Liquido - 64.03% - amarillo intenso - moderado
+copa - 76.64% - amarillo intenso - moderado
+Liquido - 87.84% - amarillo intenso - moderado
+copa - 54.55% - amarillo intenso - moderado
+Liquido - 47.01% - amarillo intenso - moderado
+copa - 76.09% - amarillo intenso - moderado
+Liquido - 41.48% - amarillo intenso - moderado
+copa - 93.18% - amarillo intenso - moderado
+Liquido - 95.76% - amarillo intenso - moderado
+Liquido - 94.33% - amarillo intenso - moderado
+copa - 66.1% - amarillo intenso - moderado
+Liquido - 78.49% - amarillo intenso - moderado
+copa - 73.99% - amarillo intenso - moderado
+Liquido - 40.97% - amarillo intenso - moderado
+copa - 99.34% - amarillo intenso - moderado
+copa - 98.4% - amarillo intenso - moderado
+Liquido - 64.48% - amarillo intenso - moderado
+Liquido - 79.72% - amarillo intenso - moderado
+copa - 40.42% - amarillo intenso - moderado
+Liquido - 96.49% - amarillo claro - sano
+copa - 96.87% - amarillo intenso - moderado
+copa - 44.43% - amarillo intenso - moderado
+Liquido - 65.07% - amarillo intenso - moderado
+copa - 82.53% - amarillo intenso - moderado
+Liquido - 59.62% - amarillo intenso - moderado
+copa - 85.03% - amarillo intenso - moderado
+Liquido - 78.71% - amarillo claro - sano
+copa - 44.48% - amarillo intenso - moderado
+Liquido - 57.28% - amarillo intenso - moderado
+copa - 44.92% - amarillo intenso - moderado
+Liquido - 77.02% - amarillo intenso - moderado
+copa - 49.33% - amarillo intenso - moderado
+Liquido - 45.74% - amarillo intenso - moderado
+copa - 88.87% - amarillo intenso - moderado
+Liquido - 74.77% - amarillo intenso - moderado
+Liquido - 57.46% - amarillo intenso - moderado
+copa - 40.2% - amarillo intenso - moderado
+Liquido - 46.96% - amarillo intenso - moderado
+Liquido - 99.87% - amarillo intenso - moderado
+Liquido - 53.74% - amarillo intenso - moderado
+Liquido - 67.41% - amarillo intenso - moderado
+Liquido - 68.06% - amarillo intenso - moderado
+Liquido - 48.55% - amarillo intenso - moderado
+copa - 66.57% - amarillo intenso - moderado
+Liquido - 96.73% - amarillo intenso - moderado
+Liquido - 82.2% - amarillo intenso - moderado
+copa - 75.2% - amarillo intenso - moderado
+Liquido - 96.1% - amarillo intenso - moderado
+copa - 47.63% - amarillo intenso - moderado
+Liquido - 71.3% - amarillo intenso - moderado
+Liquido - 77.19% - amarillo intenso - moderado
+Liquido - 76.5% - amarillo intenso - moderado
+Liquido - 59.42% - amarillo intenso - moderado
+Liquido - 99.85% - amarillo intenso - moderado
+Liquido - 60.45% - amarillo intenso - moderado
+Liquido - 77.62% - amarillo intenso - moderado
+Liquido - 89.1% - amarillo intenso - moderado
+Liquido - 73.86% - amarillo intenso - moderado
+Liquido - 81.52% - amarillo intenso - moderado
+Liquido - 65.72% - amarillo intenso - moderado
+Liquido - 94.13% - amarillo intenso - moderado
+Liquido - 79.87% - amarillo intenso - moderado
+Liquido - 90.71% - amarillo intenso - moderado
+Liquido - 89.18% - amarillo intenso - moderado
+Liquido - 79.79% - amarillo intenso - moderado
+Liquido - 93.55% - amarillo intenso - moderado
+Liquido - 55.83% - amarillo intenso - moderado
+copa - 52.22% - amarillo intenso - moderado
+Liquido - 81.55% - amarillo intenso - moderado
+copa - 64.05% - amarillo intenso - moderado
+Liquido - 77.64% - amarillo intenso - moderado
+Liquido - 53.55% - amarillo intenso - moderado
+copa - 76.74% - amarillo intenso - moderado
+copa - 86.05% - amarillo intenso - moderado
+Liquido - 42.88% - amarillo intenso - moderado
+copa - 63.86% - amarillo intenso - moderado
+Liquido - 62.38% - amarillo intenso - moderado
+Liquido - 72.78% - amarillo intenso - moderado
+copa - 54.67% - amarillo intenso - moderado
+Liquido - 90.16% - amarillo intenso - moderado
+copa - 50.52% - amarillo intenso - moderado
+copa - 80.96% - amarillo intenso - moderado
+Liquido - 87.85% - amarillo intenso - moderado
+vaso - 66.94% - amarillo intenso - moderado
+Liquido - 60.4% - transparente - sano
+botella - 58.81% - amarillo claro - sano
+copa - 87.05% - amarillo intenso - moderado
+copa - 62.46% - amarillo intenso - moderado
+copa - 62.62% - amarillo intenso - moderado
+copa - 97.78% - amarillo intenso - moderado
+copa - 91.68% - amarillo intenso - moderado
+copa - 69.81% - amarillo intenso - moderado
+copa - 80.23% - amarillo intenso - moderado
+copa - 41.18% - amarillo intenso - moderado
+copa - 41.16% - amarillo intenso - moderado
+copa - 78.72% - amarillo intenso - moderado
+Liquido - 73.9% - amarillo intenso - moderado
+Liquido - 59.08% - amarillo intenso - moderado
+Liquido - 78.36% - amarillo intenso - moderado
+copa - 94.96% - amarillo claro - sano
+botella - 74.02% - amarillo claro - sano
+Liquido - 90.78% - negro - peligroso
+Liquido - 91.55% - amarillo claro - sano
+botella - 54.67% - azul - peligroso
+botella - 53.27% - amarillo claro - sano
+Liquido - 44.95% - amarillo claro - sano
+botella - 90.44% - amarillo claro - sano
+Liquido - 69.77% - negro - peligroso
+botella - 84.31% - amarillo claro - sano
+Liquido - 89.56% - amarillo claro - sano
+botella - 84.09% - amarillo claro - sano
+Liquido - 80.15% - amarillo claro - sano
+Liquido - 52.4% - amarillo intenso - moderado
+Liquido - 49.18% - rojo - moderado
+Liquido - 97.82% - rojo - moderado
+botella - 58.84% - rojo - moderado
+botella - 78.96% - rojo - moderado
+botella - 77.12% - rojo - moderado
+Liquido - 94.39% - amarillo claro - sano
+botella - 90.64% - rojo - moderado
+Liquido - 45.0% - amarillo claro - sano
+botella - 59.4% - amarillo intenso - moderado
+Liquido - 84.12% - amarillo claro - sano
+botella - 98.61% - amarillo claro - sano
+botella - 95.63% - rojo - moderado
+botella - 92.43% - rojo - moderado
+botella - 93.5% - rojo - moderado
+Liquido - 92.85% - rojo - moderado
+Liquido - 70.08% - rojo - moderado
+botella - 94.13% - rojo - moderado
+botella - 52.86% - rojo - moderado
+botella - 87.31% - rojo - moderado
+botella - 57.19% - rojo - moderado
+Liquido - 83.13% - negro - peligroso
+Liquido - 70.98% - negro - peligroso
+Liquido - 84.09% - negro - peligroso
+Liquido - 77.26% - negro - peligroso
+Liquido - 69.16% - negro - peligroso
+Liquido - 70.44% - negro - peligroso
+Liquido - 74.75% - negro - peligroso
+Liquido - 53.08% - negro - peligroso
+Liquido - 65.07% - negro - peligroso
+botella - 76.22% - morado - moderado
+Liquido - 60.65% - negro - peligroso
+Liquido - 57.49% - amarillo claro - sano
+botella - 56.6% - morado - moderado
+botella - 66.3% - morado - moderado
+Liquido - 89.14% - negro - peligroso
+botella - 42.76% - morado - moderado
+Liquido - 50.59% - amarillo intenso - moderado
+Liquido - 81.84% - negro - peligroso
+botella - 55.4% - morado - moderado
+Liquido - 41.87% - amarillo intenso - moderado
+Liquido - 60.56% - negro - peligroso
+botella - 47.9% - morado - moderado
+Liquido - 62.56% - negro - peligroso
+botella - 93.02% - morado - moderado
+Liquido - 74.27% - amarillo intenso - moderado
+Liquido - 91.59% - negro - peligroso
+botella - 51.85% - morado - moderado
+Liquido - 61.15% - negro - peligroso
+botella - 90.87% - morado - moderado
+Liquido - 48.47% - negro - peligroso
+botella - 67.55% - rojo - moderado
+Liquido - 96.74% - negro - peligroso
+botella - 43.33% - rojo - moderado
+Liquido - 58.36% - negro - peligroso
+botella - 53.54% - rojo - moderado
+Liquido - 73.27% - negro - peligroso
+Liquido - 85.69% - negro - peligroso
+Liquido - 97.88% - negro - peligroso
+Liquido - 83.79% - negro - peligroso
+Liquido - 90.41% - negro - peligroso
+Liquido - 86.44% - negro - peligroso
+Liquido - 83.4% - negro - peligroso
+Liquido - 82.77% - negro - peligroso
+Liquido - 82.43% - amarillo claro - sano
+Liquido - 99.41% - amarillo claro - sano
+botella - 93.91% - rojo - moderado
+Liquido - 82.67% - rojo - moderado
+botella - 46.97% - rojo - moderado
+Liquido - 54.01% - rojo - moderado
+botella - 52.03% - rojo - moderado
+Liquido - 74.51% - rojo - moderado
+Liquido - 74.64% - rojo - moderado
+botella - 81.75% - azul - peligroso
+Liquido - 48.13% - rojo - moderado
+botella - 42.42% - azul - peligroso
+Liquido - 95.16% - rojo - moderado
+botella - 71.08% - azul - peligroso
+Liquido - 87.65% - rojo - moderado
+Liquido - 44.0% - rojo - moderado
+botella - 55.62% - rojo - moderado
+botella - 90.68% - amarillo intenso - moderado
+Liquido - 67.21% - rojo - moderado
+botella - 50.89% - azul - peligroso
+botella - 64.43% - amarillo intenso - moderado
+botella - 77.6% - rojo - moderado
+Liquido - 84.18% - rojo - moderado
+vaso - 99.75% - amarillo intenso - moderado
+botella - 69.43% - rojo - moderado
+vaso - 49.7% - amarillo intenso - moderado
+vaso - 91.13% - amarillo intenso - moderado
+botella - 54.46% - rojo - moderado
+vaso - 69.32% - amarillo intenso - moderado
+botella - 96.6% - rojo - moderado
+vaso - 71.28% - amarillo claro - sano
+Liquido - 86.66% - rojo - moderado
+vaso - 74.82% - amarillo claro - sano
+botella - 92.84% - azul - peligroso
+Liquido - 79.31% - rojo - moderado
+botella - 51.23% - azul - peligroso
+Liquido - 49.34% - rojo - moderado
+botella - 74.66% - azul - peligroso
+Liquido - 92.01% - rojo - moderado
+botella - 41.72% - azul - peligroso
+Liquido - 84.44% - rojo - moderado
+botella - 41.99% - azul - peligroso
+botella - 62.88% - rojo - moderado
+Liquido - 58.9% - rojo - moderado
+vaso - 53.62% - amarillo claro - sano
+Liquido - 71.26% - rojo - moderado
+botella - 86.87% - azul - peligroso
+vaso - 44.41% - amarillo claro - sano
+botella - 81.29% - rojo - moderado
+Liquido - 49.86% - rojo - moderado
+vaso - 62.02% - amarillo claro - sano
+botella - 83.85% - rojo - moderado
+Liquido - 62.72% - rojo - moderado
+Liquido - 74.97% - rojo - moderado
+vaso - 84.32% - amarillo claro - sano
+botella - 61.21% - azul - peligroso
+vaso - 96.22% - amarillo claro - sano
+botella - 72.67% - rojo - moderado
+Liquido - 49.4% - rojo - moderado
+vaso - 99.09% - amarillo claro - sano
+botella - 78.32% - rojo - moderado
+vaso - 76.88% - amarillo claro - sano
+Liquido - 45.92% - rojo - moderado
+botella - 96.48% - azul - peligroso
+vaso - 90.25% - amarillo claro - sano
+botella - 79.51% - rojo - moderado
+Liquido - 54.06% - rojo - moderado
+vaso - 96.67% - amarillo claro - sano
+botella - 70.11% - rojo - moderado
+Liquido - 87.87% - rojo - moderado
+vaso - 52.51% - amarillo claro - sano
+botella - 99.12% - rojo - moderado
+vaso - 82.21% - amarillo claro - sano
+botella - 74.95% - rojo - moderado
+vaso - 88.43% - amarillo claro - sano
+botella - 71.96% - rojo - moderado
+Liquido - 72.8% - rojo - moderado
+botella - 95.73% - rojo - moderado
+vaso - 54.36% - amarillo claro - sano
+Liquido - 73.49% - rojo - moderado
+botella - 44.96% - rojo - moderado
+vaso - 56.4% - amarillo claro - sano
+Liquido - 68.39% - rojo - moderado
+botella - 47.13% - rojo - moderado
+vaso - 63.35% - amarillo claro - sano
+Liquido - 62.56% - rojo - moderado
+botella - 87.22% - rojo - moderado
+vaso - 83.34% - amarillo claro - sano
+Liquido - 41.21% - rojo - moderado
+botella - 67.98% - rojo - moderado
+vaso - 59.31% - amarillo claro - sano
+Liquido - 47.45% - rojo - moderado
+botella - 87.29% - rojo - moderado
+vaso - 65.48% - amarillo claro - sano
+Liquido - 93.61% - rojo - moderado
+botella - 41.95% - rojo - moderado
+vaso - 93.4% - amarillo claro - sano
+Liquido - 59.48% - rojo - moderado
+botella - 98.34% - rojo - moderado
+vaso - 53.94% - amarillo claro - sano
+Liquido - 75.47% - rojo - moderado
+botella - 72.85% - rojo - moderado
+vaso - 94.88% - amarillo claro - sano
+Liquido - 96.16% - rojo - moderado
+botella - 94.21% - rojo - moderado
+vaso - 86.26% - amarillo claro - sano
+botella - 93.69% - rojo - moderado
+vaso - 91.22% - amarillo claro - sano
+vaso - 97.58% - amarillo claro - sano
+botella - 64.8% - rojo - moderado
+Liquido - 98.57% - rojo - moderado
+vaso - 48.8% - amarillo claro - sano
+Liquido - 61.35% - rojo - moderado
+botella - 95.5% - azul - peligroso
+vaso - 55.23% - amarillo claro - sano
+botella - 90.45% - rojo - moderado
+Liquido - 55.44% - rojo - moderado
+vaso - 55.04% - amarillo claro - sano
+Liquido - 43.26% - rojo - moderado
+botella - 44.36% - azul - peligroso
+botella - 43.7% - rojo - moderado
+vaso - 47.81% - amarillo claro - sano
+Liquido - 61.86% - rojo - moderado
+botella - 79.96% - rojo - moderado
+Liquido - 97.74% - rojo - moderado
+vaso - 79.84% - amarillo claro - sano
+botella - 94.68% - rojo - moderado
+Liquido - 96.1% - rojo - moderado
+vaso - 75.8% - amarillo claro - sano
+botella - 79.49% - rojo - moderado
+Liquido - 43.51% - rojo - moderado
+vaso - 84.92% - amarillo claro - sano
+botella - 90.05% - rojo - moderado
+Liquido - 91.49% - rojo - moderado
+vaso - 59.98% - amarillo claro - sano
+botella - 84.21% - rojo - moderado
+vaso - 76.89% - amarillo claro - sano
+Liquido - 96.52% - rojo - moderado
+botella - 84.61% - rojo - moderado
+Liquido - 97.5% - amarillo intenso - moderado
+botella - 59.55% - rojo - moderado
+Liquido - 79.95% - rojo - moderado
+vaso - 79.99% - amarillo claro - sano
+Liquido - 50.41% - amarillo intenso - moderado
+botella - 62.05% - azul - peligroso
+Liquido - 88.2% - rojo - moderado
+botella - 68.19% - azul - peligroso
+vaso - 80.17% - amarillo claro - sano
+Liquido - 59.34% - amarillo intenso - moderado
+Liquido - 52.91% - rojo - moderado
+botella - 54.11% - azul - peligroso
+vaso - 70.63% - amarillo claro - sano
+botella - 54.2% - rojo - moderado
+vaso - 71.86% - amarillo claro - sano
+Liquido - 71.14% - rojo - moderado
+botella - 85.7% - rojo - moderado
+vaso - 97.99% - amarillo claro - sano
+Liquido - 76.03% - rojo - moderado
+Liquido - 70.77% - amarillo intenso - moderado
+botella - 66.84% - rojo - moderado
+vaso - 81.8% - amarillo claro - sano
+Liquido - 83.68% - rojo - moderado
+botella - 70.14% - rojo - moderado
+Liquido - 40.39% - amarillo intenso - moderado
+Liquido - 97.71% - rojo - moderado
+vaso - 40.74% - amarillo claro - sano
+botella - 71.06% - rojo - moderado
+Liquido - 78.11% - rojo - moderado
+vaso - 84.36% - amarillo claro - sano
+Liquido - 45.6% - amarillo intenso - moderado
+botella - 90.97% - rojo - moderado
+Liquido - 50.35% - rojo - moderado
+Liquido - 88.35% - amarillo intenso - moderado
+vaso - 58.29% - amarillo claro - sano
+botella - 79.5% - rojo - moderado
+Liquido - 98.69% - rojo - moderado
+Liquido - 52.58% - amarillo intenso - moderado
+botella - 60.67% - rojo - moderado
+Liquido - 89.77% - rojo - moderado
+Liquido - 85.92% - amarillo intenso - moderado
+vaso - 45.36% - amarillo claro - sano
+botella - 64.98% - rojo - moderado
+Liquido - 81.49% - rojo - moderado
+Liquido - 63.23% - amarillo intenso - moderado
+vaso - 96.77% - amarillo claro - sano
+botella - 84.1% - rojo - moderado
+Liquido - 47.7% - rojo - moderado
+Liquido - 74.43% - amarillo intenso - moderado
+vaso - 94.65% - amarillo claro - sano
+botella - 78.73% - rojo - moderado
+Liquido - 67.58% - rojo - moderado
+vaso - 98.9% - amarillo claro - sano
+Liquido - 74.02% - amarillo intenso - moderado
+botella - 73.81% - rojo - moderado
+Liquido - 96.67% - amarillo intenso - moderado
+Liquido - 54.55% - rojo - moderado
+vaso - 97.5% - amarillo claro - sano
+botella - 48.84% - rojo - moderado
+vaso - 96.37% - amarillo claro - sano
+Liquido - 48.91% - rojo - moderado
+Liquido - 91.27% - amarillo intenso - moderado
+botella - 91.5% - rojo - moderado
+Liquido - 61.74% - rojo - moderado
+vaso - 80.29% - amarillo claro - sano
+Liquido - 53.72% - amarillo intenso - moderado
+botella - 72.71% - rojo - moderado
+Liquido - 76.19% - rojo - moderado
+Liquido - 77.03% - amarillo intenso - moderado
+vaso - 81.35% - amarillo claro - sano
+botella - 77.73% - rojo - moderado
+vaso - 54.58% - amarillo claro - sano
+Liquido - 98.48% - rojo - moderado
+Liquido - 98.72% - amarillo intenso - moderado
+botella - 47.36% - rojo - moderado
+Liquido - 48.9% - rojo - moderado
+vaso - 69.17% - amarillo claro - sano
+Liquido - 74.69% - amarillo intenso - moderado
+botella - 63.42% - rojo - moderado
+vaso - 76.13% - amarillo claro - sano
+Liquido - 65.67% - amarillo intenso - moderado
+Liquido - 54.72% - rojo - moderado
+botella - 90.1% - rojo - moderado
+vaso - 53.94% - amarillo claro - sano
+Liquido - 72.19% - amarillo intenso - moderado
+Liquido - 67.24% - rojo - moderado
+botella - 95.78% - rojo - moderado
+vaso - 44.56% - amarillo claro - sano
+Liquido - 51.79% - amarillo intenso - moderado
+Liquido - 71.18% - rojo - moderado
+botella - 97.53% - rojo - moderado
+vaso - 62.33% - amarillo claro - sano
+Liquido - 98.6% - rojo - moderado
+Liquido - 68.03% - amarillo intenso - moderado
+botella - 69.44% - rojo - moderado
+vaso - 73.62% - amarillo claro - sano
+Liquido - 40.88% - rojo - moderado
+Liquido - 78.9% - amarillo intenso - moderado
+botella - 83.57% - rojo - moderado
+Liquido - 49.28% - rojo - moderado
+vaso - 51.01% - amarillo claro - sano
+Liquido - 57.35% - amarillo intenso - moderado
+botella - 63.02% - rojo - moderado
+vaso - 41.42% - amarillo claro - sano
+Liquido - 49.39% - rojo - moderado
+Liquido - 76.05% - amarillo intenso - moderado
+botella - 62.4% - rojo - moderado
+vaso - 49.61% - amarillo claro - sano
+Liquido - 46.58% - rojo - moderado
+Liquido - 63.25% - amarillo intenso - moderado
+botella - 91.17% - rojo - moderado
+Liquido - 68.15% - rojo - moderado
+vaso - 51.97% - amarillo claro - sano
+Liquido - 54.43% - amarillo intenso - moderado
+botella - 86.37% - rojo - moderado
+Liquido - 95.38% - rojo - moderado
+vaso - 82.37% - amarillo claro - sano
+Liquido - 88.9% - amarillo intenso - moderado
+vaso - 89.43% - amarillo claro - sano
+botella - 68.62% - rojo - moderado
+Liquido - 85.43% - rojo - moderado
+Liquido - 95.96% - amarillo intenso - moderado
+botella - 43.9% - rojo - moderado
+vaso - 68.82% - amarillo claro - sano
+Liquido - 74.7% - amarillo intenso - moderado
+Liquido - 74.08% - rojo - moderado
+botella - 66.33% - rojo - moderado
+vaso - 53.84% - amarillo claro - sano
+Liquido - 46.17% - rojo - moderado
+Liquido - 46.86% - amarillo intenso - moderado
+botella - 53.48% - rojo - moderado
+vaso - 61.32% - amarillo claro - sano
+Liquido - 77.54% - rojo - moderado
+Liquido - 66.43% - amarillo intenso - moderado
+vaso - 64.37% - amarillo claro - sano
+botella - 61.48% - rojo - moderado
+Liquido - 50.08% - amarillo intenso - moderado
+Liquido - 44.12% - rojo - moderado
+vaso - 48.83% - amarillo claro - sano
+botella - 83.07% - rojo - moderado
+Liquido - 89.93% - rojo - moderado
+Liquido - 46.28% - amarillo intenso - moderado
+botella - 85.52% - rojo - moderado
+vaso - 66.46% - amarillo claro - sano
+Liquido - 42.27% - rojo - moderado
+Liquido - 64.61% - amarillo intenso - moderado
+botella - 51.12% - rojo - moderado
+vaso - 73.69% - amarillo claro - sano
+Liquido - 90.07% - amarillo intenso - moderado
+Liquido - 40.29% - rojo - moderado
+vaso - 77.65% - amarillo claro - sano
+botella - 57.22% - rojo - moderado
+Liquido - 99.8% - amarillo intenso - moderado
+Liquido - 85.37% - rojo - moderado
+botella - 78.7% - rojo - moderado
+vaso - 60.96% - amarillo claro - sano
+Liquido - 52.97% - amarillo intenso - moderado
+Liquido - 98.53% - rojo - moderado
+vaso - 58.2% - amarillo claro - sano
+botella - 61.22% - rojo - moderado
+Liquido - 99.67% - amarillo intenso - moderado
+Liquido - 54.86% - rojo - moderado
+botella - 44.22% - rojo - moderado
+vaso - 54.84% - amarillo claro - sano
+Liquido - 95.17% - amarillo intenso - moderado
+Liquido - 79.09% - rojo - moderado
+botella - 98.57% - rojo - moderado
+vaso - 71.63% - amarillo claro - sano
+Liquido - 46.2% - amarillo intenso - moderado
+Liquido - 83.19% - rojo - moderado
+botella - 59.92% - rojo - moderado
+vaso - 70.58% - amarillo claro - sano
+Liquido - 87.92% - amarillo intenso - moderado
+Liquido - 51.22% - rojo - moderado
+vaso - 65.75% - amarillo claro - sano
+botella - 96.92% - rojo - moderado
+Liquido - 69.17% - rojo - moderado
+Liquido - 98.25% - amarillo intenso - moderado
+vaso - 81.22% - amarillo claro - sano
+botella - 87.63% - rojo - moderado
+Liquido - 42.25% - rojo - moderado
+Liquido - 54.5% - amarillo intenso - moderado
+botella - 82.38% - rojo - moderado
+vaso - 52.98% - amarillo claro - sano
+Liquido - 48.36% - amarillo intenso - moderado
+Liquido - 40.46% - rojo - moderado
+botella - 77.08% - rojo - moderado
+Liquido - 48.12% - amarillo intenso - moderado
+Liquido - 48.76% - rojo - moderado
+vaso - 55.97% - amarillo claro - sano
+botella - 63.56% - rojo - moderado
+Liquido - 81.22% - amarillo intenso - moderado
+vaso - 94.79% - amarillo claro - sano
+Liquido - 71.29% - rojo - moderado
+botella - 69.33% - rojo - moderado
+Liquido - 42.57% - amarillo intenso - moderado
+vaso - 40.26% - amarillo claro - sano
+Liquido - 95.65% - rojo - moderado
+Liquido - 53.98% - rojo - moderado
+Liquido - 96.23% - amarillo intenso - moderado
+botella - 46.54% - azul - peligroso
+vaso - 43.89% - amarillo claro - sano
+Liquido - 79.33% - rojo - moderado
+botella - 74.39% - azul - peligroso
+Liquido - 58.94% - amarillo intenso - moderado
+vaso - 99.35% - amarillo claro - sano
+botella - 91.48% - rojo - moderado
+vaso - 68.97% - amarillo claro - sano
+Liquido - 93.25% - rojo - moderado
+Liquido - 78.59% - amarillo intenso - moderado
+botella - 71.1% - rojo - moderado
+Liquido - 42.05% - rojo - moderado
+vaso - 48.51% - amarillo claro - sano
+Liquido - 82.5% - amarillo intenso - moderado
+botella - 74.62% - rojo - moderado
+Liquido - 42.18% - amarillo intenso - moderado
+vaso - 77.36% - amarillo claro - sano
+Liquido - 89.95% - rojo - moderado
+botella - 52.0% - rojo - moderado
+Liquido - 42.08% - amarillo intenso - moderado
+vaso - 45.01% - amarillo claro - sano
+Liquido - 86.72% - rojo - moderado
+botella - 40.44% - rojo - moderado
+Liquido - 88.48% - amarillo intenso - moderado
+vaso - 69.55% - amarillo claro - sano
+Liquido - 50.34% - rojo - moderado
+botella - 49.18% - rojo - moderado
+Liquido - 94.1% - amarillo intenso - moderado
+vaso - 75.58% - amarillo claro - sano
+Liquido - 84.9% - rojo - moderado
+botella - 51.54% - rojo - moderado
+vaso - 72.22% - amarillo claro - sano
+Liquido - 53.61% - amarillo intenso - moderado
+Liquido - 44.24% - rojo - moderado
+botella - 42.74% - rojo - moderado
+vaso - 94.84% - amarillo claro - sano
+Liquido - 71.93% - rojo - moderado
+Liquido - 86.38% - amarillo intenso - moderado
+botella - 54.49% - rojo - moderado
+vaso - 95.75% - amarillo claro - sano
+Liquido - 46.98% - rojo - moderado
+Liquido - 43.92% - amarillo intenso - moderado
+botella - 83.16% - rojo - moderado
+vaso - 71.83% - amarillo claro - sano
+Liquido - 92.69% - rojo - moderado
+Liquido - 80.98% - amarillo intenso - moderado
+botella - 75.57% - rojo - moderado
+vaso - 60.59% - amarillo claro - sano
+Liquido - 75.38% - amarillo intenso - moderado
+Liquido - 59.07% - rojo - moderado
+botella - 98.61% - rojo - moderado
+vaso - 81.03% - amarillo claro - sano
+Liquido - 83.52% - amarillo intenso - moderado
+Liquido - 93.3% - rojo - moderado
+botella - 58.17% - rojo - moderado
+Liquido - 70.52% - rojo - moderado
+vaso - 65.06% - amarillo claro - sano
+Liquido - 59.55% - amarillo intenso - moderado
+botella - 92.09% - rojo - moderado
+vaso - 74.8% - amarillo claro - sano
+Liquido - 53.38% - rojo - moderado
+Liquido - 60.52% - amarillo intenso - moderado
+botella - 82.91% - rojo - moderado
+vaso - 56.83% - amarillo claro - sano
+Liquido - 41.66% - rojo - moderado
+Liquido - 95.06% - amarillo intenso - moderado
+botella - 71.84% - rojo - moderado
+vaso - 98.47% - amarillo claro - sano
+Liquido - 40.06% - rojo - moderado
+Liquido - 91.62% - amarillo intenso - moderado
+botella - 65.77% - rojo - moderado
+vaso - 88.86% - amarillo claro - sano
+Liquido - 87.32% - amarillo intenso - moderado
+Liquido - 76.31% - rojo - moderado
+vaso - 68.07% - amarillo claro - sano
+botella - 86.32% - rojo - moderado
+Liquido - 43.86% - amarillo intenso - moderado
+Liquido - 57.72% - rojo - moderado
+botella - 61.65% - rojo - moderado
+vaso - 58.3% - amarillo claro - sano
+Liquido - 63.53% - amarillo intenso - moderado
+Liquido - 54.02% - rojo - moderado
+vaso - 51.48% - amarillo claro - sano
+botella - 72.79% - rojo - moderado
+Liquido - 91.5% - rojo - moderado
+Liquido - 74.23% - amarillo intenso - moderado
+vaso - 93.58% - amarillo claro - sano
+botella - 56.39% - rojo - moderado
+Liquido - 71.27% - amarillo intenso - moderado
+Liquido - 84.9% - rojo - moderado
+vaso - 68.35% - amarillo claro - sano
+botella - 52.42% - rojo - moderado
+Liquido - 69.24% - rojo - moderado
+Liquido - 42.97% - amarillo intenso - moderado
+vaso - 47.91% - amarillo claro - sano
+botella - 45.77% - rojo - moderado
+Liquido - 85.83% - amarillo intenso - moderado
+Liquido - 47.99% - rojo - moderado
+vaso - 41.63% - amarillo claro - sano
+botella - 84.96% - rojo - moderado
+Liquido - 48.65% - rojo - moderado
+Liquido - 82.41% - amarillo intenso - moderado
+vaso - 90.3% - amarillo claro - sano
+botella - 74.86% - rojo - moderado
+Liquido - 45.22% - rojo - moderado
+Liquido - 62.75% - amarillo intenso - moderado
+vaso - 45.26% - amarillo claro - sano
+botella - 65.21% - rojo - moderado
+Liquido - 46.42% - rojo - moderado
+Liquido - 95.59% - amarillo intenso - moderado
+vaso - 46.06% - amarillo claro - sano
+Liquido - 69.42% - rojo - moderado
+botella - 54.66% - azul - peligroso
+Liquido - 56.12% - amarillo intenso - moderado
+vaso - 89.86% - amarillo claro - sano
+botella - 82.27% - rojo - moderado
+Liquido - 66.2% - rojo - moderado
+Liquido - 84.61% - amarillo intenso - moderado
+botella - 79.95% - rojo - moderado
+vaso - 57.72% - amarillo claro - sano
+Liquido - 97.26% - rojo - moderado
+Liquido - 64.87% - amarillo intenso - moderado
+botella - 84.63% - rojo - moderado
+vaso - 92.36% - amarillo claro - sano
+Liquido - 76.29% - rojo - moderado
+Liquido - 51.87% - amarillo intenso - moderado
+Liquido - 85.22% - amarillo intenso - moderado
+botella - 75.32% - rojo - moderado
+Liquido - 49.57% - rojo - moderado
+vaso - 47.25% - amarillo claro - sano
+Liquido - 41.35% - amarillo intenso - moderado
+botella - 98.51% - rojo - moderado
+vaso - 82.21% - amarillo claro - sano
+Liquido - 97.43% - rojo - moderado
+vaso - 41.73% - amarillo claro - sano
+botella - 46.27% - rojo - moderado
+Liquido - 93.58% - amarillo intenso - moderado
+Liquido - 41.1% - rojo - moderado
+vaso - 90.43% - amarillo claro - sano
+botella - 41.36% - rojo - moderado
+Liquido - 94.58% - amarillo intenso - moderado
+Liquido - 82.47% - rojo - moderado
+vaso - 72.15% - amarillo claro - sano
+botella - 97.99% - rojo - moderado
+Liquido - 83.37% - amarillo intenso - moderado
+Liquido - 93.41% - rojo - moderado
+vaso - 51.64% - amarillo claro - sano
+botella - 66.9% - rojo - moderado
+Liquido - 76.97% - rojo - moderado
+Liquido - 85.85% - amarillo intenso - moderado
+vaso - 67.64% - amarillo claro - sano
+botella - 50.23% - rojo - moderado
+Liquido - 81.2% - amarillo intenso - moderado
+Liquido - 73.53% - rojo - moderado
+vaso - 47.9% - amarillo claro - sano
+Liquido - 51.31% - amarillo intenso - moderado
+botella - 84.12% - rojo - moderado
+Liquido - 68.8% - rojo - moderado
+vaso - 95.55% - amarillo claro - sano
+botella - 68.74% - rojo - moderado
+Liquido - 87.42% - amarillo intenso - moderado
+Liquido - 94.21% - rojo - moderado
+vaso - 48.72% - amarillo claro - sano
+botella - 96.12% - rojo - moderado
+Liquido - 96.61% - rojo - moderado
+Liquido - 66.6% - amarillo intenso - moderado
+botella - 93.92% - rojo - moderado
+vaso - 95.03% - amarillo claro - sano
+Liquido - 53.67% - amarillo intenso - moderado
+botella - 79.69% - rojo - moderado
+vaso - 90.84% - amarillo claro - sano
+Liquido - 62.07% - amarillo intenso - moderado
+botella - 49.72% - rojo - moderado
+vaso - 64.07% - amarillo claro - sano
+Liquido - 81.62% - amarillo intenso - moderado
+botella - 81.82% - rojo - moderado
+vaso - 54.3% - amarillo claro - sano
+botella - 53.78% - rojo - moderado
+vaso - 59.15% - amarillo claro - sano
+Liquido - 69.62% - amarillo intenso - moderado
+vaso - 96.04% - amarillo claro - sano
+botella - 53.25% - rojo - moderado
+Liquido - 48.32% - amarillo intenso - moderado
+vaso - 79.87% - amarillo claro - sano
+botella - 94.61% - rojo - moderado
+Liquido - 47.61% - amarillo intenso - moderado
+vaso - 87.42% - amarillo claro - sano
+botella - 69.56% - rojo - moderado
+Liquido - 64.26% - amarillo intenso - moderado
+Liquido - 58.63% - rojo - moderado
+botella - 98.87% - rojo - moderado
+vaso - 98.32% - amarillo claro - sano
+Liquido - 50.59% - amarillo intenso - moderado
+Liquido - 62.37% - rojo - moderado
+vaso - 99.78% - amarillo claro - sano
+botella - 85.44% - rojo - moderado
+Liquido - 76.05% - amarillo intenso - moderado
+Liquido - 83.04% - rojo - moderado
+vaso - 96.17% - amarillo claro - sano
+botella - 90.32% - rojo - moderado
+Liquido - 70.36% - amarillo intenso - moderado
+Liquido - 76.81% - rojo - moderado
+vaso - 72.23% - amarillo claro - sano
+botella - 71.16% - rojo - moderado
+Liquido - 83.69% - amarillo intenso - moderado
+Liquido - 65.9% - rojo - moderado
+vaso - 57.21% - amarillo claro - sano
+botella - 47.95% - rojo - moderado
+Liquido - 95.92% - rojo - moderado
+Liquido - 81.39% - amarillo intenso - moderado
+vaso - 94.98% - amarillo claro - sano
+botella - 79.53% - rojo - moderado
+Liquido - 61.58% - rojo - moderado
+Liquido - 67.52% - amarillo intenso - moderado
+vaso - 72.19% - amarillo claro - sano
+botella - 44.21% - rojo - moderado
+Liquido - 60.56% - amarillo intenso - moderado
+Liquido - 69.35% - rojo - moderado
+vaso - 53.54% - amarillo claro - sano
+botella - 96.25% - rojo - moderado
+Liquido - 52.48% - rojo - moderado
+Liquido - 76.21% - amarillo intenso - moderado
+vaso - 75.03% - amarillo claro - sano
+botella - 56.57% - rojo - moderado
+Liquido - 99.27% - rojo - moderado
+Liquido - 49.68% - amarillo intenso - moderado
+vaso - 44.34% - amarillo claro - sano
+botella - 58.02% - rojo - moderado
+Liquido - 60.56% - rojo - moderado
+vaso - 53.39% - amarillo claro - sano
+botella - 54.35% - rojo - moderado
+Liquido - 41.81% - rojo - moderado
+Liquido - 75.52% - amarillo intenso - moderado
+botella - 47.91% - rojo - moderado
+vaso - 78.11% - amarillo claro - sano
+Liquido - 78.27% - amarillo intenso - moderado
+Liquido - 45.2% - rojo - moderado
+vaso - 71.01% - amarillo claro - sano
+botella - 96.66% - rojo - moderado
+Liquido - 72.52% - amarillo intenso - moderado
+Liquido - 47.27% - rojo - moderado
+botella - 50.86% - rojo - moderado
+vaso - 77.84% - amarillo claro - sano
+Liquido - 69.5% - rojo - moderado
+Liquido - 65.1% - amarillo intenso - moderado
+vaso - 45.31% - amarillo claro - sano
+botella - 57.66% - rojo - moderado
+Liquido - 40.99% - amarillo intenso - moderado
+Liquido - 86.29% - rojo - moderado
+botella - 62.06% - rojo - moderado
+vaso - 83.74% - amarillo claro - sano
+Liquido - 48.51% - rojo - moderado
+Liquido - 77.89% - amarillo intenso - moderado
+botella - 62.6% - rojo - moderado
+vaso - 59.66% - amarillo claro - sano
+Liquido - 67.03% - rojo - moderado
+Liquido - 63.44% - amarillo intenso - moderado
+vaso - 95.71% - amarillo claro - sano
+botella - 62.7% - rojo - moderado
+Liquido - 92.63% - rojo - moderado
+Liquido - 67.65% - amarillo intenso - moderado
+vaso - 50.85% - amarillo claro - sano
+botella - 82.39% - rojo - moderado
+Liquido - 89.53% - amarillo intenso - moderado
+Liquido - 44.41% - rojo - moderado
+botella - 87.75% - rojo - moderado
+vaso - 49.69% - amarillo claro - sano
+Liquido - 53.38% - rojo - moderado
+Liquido - 81.94% - amarillo intenso - moderado
+botella - 98.37% - rojo - moderado
+vaso - 50.73% - amarillo claro - sano
+Liquido - 70.24% - amarillo intenso - moderado
+Liquido - 73.69% - rojo - moderado
+botella - 63.54% - rojo - moderado
+vaso - 42.99% - amarillo claro - sano
+Liquido - 93.0% - rojo - moderado
+Liquido - 99.92% - amarillo intenso - moderado
+botella - 70.18% - rojo - moderado
+vaso - 49.01% - amarillo claro - sano
+Liquido - 58.02% - rojo - moderado
+Liquido - 69.4% - amarillo intenso - moderado
+Liquido - 48.93% - rojo - moderado
+botella - 56.56% - azul - peligroso
+vaso - 82.82% - amarillo claro - sano
+botella - 77.19% - rojo - moderado
+Liquido - 74.45% - rojo - moderado
+Liquido - 68.24% - rojo - moderado
+botella - 82.8% - azul - peligroso
+Liquido - 89.37% - rojo - moderado
+botella - 63.06% - azul - peligroso
+vaso - 88.09% - amarillo claro - sano
+botella - 44.25% - rojo - moderado
+Liquido - 86.44% - rojo - moderado
+botella - 81.81% - rojo - moderado
+Liquido - 61.51% - rojo - moderado
+Liquido - 51.72% - amarillo intenso - moderado
+botella - 44.57% - rojo - moderado
+Liquido - 80.58% - rojo - moderado
+vaso - 45.15% - amarillo claro - sano
+Liquido - 78.76% - rojo - moderado
+botella - 92.88% - azul - peligroso
+Liquido - 72.42% - rojo - moderado
+botella - 59.33% - azul - peligroso
+Liquido - 49.77% - rojo - moderado
+botella - 63.7% - azul - peligroso
+Liquido - 98.69% - rojo - moderado
+Liquido - 92.19% - rojo - moderado
+botella - 60.77% - amarillo claro - sano
+Liquido - 93.72% - rojo - moderado
+botella - 45.71% - amarillo claro - sano
+Liquido - 41.28% - rojo - moderado
+Liquido - 91.07% - rojo - moderado
+botella - 68.2% - azul - peligroso
+botella - 69.79% - rojo - moderado
+botella - 69.37% - rojo - moderado
+Liquido - 50.92% - rojo - moderado
+botella - 79.33% - azul - peligroso
+Liquido - 88.73% - rojo - moderado
+Liquido - 91.08% - rojo - moderado
+botella - 85.76% - rojo - moderado
+Liquido - 90.67% - rojo - moderado
+botella - 57.59% - azul - peligroso
+Liquido - 84.34% - rojo - moderado
+botella - 59.31% - azul - peligroso
+Liquido - 49.89% - rojo - moderado
+botella - 54.8% - azul - peligroso
+Liquido - 64.84% - rojo - moderado
+botella - 58.15% - azul - peligroso
+Liquido - 91.52% - rojo - moderado
+botella - 45.27% - rojo - moderado
+botella - 95.93% - rojo - moderado
+Liquido - 58.82% - rojo - moderado
+botella - 49.04% - rojo - moderado
+Liquido - 94.2% - rojo - moderado
+botella - 60.08% - rojo - moderado
+Liquido - 58.34% - rojo - moderado
+Liquido - 68.64% - rojo - moderado
+botella - 45.45% - rojo - moderado
+Liquido - 64.4% - rojo - moderado
+botella - 50.75% - rojo - moderado
+Liquido - 50.43% - rojo - moderado
+botella - 65.69% - rojo - moderado
+Liquido - 60.77% - rojo - moderado
+botella - 40.51% - azul - peligroso
+botella - 50.0% - rojo - moderado
+Liquido - 91.5% - rojo - moderado
+botella - 71.65% - rojo - moderado
+botella - 54.91% - rojo - moderado
+Liquido - 51.12% - rojo - moderado
+botella - 87.31% - azul - peligroso
+Liquido - 84.43% - rojo - moderado
+botella - 88.29% - azul - peligroso
+Liquido - 98.85% - amarillo claro - sano
+Liquido - 90.74% - rojo - moderado
+botella - 46.09% - azul - peligroso
+Liquido - 68.6% - rojo - moderado
+botella - 75.36% - rojo - moderado
+Liquido - 67.8% - rojo - moderado
+Liquido - 55.85% - rojo - moderado
+botella - 94.86% - rojo - moderado
+Liquido - 50.07% - rojo - moderado
+botella - 90.27% - azul - peligroso
+botella - 45.58% - rojo - moderado
+Liquido - 64.91% - rojo - moderado
+Liquido - 73.2% - rojo - moderado
+botella - 47.17% - rojo - moderado
+Liquido - 89.94% - rojo - moderado
+botella - 47.66% - rojo - moderado
+Liquido - 78.74% - rojo - moderado
+botella - 54.79% - rojo - moderado
+Liquido - 64.05% - rojo - moderado
+botella - 93.01% - rojo - moderado
+botella - 87.31% - rojo - moderado
+Liquido - 64.34% - rojo - moderado
+botella - 70.98% - rojo - moderado
+Liquido - 62.32% - rojo - moderado
+botella - 66.38% - rojo - moderado
+Liquido - 62.95% - rojo - moderado
+Liquido - 51.22% - rojo - moderado
+botella - 92.19% - rojo - moderado
+Liquido - 96.36% - rojo - moderado
+botella - 69.51% - rojo - moderado
+Liquido - 41.9% - amarillo claro - sano
+botella - 82.91% - rojo - moderado
+Liquido - 88.79% - rojo - moderado
+Liquido - 56.06% - amarillo claro - sano
+botella - 64.01% - rojo - moderado
+Liquido - 96.54% - rojo - moderado
+Liquido - 71.39% - rojo - moderado
+botella - 69.77% - rojo - moderado
+Liquido - 47.07% - rojo - moderado
+Liquido - 78.71% - rojo - moderado
+botella - 51.95% - rojo - moderado
+Liquido - 65.02% - amarillo claro - sano
+Liquido - 61.29% - rojo - moderado
+botella - 74.79% - rojo - moderado
+Liquido - 46.82% - amarillo claro - sano
+botella - 94.34% - rojo - moderado
+Liquido - 40.79% - rojo - moderado
+botella - 73.62% - rojo - moderado
+Liquido - 41.6% - rojo - moderado
+botella - 84.59% - rojo - moderado
+Liquido - 48.32% - rojo - moderado
+botella - 56.14% - rojo - moderado
+Liquido - 96.27% - rojo - moderado
+botella - 76.94% - rojo - moderado
+Liquido - 71.99% - rojo - moderado
+Liquido - 95.68% - rojo - moderado
+botella - 71.99% - rojo - moderado
+botella - 42.08% - rojo - moderado
+Liquido - 93.49% - rojo - moderado
+Liquido - 64.73% - amarillo claro - sano
+botella - 99.97% - rojo - moderado
+Liquido - 70.37% - rojo - moderado
+botella - 80.71% - rojo - moderado
+Liquido - 70.46% - rojo - moderado
+botella - 88.02% - rojo - moderado
+Liquido - 98.84% - rojo - moderado
+botella - 73.07% - rojo - moderado
+Liquido - 94.39% - rojo - moderado
+botella - 55.23% - rojo - moderado
+Liquido - 51.34% - rojo - moderado
+botella - 43.41% - rojo - moderado
+Liquido - 95.17% - rojo - moderado
+Liquido - 82.72% - amarillo claro - sano
+botella - 85.65% - rojo - moderado
+Liquido - 74.02% - rojo - moderado
+Liquido - 73.5% - rojo - moderado
+botella - 41.01% - rojo - moderado
+Liquido - 99.09% - amarillo claro - sano
+botella - 98.64% - rojo - moderado
+Liquido - 42.43% - rojo - moderado
+Liquido - 56.8% - amarillo claro - sano
+Liquido - 99.75% - rojo - moderado
+botella - 52.02% - azul - peligroso
+Liquido - 66.04% - rojo - moderado
+botella - 89.17% - rojo - moderado
+Liquido - 55.5% - rojo - moderado
+botella - 82.74% - rojo - moderado
+Liquido - 94.43% - rojo - moderado
+botella - 59.36% - rojo - moderado
+botella - 43.82% - rojo - moderado
+Liquido - 80.66% - rojo - moderado
+Liquido - 67.95% - rojo - moderado
+botella - 65.82% - rojo - moderado
+Liquido - 95.84% - rojo - moderado
+botella - 83.11% - rojo - moderado
+Liquido - 67.9% - rojo - moderado
+botella - 63.76% - rojo - moderado
+Liquido - 86.58% - rojo - moderado
+botella - 49.32% - rojo - moderado
+Liquido - 93.03% - rojo - moderado
+botella - 52.29% - rojo - moderado
+botella - 69.11% - rojo - moderado
+Liquido - 40.28% - rojo - moderado
+botella - 79.4% - rojo - moderado
+Liquido - 95.74% - rojo - moderado
+Liquido - 76.5% - amarillo claro - sano
+botella - 83.43% - rojo - moderado
+Liquido - 45.13% - rojo - moderado
+Liquido - 58.48% - amarillo claro - sano
+botella - 80.38% - rojo - moderado
+Liquido - 54.68% - rojo - moderado
+botella - 73.54% - rojo - moderado
+Liquido - 86.04% - rojo - moderado
+botella - 82.67% - rojo - moderado
+Liquido - 73.24% - rojo - moderado
+botella - 89.4% - rojo - moderado
+Liquido - 80.24% - rojo - moderado
+botella - 76.23% - rojo - moderado
+Liquido - 62.79% - rojo - moderado
+botella - 72.89% - rojo - moderado
+Liquido - 42.11% - rojo - moderado
+botella - 51.2% - rojo - moderado
+Liquido - 95.51% - rojo - moderado
+botella - 64.13% - rojo - moderado
+Liquido - 78.07% - rojo - moderado
+botella - 74.83% - rojo - moderado
+Liquido - 45.59% - rojo - moderado
+botella - 47.87% - rojo - moderado
+Liquido - 82.45% - rojo - moderado
+botella - 46.37% - rojo - moderado
+Liquido - 65.5% - rojo - moderado
+botella - 77.15% - rojo - moderado
+Liquido - 52.34% - rojo - moderado
+botella - 71.05% - rojo - moderado
+Liquido - 65.36% - rojo - moderado
+botella - 99.56% - rojo - moderado
+Liquido - 46.32% - rojo - moderado
+botella - 53.27% - rojo - moderado
+Liquido - 61.68% - rojo - moderado
+botella - 84.36% - rojo - moderado
+Liquido - 60.87% - rojo - moderado
+botella - 60.38% - rojo - moderado
+Liquido - 88.22% - rojo - moderado
+botella - 71.82% - rojo - moderado
+Liquido - 83.58% - rojo - moderado
+botella - 55.78% - rojo - moderado
+Liquido - 52.85% - rojo - moderado
+botella - 49.24% - rojo - moderado
+Liquido - 76.56% - rojo - moderado
+botella - 94.95% - rojo - moderado
+Liquido - 86.98% - rojo - moderado
+botella - 75.1% - rojo - moderado
+Liquido - 55.75% - rojo - moderado
+botella - 95.02% - rojo - moderado
+Liquido - 59.11% - rojo - moderado
+botella - 85.12% - rojo - moderado
+Liquido - 98.41% - rojo - moderado
+botella - 50.14% - rojo - moderado
+Liquido - 78.97% - rojo - moderado
+botella - 81.32% - rojo - moderado
+Liquido - 86.89% - rojo - moderado
+Liquido - 92.33% - rojo - moderado
+botella - 67.91% - azul - peligroso
+Liquido - 81.36% - rojo - moderado
+botella - 81.88% - azul - peligroso
+botella - 59.69% - rojo - moderado
+Liquido - 79.19% - rojo - moderado
+botella - 87.91% - rojo - moderado
+Liquido - 74.71% - rojo - moderado
+botella - 48.74% - rojo - moderado
+Liquido - 67.01% - rojo - moderado
+botella - 44.94% - azul - peligroso
+botella - 69.62% - rojo - moderado
+Liquido - 62.65% - rojo - moderado
+botella - 73.44% - azul - peligroso
+Liquido - 66.26% - rojo - moderado
+botella - 76.12% - azul - peligroso
+vaso - 88.98% - amarillo claro - sano
+Liquido - 76.54% - rojo - moderado
+botella - 87.29% - azul - peligroso
+Liquido - 41.68% - rojo - moderado
+botella - 93.81% - rojo - moderado
+Liquido - 59.1% - rojo - moderado
+botella - 49.65% - azul - peligroso
+Liquido - 76.61% - rojo - moderado
+botella - 69.27% - rojo - moderado
+Liquido - 82.04% - rojo - moderado
+botella - 91.24% - rojo - moderado
+Liquido - 49.72% - rojo - moderado
+botella - 78.26% - rojo - moderado
+Liquido - 76.13% - rojo - moderado
+botella - 76.64% - rojo - moderado
+botella - 54.69% - rojo - moderado
+Liquido - 41.08% - rojo - moderado
+botella - 65.1% - rojo - moderado
+Liquido - 52.87% - rojo - moderado
+Liquido - 66.53% - amarillo claro - sano
+Liquido - 70.05% - amarillo claro - sano
+botella - 74.45% - rojo - moderado
+Liquido - 41.14% - rojo - moderado
+Liquido - 99.6% - amarillo intenso - moderado
+Liquido - 98.51% - amarillo claro - sano
+botella - 53.01% - rojo - moderado
+Liquido - 72.26% - rojo - moderado
+botella - 47.8% - rojo - moderado
+Liquido - 58.21% - rojo - moderado
+botella - 97.43% - rojo - moderado
+Liquido - 70.47% - rojo - moderado
+botella - 96.95% - rojo - moderado
+Liquido - 72.07% - rojo - moderado
+Liquido - 58.61% - amarillo intenso - moderado
+Liquido - 59.52% - rojo - moderado
+botella - 94.75% - rojo - moderado
+Liquido - 67.08% - negro - peligroso
+Liquido - 88.96% - amarillo intenso - moderado
+botella - 85.14% - rojo - moderado
+Liquido - 56.36% - rojo - moderado
+Liquido - 84.86% - negro - peligroso
+Liquido - 93.18% - amarillo claro - sano
+Liquido - 93.9% - amarillo intenso - moderado
+Liquido - 70.53% - rojo - moderado
+botella - 70.4% - rojo - moderado
+Liquido - 96.79% - negro - peligroso
+Liquido - 65.43% - amarillo intenso - moderado
+botella - 99.66% - rojo - moderado
+Liquido - 65.85% - rojo - moderado
+Liquido - 89.86% - amarillo claro - sano
+Liquido - 80.65% - negro - peligroso
+botella - 72.87% - rojo - moderado
+Liquido - 62.59% - rojo - moderado
+Liquido - 66.75% - negro - peligroso
+botella - 57.99% - rojo - moderado
+Liquido - 67.37% - rojo - moderado
+Liquido - 51.05% - negro - peligroso
+Liquido - 95.56% - amarillo claro - sano
+botella - 60.15% - rojo - moderado
+Liquido - 69.44% - rojo - moderado
+Liquido - 86.73% - negro - peligroso
+Liquido - 48.88% - amarillo claro - sano
+botella - 95.5% - rojo - moderado
+Liquido - 97.18% - rojo - moderado
+Liquido - 69.36% - negro - peligroso
+Liquido - 52.55% - amarillo claro - sano
+botella - 99.82% - rojo - moderado
+Liquido - 93.73% - negro - peligroso
+Liquido - 59.24% - rojo - moderado
+botella - 53.41% - rojo - moderado
+Liquido - 92.39% - negro - peligroso
+Liquido - 68.67% - rojo - moderado
+botella - 42.91% - rojo - moderado
+Liquido - 46.87% - negro - peligroso
+Liquido - 42.26% - rojo - moderado
+Liquido - 83.0% - amarillo intenso - moderado
+botella - 85.17% - rojo - moderado
+Liquido - 58.94% - negro - peligroso
+Liquido - 64.32% - rojo - moderado
+botella - 72.55% - rojo - moderado
+Liquido - 98.88% - negro - peligroso
+Liquido - 55.18% - rojo - moderado
+botella - 42.59% - rojo - moderado
+Liquido - 70.8% - negro - peligroso
+Liquido - 54.85% - rojo - moderado
+botella - 56.68% - rojo - moderado
+Liquido - 60.52% - negro - peligroso
+Liquido - 52.62% - rojo - moderado
+Liquido - 70.47% - rojo - moderado
+Liquido - 65.42% - negro - peligroso
+botella - 93.69% - rojo - moderado
+Liquido - 81.44% - rojo - moderado
+Liquido - 74.83% - negro - peligroso
+botella - 62.08% - rojo - moderado
+Liquido - 68.91% - rojo - moderado
+botella - 89.13% - rojo - moderado
+Liquido - 59.52% - negro - peligroso
+Liquido - 82.19% - rojo - moderado
+Liquido - 98.78% - amarillo intenso - moderado
+botella - 79.24% - rojo - moderado
+Liquido - 78.76% - rojo - moderado
+Liquido - 77.85% - negro - peligroso
+Liquido - 41.32% - rojo - moderado
+Liquido - 63.37% - amarillo intenso - moderado
+Liquido - 79.86% - rojo - moderado
+botella - 48.99% - rojo - moderado
+Liquido - 78.37% - negro - peligroso
+Liquido - 45.91% - rojo - moderado
+Liquido - 84.12% - rojo - moderado
+botella - 99.36% - rojo - moderado
+Liquido - 73.27% - negro - peligroso
+Liquido - 64.02% - rojo - moderado
+botella - 76.36% - rojo - moderado
+Liquido - 93.26% - rojo - moderado
+Liquido - 59.18% - negro - peligroso
+botella - 80.03% - rojo - moderado
+Liquido - 41.0% - rojo - moderado
+Liquido - 47.59% - negro - peligroso
+Liquido - 60.28% - amarillo intenso - moderado
+botella - 45.32% - rojo - moderado
+Liquido - 79.92% - rojo - moderado
+Liquido - 70.75% - negro - peligroso
+Liquido - 50.8% - amarillo intenso - moderado
+botella - 57.38% - rojo - moderado
+Liquido - 41.84% - rojo - moderado
+Liquido - 49.19% - negro - peligroso
+Liquido - 94.53% - amarillo intenso - moderado
+Liquido - 89.35% - rojo - moderado
+botella - 78.16% - rojo - moderado
+Liquido - 55.11% - negro - peligroso
+Liquido - 67.59% - amarillo intenso - moderado
+Liquido - 65.57% - rojo - moderado
+botella - 40.46% - rojo - moderado
+Liquido - 45.3% - negro - peligroso
+Liquido - 73.63% - amarillo intenso - moderado
+botella - 60.08% - rojo - moderado
+Liquido - 49.21% - rojo - moderado
+Liquido - 54.61% - negro - peligroso
+Liquido - 65.12% - amarillo intenso - moderado
+Liquido - 45.61% - rojo - moderado
+botella - 55.37% - rojo - moderado
+Liquido - 52.25% - rojo - moderado
+botella - 68.2% - rojo - moderado
+botella - 46.17% - amarillo claro - sano
+Liquido - 83.19% - rojo - moderado
+Liquido - 91.36% - negro - peligroso
+botella - 54.52% - amarillo claro - sano
+Liquido - 74.43% - rojo - moderado
+Liquido - 41.31% - rojo - moderado
+botella - 67.86% - amarillo claro - sano
+botella - 94.16% - amarillo claro - sano
+Liquido - 85.27% - rojo - moderado
+botella - 48.63% - amarillo claro - sano
+Liquido - 68.67% - rojo - moderado
+botella - 75.47% - amarillo claro - sano
+Liquido - 51.54% - rojo - moderado
+botella - 86.86% - rojo - moderado
+botella - 44.66% - azul - peligroso
+Liquido - 48.04% - rojo - moderado
+botella - 63.41% - rojo - moderado
+Liquido - 66.98% - amarillo claro - sano
+botella - 92.25% - rojo - moderado
+Liquido - 72.09% - rojo - moderado
+botella - 73.51% - rojo - moderado
+Liquido - 96.03% - rojo - moderado
+Liquido - 96.72% - amarillo claro - sano
+botella - 61.78% - rojo - moderado
+Liquido - 49.8% - rojo - moderado
+Liquido - 98.7% - rojo - moderado
+botella - 55.53% - rojo - moderado
+botella - 62.04% - rojo - moderado
+Liquido - 92.39% - rojo - moderado
+botella - 72.4% - rojo - moderado
+Liquido - 40.84% - rojo - moderado
+Liquido - 75.8% - amarillo claro - sano
+botella - 66.76% - rojo - moderado
+botella - 52.95% - rojo - moderado
+botella - 99.86% - rojo - moderado
+Liquido - 82.07% - amarillo intenso - moderado
+botella - 45.54% - rojo - moderado
+Liquido - 72.49% - amarillo intenso - moderado
+botella - 97.56% - rojo - moderado
+Liquido - 72.19% - amarillo intenso - moderado
+Liquido - 57.3% - amarillo intenso - moderado
+botella - 84.57% - rojo - moderado
+botella - 59.95% - amarillo claro - sano
+botella - 71.23% - amarillo claro - sano
+botella - 92.3% - amarillo claro - sano
+botella - 81.35% - amarillo claro - sano
+botella - 61.07% - amarillo claro - sano
+botella - 83.28% - amarillo claro - sano
+Liquido - 92.66% - amarillo intenso - moderado
+botella - 95.03% - amarillo claro - sano
+botella - 86.43% - amarillo claro - sano
+Liquido - 93.28% - amarillo intenso - moderado
+botella - 94.18% - amarillo claro - sano
+Liquido - 80.75% - amarillo intenso - moderado
+Liquido - 69.56% - amarillo intenso - moderado
+botella - 98.41% - amarillo claro - sano
+botella - 45.61% - amarillo claro - sano
+Liquido - 43.54% - amarillo intenso - moderado
+botella - 98.03% - amarillo claro - sano
+Liquido - 83.4% - amarillo intenso - moderado
+botella - 51.76% - amarillo claro - sano
+Liquido - 91.84% - amarillo intenso - moderado
+botella - 89.71% - amarillo claro - sano
+Liquido - 96.91% - amarillo intenso - moderado
+botella - 59.88% - amarillo claro - sano
+Liquido - 66.21% - amarillo intenso - moderado
+botella - 92.09% - amarillo claro - sano
+Liquido - 95.31% - amarillo intenso - moderado
+botella - 96.38% - amarillo claro - sano
+Liquido - 61.82% - amarillo intenso - moderado
+botella - 67.65% - amarillo claro - sano
+Liquido - 40.0% - amarillo intenso - moderado
+botella - 47.79% - amarillo claro - sano
+Liquido - 48.24% - negro - peligroso
+botella - 98.51% - amarillo claro - sano
+Liquido - 45.5% - amarillo intenso - moderado
+Liquido - 55.29% - negro - peligroso
+botella - 95.62% - amarillo claro - sano
+Liquido - 64.65% - negro - peligroso
+botella - 75.35% - amarillo claro - sano
+botella - 63.53% - amarillo claro - sano
+Liquido - 66.82% - negro - peligroso
+Liquido - 58.32% - amarillo intenso - moderado
+botella - 58.46% - amarillo claro - sano
+Liquido - 60.22% - rojo - moderado
+Liquido - 90.0% - rojo - moderado
+Liquido - 46.77% - rojo - moderado
+botella - 82.83% - amarillo claro - sano
+Liquido - 62.45% - rojo - moderado
+botella - 70.74% - amarillo claro - sano
+Liquido - 70.46% - rojo - moderado
+botella - 54.51% - amarillo claro - sano
+botella - 55.86% - amarillo claro - sano
+botella - 87.34% - amarillo claro - sano
+Liquido - 88.95% - amarillo intenso - moderado
+botella - 89.8% - amarillo claro - sano
+botella - 90.92% - amarillo claro - sano
+botella - 40.8% - rojo - moderado
+Liquido - 59.21% - amarillo intenso - moderado
+botella - 67.11% - amarillo claro - sano
+botella - 62.84% - amarillo claro - sano
+Liquido - 53.71% - rojo - moderado
+Liquido - 89.06% - amarillo intenso - moderado
+botella - 58.04% - amarillo claro - sano
+botella - 40.98% - amarillo claro - sano
+botella - 97.66% - amarillo claro - sano
+botella - 87.88% - amarillo claro - sano
+botella - 87.93% - amarillo claro - sano
+Liquido - 50.47% - amarillo intenso - moderado
+botella - 96.86% - amarillo claro - sano
+botella - 63.71% - amarillo claro - sano
+botella - 54.06% - amarillo claro - sano
+botella - 48.0% - amarillo claro - sano
+botella - 67.99% - amarillo claro - sano
+vaso - 86.91% - amarillo intenso - moderado
+Liquido - 87.15% - amarillo intenso - moderado
+botella - 44.36% - amarillo claro - sano
+botella - 75.34% - amarillo claro - sano
+vaso - 50.96% - amarillo intenso - moderado
+Liquido - 48.37% - amarillo intenso - moderado
+botella - 64.21% - amarillo claro - sano
+botella - 85.19% - amarillo claro - sano
+Liquido - 71.69% - amarillo intenso - moderado
+botella - 56.43% - amarillo claro - sano
+Liquido - 61.85% - amarillo intenso - moderado
+botella - 47.39% - amarillo claro - sano
+botella - 58.1% - amarillo claro - sano
+Liquido - 56.25% - amarillo intenso - moderado
+Liquido - 53.76% - amarillo claro - sano
+botella - 79.29% - amarillo claro - sano
+Liquido - 74.32% - amarillo intenso - moderado
+Liquido - 62.31% - amarillo claro - sano
+botella - 72.19% - amarillo claro - sano
+Liquido - 99.41% - amarillo intenso - moderado
+Liquido - 83.79% - amarillo claro - sano
+botella - 67.67% - amarillo claro - sano
+Liquido - 81.45% - amarillo intenso - moderado
+Liquido - 49.99% - amarillo claro - sano
+Liquido - 83.67% - amarillo intenso - moderado
+vaso - 69.18% - azul - peligroso
+Liquido - 59.8% - amarillo claro - sano
+vaso - 91.19% - azul - peligroso
+Liquido - 87.22% - amarillo intenso - moderado
+botella - 82.18% - amarillo claro - sano
+Liquido - 54.46% - amarillo claro - sano
+vaso - 84.05% - azul - peligroso
+botella - 97.56% - amarillo claro - sano
+Liquido - 97.42% - amarillo claro - sano
+vaso - 70.32% - azul - peligroso
+botella - 65.73% - amarillo claro - sano
+Liquido - 93.94% - amarillo claro - sano
+vaso - 55.37% - azul - peligroso
+botella - 48.93% - amarillo claro - sano
+Liquido - 46.0% - amarillo intenso - moderado
+Liquido - 47.07% - amarillo claro - sano
+Liquido - 73.02% - amarillo intenso - moderado
+Liquido - 62.95% - amarillo claro - sano
+Liquido - 81.73% - amarillo intenso - moderado
+Liquido - 41.83% - amarillo intenso - moderado
+Liquido - 75.79% - amarillo claro - sano
+Liquido - 50.9% - amarillo claro - sano
+Liquido - 76.28% - amarillo claro - sano
+Liquido - 65.26% - amarillo intenso - moderado
+vaso - 49.73% - azul - peligroso
+vaso - 54.51% - azul - peligroso
+Liquido - 61.5% - amarillo intenso - moderado
+Liquido - 77.17% - rojo - moderado
+Liquido - 62.84% - rojo - moderado
+Liquido - 63.43% - amarillo intenso - moderado
+Liquido - 88.86% - rojo - moderado
+Liquido - 81.44% - amarillo intenso - moderado
+Liquido - 98.73% - rojo - moderado
+Liquido - 71.2% - amarillo intenso - moderado
+vaso - 52.14% - azul - peligroso
+Liquido - 58.26% - rojo - moderado
+Liquido - 61.17% - amarillo intenso - moderado
+vaso - 79.72% - azul - peligroso
+Liquido - 86.93% - rojo - moderado
+vaso - 41.44% - azul - peligroso
+Liquido - 41.37% - amarillo intenso - moderado
+Liquido - 83.22% - rojo - moderado
+Liquido - 68.57% - amarillo intenso - moderado
+vaso - 74.3% - azul - peligroso
+Liquido - 57.99% - rojo - moderado
+Liquido - 54.24% - amarillo intenso - moderado
+Liquido - 95.62% - rojo - moderado
+Liquido - 53.63% - amarillo intenso - moderado
+vaso - 87.26% - azul - peligroso
+Liquido - 90.65% - rojo - moderado
+Liquido - 82.64% - rojo - moderado
+Liquido - 67.29% - amarillo claro - sano
+Liquido - 98.7% - rojo - moderado
+Liquido - 69.82% - rojo - moderado
+Liquido - 95.98% - rojo - moderado
+vaso - 81.62% - amarillo intenso - moderado
+Liquido - 86.39% - amarillo intenso - moderado
+Liquido - 84.37% - rojo - moderado
+vaso - 66.68% - amarillo intenso - moderado
+Liquido - 95.78% - amarillo intenso - moderado
+Liquido - 89.18% - rojo - moderado
+Liquido - 96.25% - amarillo intenso - moderado
+vaso - 79.95% - azul - peligroso
+vaso - 57.11% - azul - peligroso
+Liquido - 48.15% - rojo - moderado
+Liquido - 41.42% - amarillo intenso - moderado
+vaso - 47.11% - amarillo intenso - moderado
+Liquido - 49.04% - rojo - moderado
+Liquido - 71.21% - amarillo intenso - moderado
+vaso - 41.86% - amarillo intenso - moderado
+Liquido - 62.68% - rojo - moderado
+vaso - 94.68% - azul - peligroso
+Liquido - 68.81% - amarillo intenso - moderado
+vaso - 72.67% - amarillo intenso - moderado
+Liquido - 95.1% - rojo - moderado
+Liquido - 77.3% - rojo - moderado
+vaso - 47.09% - azul - peligroso
+Liquido - 76.21% - amarillo intenso - moderado
+vaso - 89.99% - amarillo intenso - moderado
+Liquido - 70.2% - rojo - moderado
+Liquido - 40.26% - rojo - moderado
+vaso - 76.98% - amarillo intenso - moderado
+Liquido - 71.46% - rojo - moderado
+Liquido - 50.53% - amarillo intenso - moderado
+Liquido - 64.73% - rojo - moderado
+vaso - 47.0% - azul - peligroso
+Liquido - 86.41% - amarillo intenso - moderado
+vaso - 91.41% - azul - peligroso
+Liquido - 96.56% - rojo - moderado
+Liquido - 90.33% - amarillo intenso - moderado
+vaso - 40.86% - azul - peligroso
+Liquido - 73.72% - rojo - moderado
+Liquido - 63.23% - amarillo intenso - moderado
+Liquido - 45.28% - rojo - moderado
+Liquido - 99.81% - amarillo intenso - moderado
+Liquido - 71.76% - rojo - moderado
+Liquido - 86.53% - amarillo intenso - moderado
+vaso - 51.42% - azul - peligroso
+Liquido - 71.48% - rojo - moderado
+Liquido - 41.73% - rojo - moderado
+Liquido - 82.4% - amarillo claro - sano
+Liquido - 70.91% - amarillo claro - sano
+botella - 69.94% - amarillo claro - sano
+Liquido - 71.68% - amarillo claro - sano
+Liquido - 51.87% - amarillo intenso - moderado
+Liquido - 78.37% - amarillo claro - sano
+Liquido - 74.68% - amarillo intenso - moderado
+vaso - 86.23% - azul - peligroso
+Liquido - 72.01% - amarillo intenso - moderado
+Liquido - 50.43% - amarillo claro - sano
+vaso - 49.67% - azul - peligroso
+Liquido - 72.39% - amarillo claro - sano
+Liquido - 89.1% - amarillo intenso - moderado
+vaso - 48.32% - azul - peligroso
+Liquido - 49.72% - amarillo claro - sano
+vaso - 79.98% - azul - peligroso
+Liquido - 82.11% - amarillo intenso - moderado
+Liquido - 87.91% - amarillo claro - sano
+Liquido - 45.87% - amarillo intenso - moderado
+vaso - 46.46% - azul - peligroso
+Liquido - 69.76% - amarillo claro - sano
+Liquido - 80.78% - amarillo intenso - moderado
+vaso - 87.3% - azul - peligroso
+Liquido - 79.68% - amarillo claro - sano
+vaso - 41.3% - azul - peligroso
+Liquido - 65.6% - amarillo intenso - moderado
+Liquido - 70.45% - rojo - moderado
+vaso - 71.07% - azul - peligroso
+Liquido - 56.52% - amarillo claro - sano
+vaso - 59.53% - azul - peligroso
+botella - 80.61% - amarillo claro - sano
+Liquido - 70.69% - amarillo claro - sano
+vaso - 79.02% - azul - peligroso
+botella - 95.86% - amarillo claro - sano
+Liquido - 66.46% - amarillo claro - sano
+Liquido - 55.34% - amarillo claro - sano
+Liquido - 49.14% - rojo - moderado
+Liquido - 43.16% - amarillo claro - sano
+vaso - 95.34% - amarillo intenso - moderado
+Liquido - 56.57% - rojo - moderado
+vaso - 89.32% - amarillo intenso - moderado
+botella - 43.17% - amarillo claro - sano
+Liquido - 94.19% - amarillo claro - sano
+botella - 97.19% - amarillo claro - sano
+Liquido - 52.89% - rojo - moderado
+Liquido - 76.78% - rojo - moderado
+Liquido - 95.17% - rojo - moderado
+Liquido - 53.8% - rojo - moderado
+Liquido - 49.82% - rojo - moderado
+Liquido - 46.68% - negro - peligroso
+Liquido - 60.34% - rojo - moderado
+Liquido - 82.38% - rojo - moderado
+Liquido - 56.29% - rojo - moderado
+copa - 51.36% - azul - peligroso
+Liquido - 65.77% - azul - peligroso
+copa - 49.0% - rojo - moderado
+Liquido - 81.27% - rojo - moderado
+Liquido - 48.0% - rojo - moderado
+Liquido - 69.91% - rojo - moderado
+Liquido - 41.45% - rojo - moderado
+Liquido - 55.38% - rojo - moderado
+Liquido - 83.82% - rojo - moderado
+Liquido - 76.4% - rojo - moderado
+Liquido - 76.19% - rojo - moderado
+Liquido - 75.67% - rojo - moderado
+Liquido - 47.19% - rojo - moderado
+Liquido - 66.44% - rojo - moderado
+Liquido - 99.08% - rojo - moderado
+Liquido - 76.87% - negro - peligroso
+Liquido - 73.39% - rojo - moderado
+Liquido - 59.82% - rojo - moderado
+Liquido - 95.34% - verde brillante - peligroso
+Liquido - 65.26% - rojo - moderado
+Liquido - 55.63% - amarillo intenso - moderado
+Liquido - 85.09% - amarillo claro - sano
+Liquido - 47.26% - amarillo claro - sano
+botella - 68.99% - amarillo claro - sano
+Liquido - 98.77% - rojo - moderado
+Liquido - 84.22% - amarillo intenso - moderado
+Liquido - 48.42% - negro - peligroso
+vaso - 77.35% - azul - peligroso
+Liquido - 59.33% - negro - peligroso
+Liquido - 48.14% - rojo - moderado
+Liquido - 41.11% - amarillo claro - sano
+vaso - 47.9% - amarillo intenso - moderado
+Liquido - 87.41% - amarillo intenso - moderado
+Liquido - 89.54% - rojo - moderado
+Liquido - 84.55% - negro - peligroso
+Liquido - 59.02% - amarillo intenso - moderado
+vaso - 91.88% - azul - peligroso
+vaso - 59.63% - azul - peligroso
+Liquido - 75.05% - rojo - moderado
+Liquido - 93.56% - negro - peligroso
+Liquido - 64.25% - amarillo intenso - moderado
+vaso - 72.15% - azul - peligroso
+botella - 42.56% - amarillo claro - sano
+vaso - 66.56% - azul - peligroso
+Liquido - 45.33% - rojo - moderado
+Liquido - 67.12% - negro - peligroso
+Liquido - 45.63% - amarillo intenso - moderado
+Liquido - 80.79% - rojo - moderado
+Liquido - 54.79% - negro - peligroso
+Liquido - 70.87% - verde brillante - peligroso
+botella - 86.88% - amarillo claro - sano
+vaso - 43.94% - azul - peligroso
+Liquido - 51.39% - rojo - moderado
+Liquido - 75.3% - amarillo intenso - moderado
+Liquido - 78.06% - negro - peligroso
+vaso - 69.31% - azul - peligroso
+Liquido - 77.55% - rojo - moderado
+Liquido - 58.98% - amarillo intenso - moderado
+Liquido - 84.48% - negro - peligroso
+vaso - 57.2% - azul - peligroso
+Liquido - 43.31% - rojo - moderado
+Liquido - 54.68% - negro - peligroso
+vaso - 73.02% - amarillo intenso - moderado
+Liquido - 87.44% - amarillo intenso - moderado
+Liquido - 79.0% - rojo - moderado
+Liquido - 45.79% - amarillo intenso - moderado
+vaso - 54.37% - azul - peligroso
+Liquido - 90.61% - negro - peligroso
+Liquido - 65.27% - rojo - moderado
+Liquido - 70.64% - amarillo claro - sano
+Liquido - 74.84% - amarillo intenso - moderado
+Liquido - 58.66% - rojo - moderado
+Liquido - 83.12% - azul - peligroso
+Liquido - 87.35% - amarillo intenso - moderado
+vaso - 41.48% - azul - peligroso
+Liquido - 94.59% - amarillo claro - sano
+Liquido - 98.55% - rojo - moderado
+Liquido - 98.71% - amarillo claro - sano
+Liquido - 71.74% - amarillo claro - sano
+Liquido - 62.32% - rojo - moderado
+Liquido - 77.15% - amarillo claro - sano
+Liquido - 77.07% - rojo - moderado
+Liquido - 63.15% - amarillo claro - sano
+Liquido - 78.73% - rojo - moderado
+Liquido - 40.96% - amarillo claro - sano
+Liquido - 64.9% - amarillo intenso - moderado
+Liquido - 46.28% - amarillo intenso - moderado
+vaso - 94.07% - azul - peligroso
+Liquido - 63.05% - rojo - moderado
+Liquido - 50.87% - amarillo claro - sano
+Liquido - 90.26% - amarillo intenso - moderado
+vaso - 52.04% - azul - peligroso
+Liquido - 64.88% - rojo - moderado
+Liquido - 59.18% - amarillo claro - sano
+Liquido - 52.09% - amarillo intenso - moderado
+vaso - 67.9% - azul - peligroso
+botella - 84.28% - amarillo claro - sano
+Liquido - 85.54% - rojo - moderado
+Liquido - 71.35% - amarillo claro - sano
+Liquido - 49.55% - amarillo intenso - moderado
+botella - 93.24% - amarillo claro - sano
+Liquido - 73.77% - amarillo intenso - moderado
+vaso - 44.0% - azul - peligroso
+Liquido - 89.76% - rojo - moderado
+Liquido - 86.9% - amarillo claro - sano
+Liquido - 54.97% - amarillo intenso - moderado
+botella - 65.14% - amarillo claro - sano
+Liquido - 57.56% - amarillo intenso - moderado
+vaso - 68.33% - azul - peligroso
+Liquido - 77.32% - rojo - moderado
+Liquido - 64.31% - amarillo claro - sano
+Liquido - 51.23% - amarillo intenso - moderado
+Liquido - 78.73% - amarillo intenso - moderado
+botella - 73.4% - amarillo claro - sano
+Liquido - 87.72% - rojo - moderado
+botella - 80.78% - rojo - moderado
+Liquido - 63.61% - morado - moderado
+Liquido - 73.43% - amarillo intenso - moderado
+Liquido - 75.18% - rojo - moderado
+Liquido - 57.34% - morado - moderado
+Liquido - 86.76% - rojo - moderado
+Liquido - 92.71% - morado - moderado
+copa - 52.88% - amarillo intenso - moderado
+vaso - 91.97% - amarillo intenso - moderado
+botella - 83.72% - amarillo claro - sano
+vaso - 62.58% - azul - peligroso
+Liquido - 57.72% - rojo - moderado
+Liquido - 64.55% - morado - moderado
+copa - 52.05% - amarillo intenso - moderado
+vaso - 55.58% - azul - peligroso
+Liquido - 47.71% - amarillo intenso - moderado
+vaso - 53.75% - amarillo intenso - moderado
+botella - 78.1% - amarillo claro - sano
+Liquido - 73.42% - amarillo intenso - moderado
+Liquido - 52.28% - rojo - moderado
+Liquido - 72.87% - morado - moderado
+vaso - 66.24% - amarillo intenso - moderado
+vaso - 74.18% - azul - peligroso
+Liquido - 95.77% - rojo - moderado
+Liquido - 59.46% - morado - moderado
+vaso - 76.9% - amarillo intenso - moderado
+vaso - 62.34% - azul - peligroso
+Liquido - 97.46% - rojo - moderado
+Liquido - 94.47% - amarillo claro - sano
+Liquido - 45.45% - amarillo intenso - moderado
+vaso - 84.98% - azul - peligroso
+copa - 75.11% - amarillo intenso - moderado
+vaso - 95.55% - amarillo intenso - moderado
+Liquido - 90.66% - amarillo intenso - moderado
+botella - 68.66% - amarillo claro - sano
+Liquido - 53.16% - rojo - moderado
+Liquido - 54.72% - morado - moderado
+Liquido - 70.39% - amarillo intenso - moderado
+vaso - 67.15% - azul - peligroso
+botella - 69.69% - amarillo claro - sano
+copa - 44.31% - amarillo intenso - moderado
+Liquido - 68.04% - rojo - moderado
+Liquido - 75.66% - morado - moderado
+vaso - 72.19% - azul - peligroso
+Liquido - 91.46% - amarillo intenso - moderado
+copa - 97.54% - amarillo intenso - moderado
+Liquido - 81.7% - amarillo intenso - moderado
+botella - 98.11% - amarillo claro - sano
+Liquido - 43.44% - rojo - moderado
+Liquido - 64.59% - morado - moderado
+Liquido - 90.82% - amarillo intenso - moderado
+vaso - 80.7% - azul - peligroso
+Liquido - 82.71% - amarillo intenso - moderado
+botella - 50.23% - amarillo claro - sano
+Liquido - 75.69% - rojo - moderado
+Liquido - 82.98% - morado - moderado
+vaso - 85.34% - azul - peligroso
+Liquido - 68.9% - amarillo intenso - moderado
+Liquido - 90.55% - amarillo intenso - moderado
+Liquido - 45.0% - rojo - moderado
+Liquido - 82.83% - amarillo claro - sano
+vaso - 91.52% - azul - peligroso
+Liquido - 83.93% - amarillo intenso - moderado
+Liquido - 73.87% - amarillo intenso - moderado
+botella - 82.03% - rojo - moderado
+Liquido - 96.09% - rojo - moderado
+Liquido - 59.32% - amarillo claro - sano
+vaso - 51.19% - azul - peligroso
+Liquido - 51.45% - amarillo intenso - moderado
+Liquido - 88.29% - amarillo intenso - moderado
+botella - 66.56% - rojo - moderado
+Liquido - 95.71% - rojo - moderado
+Liquido - 75.4% - amarillo claro - sano
+Liquido - 67.66% - amarillo intenso - moderado
+vaso - 60.17% - azul - peligroso
+Liquido - 61.33% - amarillo intenso - moderado
+Liquido - 72.53% - rojo - moderado
+Liquido - 48.73% - amarillo claro - sano
+vaso - 71.99% - azul - peligroso
+Liquido - 80.88% - amarillo intenso - moderado
+Liquido - 82.87% - amarillo intenso - moderado
+botella - 74.16% - rojo - moderado
+Liquido - 91.82% - rojo - moderado
+Liquido - 54.62% - amarillo claro - sano
+vaso - 57.68% - azul - peligroso
+Liquido - 63.23% - amarillo intenso - moderado
+botella - 94.51% - amarillo claro - sano
+Liquido - 52.18% - amarillo intenso - moderado
+Liquido - 44.28% - rojo - moderado
+Liquido - 83.89% - amarillo claro - sano
+vaso - 70.24% - azul - peligroso
+Liquido - 42.13% - amarillo intenso - moderado
+Liquido - 75.12% - amarillo intenso - moderado
+Liquido - 57.39% - rojo - moderado
+Liquido - 60.93% - amarillo claro - sano
+vaso - 75.5% - azul - peligroso
+Liquido - 94.59% - amarillo intenso - moderado
+Liquido - 84.42% - amarillo intenso - moderado
+Liquido - 90.28% - rojo - moderado
+Liquido - 66.29% - amarillo claro - sano
+vaso - 67.07% - azul - peligroso
+Liquido - 88.56% - amarillo intenso - moderado
+botella - 98.06% - amarillo claro - sano
+Liquido - 75.68% - rojo - moderado
+Liquido - 84.56% - amarillo claro - sano
+vaso - 50.26% - azul - peligroso
+Liquido - 51.36% - amarillo intenso - moderado
+Liquido - 52.92% - amarillo intenso - moderado
+botella - 67.95% - rojo - moderado
+Liquido - 58.67% - rojo - moderado
+Liquido - 79.4% - amarillo claro - sano
+vaso - 58.75% - azul - peligroso
+Liquido - 70.9% - amarillo intenso - moderado
+Liquido - 83.79% - amarillo intenso - moderado
+botella - 40.32% - rojo - moderado
+Liquido - 97.72% - rojo - moderado
+Liquido - 93.44% - verde - sano
+vaso - 72.26% - azul - peligroso
+Liquido - 70.24% - amarillo intenso - moderado
+Liquido - 57.42% - amarillo intenso - moderado
+botella - 47.01% - rojo - moderado
+Liquido - 61.1% - rojo - moderado
+Liquido - 77.96% - amarillo claro - sano
+vaso - 89.92% - azul - peligroso
+Liquido - 53.18% - amarillo intenso - moderado
+botella - 44.34% - amarillo claro - sano
+Liquido - 82.88% - amarillo intenso - moderado
+Liquido - 47.69% - rojo - moderado
+Liquido - 75.3% - amarillo claro - sano
+Liquido - 68.55% - amarillo intenso - moderado
+vaso - 61.48% - azul - peligroso
+Liquido - 40.78% - amarillo intenso - moderado
+botella - 59.49% - amarillo claro - sano
+Liquido - 95.46% - rojo - moderado
+Liquido - 62.82% - amarillo claro - sano
+vaso - 43.82% - azul - peligroso
+Liquido - 66.89% - amarillo intenso - moderado
+Liquido - 76.11% - amarillo intenso - moderado
+botella - 53.31% - amarillo claro - sano
+Liquido - 82.11% - rojo - moderado
+Liquido - 65.13% - amarillo claro - sano
+vaso - 71.64% - azul - peligroso
+Liquido - 52.59% - amarillo intenso - moderado
+Liquido - 59.11% - amarillo intenso - moderado
+copa - 76.21% - amarillo intenso - moderado
+botella - 48.83% - amarillo claro - sano
+Liquido - 60.49% - rojo - moderado
+Liquido - 81.81% - amarillo claro - sano
+vaso - 97.33% - azul - peligroso
+Liquido - 64.46% - amarillo intenso - moderado
+Liquido - 82.25% - amarillo intenso - moderado
+botella - 41.23% - rojo - moderado
+copa - 51.56% - azul - peligroso
+Liquido - 92.29% - rojo - moderado
+Liquido - 98.92% - amarillo claro - sano
+vaso - 90.63% - azul - peligroso
+Liquido - 89.13% - amarillo intenso - moderado
+Liquido - 87.72% - amarillo intenso - moderado
+botella - 63.99% - rojo - moderado
+copa - 45.01% - azul - peligroso
+Liquido - 44.57% - rojo - moderado
+Liquido - 93.69% - amarillo claro - sano
+Liquido - 42.93% - amarillo intenso - moderado
+vaso - 41.17% - azul - peligroso
+Liquido - 81.25% - amarillo intenso - moderado
+copa - 94.31% - amarillo intenso - moderado
+botella - 78.98% - rojo - moderado
+Liquido - 85.22% - rojo - moderado
+Liquido - 58.98% - amarillo claro - sano
+Liquido - 73.0% - amarillo intenso - moderado
+vaso - 79.45% - azul - peligroso
+Liquido - 42.03% - amarillo intenso - moderado
+copa - 56.07% - amarillo intenso - moderado
+botella - 79.98% - rojo - moderado
+Liquido - 86.41% - rojo - moderado
+Liquido - 81.53% - amarillo claro - sano
+copa - 85.66% - amarillo intenso - moderado
+vaso - 77.44% - azul - peligroso
+Liquido - 57.82% - amarillo intenso - moderado
+Liquido - 64.71% - amarillo intenso - moderado
+botella - 69.41% - amarillo claro - sano
+vaso - 78.6% - amarillo intenso - moderado
+Liquido - 62.04% - rojo - moderado
+Liquido - 43.01% - amarillo claro - sano
+vaso - 45.43% - azul - peligroso
+Liquido - 64.73% - amarillo intenso - moderado
+copa - 93.95% - amarillo intenso - moderado
+vaso - 81.97% - amarillo intenso - moderado
+botella - 48.41% - amarillo claro - sano
+Liquido - 52.28% - amarillo intenso - moderado
+Liquido - 42.64% - rojo - moderado
+Liquido - 57.18% - amarillo claro - sano
+vaso - 67.32% - azul - peligroso
+Liquido - 47.95% - amarillo intenso - moderado
+copa - 54.73% - amarillo intenso - moderado
+botella - 76.53% - amarillo claro - sano
+Liquido - 99.75% - amarillo intenso - moderado
+vaso - 68.47% - amarillo intenso - moderado
+Liquido - 40.45% - rojo - moderado
+Liquido - 48.38% - amarillo claro - sano
+Liquido - 43.03% - amarillo intenso - moderado
+vaso - 88.98% - azul - peligroso
+copa - 88.0% - amarillo intenso - moderado
+Liquido - 66.65% - amarillo intenso - moderado
+botella - 64.15% - amarillo claro - sano
+Liquido - 91.22% - rojo - moderado
+Liquido - 85.84% - amarillo claro - sano
+vaso - 70.8% - azul - peligroso
+Liquido - 71.6% - amarillo intenso - moderado
+copa - 87.62% - amarillo claro - sano
+Liquido - 40.22% - amarillo intenso - moderado
+botella - 83.11% - amarillo claro - sano
+Liquido - 69.4% - rojo - moderado
+Liquido - 94.23% - amarillo claro - sano
+Liquido - 84.84% - amarillo intenso - moderado
+vaso - 50.0% - azul - peligroso
+copa - 93.8% - amarillo intenso - moderado
+Liquido - 58.02% - amarillo intenso - moderado
+botella - 70.44% - amarillo claro - sano
+Liquido - 60.35% - rojo - moderado
+Liquido - 61.87% - amarillo claro - sano
+Liquido - 93.42% - amarillo intenso - moderado
+vaso - 61.09% - azul - peligroso
+copa - 48.74% - amarillo claro - sano
+Liquido - 81.84% - amarillo intenso - moderado
+botella - 52.17% - amarillo claro - sano
+Liquido - 81.47% - rojo - moderado
+Liquido - 49.18% - amarillo claro - sano
+Liquido - 63.97% - amarillo intenso - moderado
+vaso - 77.11% - azul - peligroso
+copa - 65.97% - amarillo intenso - moderado
+Liquido - 44.27% - amarillo intenso - moderado
+botella - 49.79% - amarillo claro - sano
+Liquido - 98.28% - rojo - moderado
+Liquido - 79.61% - amarillo claro - sano
+Liquido - 93.07% - amarillo intenso - moderado
+vaso - 71.35% - azul - peligroso
+copa - 73.91% - amarillo intenso - moderado
+botella - 60.33% - amarillo claro - sano
+Liquido - 65.03% - amarillo intenso - moderado
+Liquido - 91.81% - rojo - moderado
+Liquido - 40.95% - morado - moderado
+Liquido - 67.66% - amarillo intenso - moderado
+vaso - 49.94% - azul - peligroso
+copa - 66.49% - amarillo claro - sano
+Liquido - 85.15% - amarillo intenso - moderado
+botella - 69.49% - amarillo claro - sano
+Liquido - 94.79% - rojo - moderado
+Liquido - 83.54% - morado - moderado
+Liquido - 50.68% - amarillo intenso - moderado
+vaso - 93.48% - azul - peligroso
+copa - 42.11% - amarillo claro - sano
+Liquido - 98.5% - amarillo intenso - moderado
+botella - 45.68% - amarillo claro - sano
+Liquido - 95.47% - rojo - moderado
+Liquido - 75.62% - amarillo claro - sano
+Liquido - 86.42% - amarillo intenso - moderado
+vaso - 78.23% - azul - peligroso
+Liquido - 44.94% - amarillo intenso - moderado
+copa - 64.85% - azul - peligroso
+botella - 59.33% - amarillo claro - sano
+Liquido - 95.98% - rojo - moderado
+Liquido - 43.73% - amarillo claro - sano
+Liquido - 43.12% - amarillo intenso - moderado
+Liquido - 74.53% - amarillo intenso - moderado
+vaso - 91.68% - azul - peligroso
+Liquido - 49.71% - rojo - moderado
+Liquido - 92.32% - amarillo claro - sano
+Liquido - 90.88% - amarillo intenso - moderado
+vaso - 78.3% - azul - peligroso
+Liquido - 56.8% - amarillo intenso - moderado
+Liquido - 89.76% - rojo - moderado
+Liquido - 86.25% - amarillo claro - sano
+Liquido - 92.19% - amarillo intenso - moderado
+vaso - 62.65% - azul - peligroso
+Liquido - 57.23% - amarillo intenso - moderado
+botella - 46.24% - rojo - moderado
+Liquido - 45.17% - rojo - moderado
+Liquido - 56.63% - amarillo claro - sano
+Liquido - 92.63% - amarillo intenso - moderado
+vaso - 56.38% - azul - peligroso
+Liquido - 94.06% - amarillo intenso - moderado
+botella - 48.26% - amarillo claro - sano
+Liquido - 53.88% - rojo - moderado
+Liquido - 72.37% - morado - moderado
+Liquido - 89.1% - amarillo intenso - moderado
+vaso - 57.12% - azul - peligroso
+Liquido - 66.44% - amarillo intenso - moderado
+copa - 98.19% - azul - peligroso
+botella - 72.84% - rojo - moderado
+Liquido - 81.32% - rojo - moderado
+Liquido - 72.35% - amarillo claro - sano
+vaso - 71.99% - azul - peligroso
+Liquido - 92.23% - amarillo intenso - moderado
+Liquido - 79.25% - amarillo intenso - moderado
+copa - 82.21% - amarillo claro - sano
+botella - 97.78% - amarillo claro - sano
+Liquido - 45.27% - rojo - moderado
+Liquido - 53.88% - amarillo claro - sano
+Liquido - 41.59% - amarillo intenso - moderado
+vaso - 42.71% - azul - peligroso
+Liquido - 46.03% - amarillo intenso - moderado
+copa - 85.16% - amarillo claro - sano
+botella - 60.28% - rojo - moderado
+Liquido - 67.16% - rojo - moderado
+Liquido - 72.19% - amarillo claro - sano
+vaso - 90.76% - azul - peligroso
+Liquido - 72.7% - amarillo intenso - moderado
+Liquido - 96.85% - amarillo intenso - moderado
+botella - 63.09% - amarillo claro - sano
+Liquido - 63.83% - rojo - moderado
+Liquido - 89.33% - amarillo claro - sano
+vaso - 53.69% - azul - peligroso
+Liquido - 95.67% - amarillo intenso - moderado
+Liquido - 42.81% - amarillo intenso - moderado
+vaso - 42.14% - amarillo intenso - moderado
+botella - 78.83% - amarillo claro - sano
+Liquido - 82.76% - rojo - moderado
+Liquido - 47.46% - amarillo claro - sano
+Liquido - 90.55% - amarillo intenso - moderado
+vaso - 40.68% - azul - peligroso
+Liquido - 56.71% - amarillo intenso - moderado
+botella - 85.2% - amarillo claro - sano
+Liquido - 79.82% - rojo - moderado
+Liquido - 91.81% - amarillo claro - sano
+Liquido - 48.26% - amarillo intenso - moderado
+vaso - 56.46% - azul - peligroso
+Liquido - 80.05% - amarillo intenso - moderado
+botella - 62.46% - amarillo claro - sano
+Liquido - 92.92% - rojo - moderado
+Liquido - 88.66% - amarillo claro - sano
+Liquido - 92.54% - amarillo intenso - moderado
+vaso - 85.02% - azul - peligroso
+Liquido - 98.0% - amarillo intenso - moderado
+vaso - 47.54% - amarillo intenso - moderado
+botella - 89.07% - amarillo claro - sano
+Liquido - 42.23% - rojo - moderado
+Liquido - 46.08% - amarillo claro - sano
+Liquido - 98.47% - amarillo intenso - moderado
+vaso - 60.38% - azul - peligroso
+Liquido - 85.54% - amarillo intenso - moderado
+botella - 70.35% - amarillo claro - sano
+Liquido - 74.16% - rojo - moderado
+Liquido - 79.26% - amarillo claro - sano
+Liquido - 53.17% - amarillo intenso - moderado
+vaso - 87.81% - azul - peligroso
+Liquido - 96.98% - amarillo intenso - moderado
+copa - 85.93% - amarillo claro - sano
+botella - 49.17% - amarillo claro - sano
+Liquido - 50.16% - rojo - moderado
+Liquido - 78.62% - amarillo claro - sano
+Liquido - 96.38% - amarillo intenso - moderado
+vaso - 72.73% - azul - peligroso
+Liquido - 52.11% - amarillo intenso - moderado
+botella - 84.4% - amarillo claro - sano
+Liquido - 78.98% - rojo - moderado
+Liquido - 88.74% - amarillo claro - sano
+Liquido - 63.76% - amarillo intenso - moderado
+Liquido - 44.89% - amarillo intenso - moderado
+vaso - 74.45% - azul - peligroso
+Liquido - 98.65% - amarillo claro - sano
+Liquido - 49.36% - rojo - moderado
+Liquido - 97.29% - amarillo intenso - moderado
+vaso - 91.41% - azul - peligroso
+Liquido - 72.43% - amarillo intenso - moderado
+botella - 95.42% - amarillo claro - sano
+Liquido - 99.74% - rojo - moderado
+Liquido - 40.5% - amarillo claro - sano
+Liquido - 92.73% - amarillo intenso - moderado
+vaso - 99.75% - azul - peligroso
+vaso - 66.04% - amarillo intenso - moderado
+Liquido - 78.3% - rojo - moderado
+Liquido - 40.51% - rojo - moderado
+Liquido - 46.51% - amarillo intenso - moderado
+vaso - 57.89% - azul - peligroso
+vaso - 49.99% - amarillo intenso - moderado
+Liquido - 64.14% - rojo - moderado
+Liquido - 97.05% - rojo - moderado
+Liquido - 96.96% - amarillo intenso - moderado
+vaso - 68.02% - azul - peligroso
+vaso - 60.32% - amarillo intenso - moderado
+Liquido - 41.13% - rojo - moderado
+Liquido - 86.94% - rojo - moderado
+Liquido - 71.99% - amarillo intenso - moderado
+vaso - 74.71% - azul - peligroso
+vaso - 88.81% - amarillo intenso - moderado
+Liquido - 47.5% - rojo - moderado
+Liquido - 43.63% - rojo - moderado
+vaso - 57.64% - azul - peligroso
+Liquido - 73.06% - amarillo intenso - moderado
+Liquido - 48.22% - amarillo claro - sano
+vaso - 99.59% - amarillo intenso - moderado
+Liquido - 90.52% - rojo - moderado
+Liquido - 55.2% - rojo - moderado
+Liquido - 58.4% - amarillo intenso - moderado
+vaso - 90.63% - azul - peligroso
+Liquido - 82.13% - rojo - moderado
+Liquido - 40.58% - rojo - moderado
+botella - 61.3% - amarillo claro - sano
+Liquido - 61.48% - rojo - moderado
+Liquido - 98.12% - amarillo claro - sano
+botella - 50.76% - amarillo claro - sano
+Liquido - 44.11% - rojo - moderado
+Liquido - 76.46% - amarillo claro - sano
+vaso - 79.41% - azul - peligroso
+Liquido - 80.25% - amarillo intenso - moderado
+Liquido - 91.65% - rojo - moderado
+Liquido - 99.68% - amarillo claro - sano
+Liquido - 84.48% - rojo - moderado
+Liquido - 90.51% - amarillo claro - sano
+vaso - 89.71% - azul - peligroso
+Liquido - 45.34% - rojo - moderado
+Liquido - 74.64% - amarillo claro - sano
+vaso - 66.6% - azul - peligroso
+botella - 75.9% - amarillo claro - sano
+Liquido - 60.96% - rojo - moderado
+Liquido - 52.3% - amarillo claro - sano
+vaso - 68.44% - azul - peligroso
+Liquido - 70.36% - rojo - moderado
+Liquido - 95.47% - amarillo claro - sano
+vaso - 85.56% - azul - peligroso
+Liquido - 91.85% - rojo - moderado
+Liquido - 68.63% - amarillo claro - sano
+vaso - 87.0% - azul - peligroso
+Liquido - 47.08% - rojo - moderado
+Liquido - 44.82% - amarillo claro - sano
+vaso - 84.39% - azul - peligroso
+Liquido - 51.25% - rojo - moderado
+Liquido - 55.99% - amarillo claro - sano
+vaso - 81.9% - azul - peligroso
+Liquido - 44.33% - rojo - moderado
+Liquido - 84.67% - amarillo claro - sano
+vaso - 55.17% - azul - peligroso
+Liquido - 44.76% - rojo - moderado
+Liquido - 43.24% - amarillo claro - sano
+vaso - 73.15% - azul - peligroso
+Liquido - 52.09% - rojo - moderado
+Liquido - 66.45% - amarillo claro - sano
+vaso - 99.54% - azul - peligroso
+Liquido - 50.62% - rojo - moderado
+Liquido - 57.21% - amarillo claro - sano
+vaso - 77.44% - azul - peligroso
+Liquido - 71.87% - amarillo intenso - moderado
+Liquido - 76.01% - rojo - moderado
+Liquido - 75.63% - amarillo claro - sano
+vaso - 56.77% - azul - peligroso
+Liquido - 99.73% - amarillo intenso - moderado
+Liquido - 61.72% - rojo - moderado
+Liquido - 71.8% - amarillo claro - sano
+vaso - 51.78% - azul - peligroso
+Liquido - 59.87% - amarillo intenso - moderado
+Liquido - 78.9% - rojo - moderado
+Liquido - 61.18% - amarillo claro - sano
+vaso - 44.27% - azul - peligroso
+Liquido - 71.5% - amarillo intenso - moderado
+Liquido - 82.44% - rojo - moderado
+Liquido - 67.81% - amarillo claro - sano
+vaso - 68.53% - azul - peligroso
+Liquido - 63.48% - amarillo intenso - moderado
+Liquido - 49.15% - rojo - moderado
+Liquido - 65.89% - amarillo claro - sano
+vaso - 61.39% - azul - peligroso
+Liquido - 58.97% - amarillo intenso - moderado
+Liquido - 71.57% - rojo - moderado
+Liquido - 46.37% - amarillo claro - sano
+Liquido - 64.75% - amarillo intenso - moderado
+vaso - 97.39% - azul - peligroso
+Liquido - 44.98% - rojo - moderado
+Liquido - 78.76% - amarillo claro - sano
+vaso - 43.8% - azul - peligroso
+Liquido - 88.74% - amarillo intenso - moderado
+Liquido - 95.11% - rojo - moderado
+Liquido - 80.31% - amarillo claro - sano
+vaso - 97.6% - azul - peligroso
+Liquido - 67.3% - amarillo intenso - moderado
+Liquido - 42.04% - rojo - moderado
+Liquido - 52.21% - amarillo claro - sano
+vaso - 79.35% - azul - peligroso
+Liquido - 80.13% - amarillo intenso - moderado
+Liquido - 48.06% - rojo - moderado
+Liquido - 53.98% - amarillo claro - sano
+vaso - 65.2% - azul - peligroso
+Liquido - 51.94% - amarillo intenso - moderado
+Liquido - 67.11% - rojo - moderado
+Liquido - 84.29% - amarillo claro - sano
+vaso - 71.83% - azul - peligroso
+Liquido - 64.3% - amarillo intenso - moderado
+Liquido - 44.08% - rojo - moderado
+Liquido - 93.81% - amarillo claro - sano
+vaso - 51.85% - azul - peligroso
+Liquido - 89.55% - amarillo intenso - moderado
+Liquido - 68.91% - rojo - moderado
+Liquido - 54.85% - amarillo claro - sano
+vaso - 91.61% - azul - peligroso
+Liquido - 76.54% - amarillo intenso - moderado
+botella - 73.18% - amarillo claro - sano
+Liquido - 93.38% - rojo - moderado
+Liquido - 48.57% - amarillo claro - sano
+vaso - 82.57% - azul - peligroso
+Liquido - 55.03% - amarillo intenso - moderado
+botella - 54.79% - amarillo claro - sano
+copa - 70.58% - amarillo claro - sano
+Liquido - 69.51% - rojo - moderado
+Liquido - 62.48% - amarillo claro - sano
+vaso - 95.43% - azul - peligroso
+botella - 83.2% - amarillo claro - sano
+Liquido - 61.95% - amarillo intenso - moderado
+Liquido - 63.05% - rojo - moderado
+Liquido - 61.45% - amarillo claro - sano
+vaso - 70.54% - azul - peligroso
+Liquido - 59.12% - amarillo intenso - moderado
+botella - 71.66% - amarillo claro - sano
+Liquido - 62.94% - amarillo claro - sano
+Liquido - 68.17% - rojo - moderado
+vaso - 91.81% - azul - peligroso
+Liquido - 52.71% - amarillo intenso - moderado
+botella - 88.67% - amarillo claro - sano
+Liquido - 94.47% - amarillo claro - sano
+Liquido - 57.73% - rojo - moderado
+vaso - 53.97% - azul - peligroso
+Liquido - 55.48% - amarillo intenso - moderado
+botella - 62.59% - amarillo claro - sano
+Liquido - 52.6% - rojo - moderado
+Liquido - 86.51% - amarillo claro - sano
+vaso - 49.91% - azul - peligroso
+botella - 97.31% - amarillo claro - sano
+Liquido - 54.69% - rojo - moderado
+Liquido - 48.32% - amarillo claro - sano
+vaso - 41.03% - azul - peligroso
+botella - 72.1% - amarillo claro - sano
+Liquido - 74.84% - rojo - moderado
+Liquido - 85.56% - amarillo claro - sano
+vaso - 68.48% - azul - peligroso
+Liquido - 90.01% - amarillo intenso - moderado
+botella - 78.1% - amarillo claro - sano
+Liquido - 70.48% - rojo - moderado
+Liquido - 56.21% - amarillo claro - sano
+vaso - 48.64% - azul - peligroso
+botella - 57.7% - amarillo claro - sano
+Liquido - 76.74% - amarillo intenso - moderado
+Liquido - 69.06% - rojo - moderado
+Liquido - 91.19% - rojo - moderado
+vaso - 44.46% - azul - peligroso
+Liquido - 50.05% - amarillo intenso - moderado
+botella - 52.12% - amarillo claro - sano
+Liquido - 64.21% - rojo - moderado
+Liquido - 72.87% - amarillo claro - sano
+vaso - 75.9% - azul - peligroso
+botella - 94.71% - amarillo claro - sano
+Liquido - 57.53% - amarillo intenso - moderado
+Liquido - 77.45% - rojo - moderado
+Liquido - 57.38% - amarillo claro - sano
+vaso - 99.96% - azul - peligroso
+Liquido - 97.69% - amarillo intenso - moderado
+botella - 68.75% - amarillo claro - sano
+Liquido - 64.44% - rojo - moderado
+Liquido - 97.64% - amarillo claro - sano
+vaso - 79.35% - azul - peligroso
+Liquido - 67.81% - amarillo intenso - moderado
+botella - 81.27% - amarillo claro - sano
+Liquido - 81.76% - rojo - moderado
+Liquido - 76.09% - amarillo claro - sano
+vaso - 55.12% - azul - peligroso
+botella - 92.18% - amarillo claro - sano
+Liquido - 40.14% - rojo - moderado
+Liquido - 81.49% - amarillo claro - sano
+vaso - 64.14% - azul - peligroso
+Liquido - 43.9% - amarillo intenso - moderado
+botella - 61.48% - amarillo claro - sano
+Liquido - 80.73% - rojo - moderado
+Liquido - 88.74% - amarillo claro - sano
+vaso - 49.49% - azul - peligroso
+Liquido - 65.34% - amarillo intenso - moderado
+botella - 59.42% - amarillo claro - sano
+Liquido - 91.7% - rojo - moderado
+Liquido - 54.66% - amarillo claro - sano
+vaso - 77.45% - azul - peligroso
+botella - 48.94% - amarillo claro - sano
+Liquido - 41.35% - amarillo intenso - moderado
+Liquido - 72.99% - rojo - moderado
+Liquido - 94.34% - amarillo claro - sano
+vaso - 69.69% - azul - peligroso
+Liquido - 88.33% - amarillo intenso - moderado
+botella - 90.69% - amarillo claro - sano
+Liquido - 46.77% - rojo - moderado
+Liquido - 85.51% - amarillo claro - sano
+vaso - 41.84% - azul - peligroso
+Liquido - 57.64% - amarillo intenso - moderado
+botella - 53.44% - amarillo claro - sano
+Liquido - 62.41% - rojo - moderado
+Liquido - 45.53% - amarillo claro - sano
+vaso - 98.75% - azul - peligroso
+Liquido - 46.67% - amarillo intenso - moderado
+botella - 68.32% - amarillo claro - sano
+Liquido - 87.78% - rojo - moderado
+Liquido - 69.58% - amarillo claro - sano
+vaso - 92.92% - azul - peligroso
+Liquido - 42.99% - amarillo intenso - moderado
+botella - 44.11% - amarillo claro - sano
+Liquido - 41.05% - rojo - moderado
+Liquido - 79.66% - amarillo claro - sano
+vaso - 86.7% - azul - peligroso
+Liquido - 83.71% - amarillo intenso - moderado
+botella - 84.38% - amarillo claro - sano
+Liquido - 57.2% - rojo - moderado
+Liquido - 42.37% - amarillo claro - sano
+vaso - 83.52% - azul - peligroso
+Liquido - 41.55% - amarillo intenso - moderado
+botella - 40.77% - amarillo claro - sano
+Liquido - 72.85% - rojo - moderado
+Liquido - 99.29% - amarillo claro - sano
+vaso - 84.83% - azul - peligroso
+Liquido - 66.59% - amarillo intenso - moderado
+botella - 94.56% - amarillo claro - sano
+Liquido - 43.11% - rojo - moderado
+Liquido - 47.88% - amarillo claro - sano
+vaso - 55.56% - azul - peligroso
+Liquido - 67.68% - amarillo intenso - moderado
+botella - 89.97% - amarillo claro - sano
+Liquido - 49.47% - rojo - moderado
+Liquido - 72.08% - amarillo claro - sano
+vaso - 81.34% - azul - peligroso
+botella - 88.32% - amarillo claro - sano
+Liquido - 56.69% - amarillo intenso - moderado
+Liquido - 55.04% - rojo - moderado
+Liquido - 71.13% - amarillo claro - sano
+vaso - 75.81% - azul - peligroso
+botella - 46.54% - amarillo claro - sano
+Liquido - 43.47% - amarillo intenso - moderado
+Liquido - 80.44% - rojo - moderado
+Liquido - 63.5% - amarillo claro - sano
+vaso - 98.52% - azul - peligroso
+botella - 67.44% - amarillo claro - sano
+Liquido - 65.85% - amarillo intenso - moderado
+Liquido - 59.3% - rojo - moderado
+Liquido - 56.3% - amarillo claro - sano
+vaso - 42.74% - azul - peligroso
+Liquido - 99.74% - amarillo intenso - moderado
+botella - 97.38% - amarillo claro - sano
+Liquido - 96.3% - rojo - moderado
+Liquido - 80.51% - amarillo claro - sano
+vaso - 51.29% - azul - peligroso
+Liquido - 80.97% - amarillo intenso - moderado
+botella - 66.48% - amarillo claro - sano
+Liquido - 40.29% - rojo - moderado
+Liquido - 53.67% - amarillo claro - sano
+vaso - 42.52% - azul - peligroso
+Liquido - 88.39% - amarillo intenso - moderado
+botella - 41.92% - amarillo claro - sano
+Liquido - 82.5% - rojo - moderado
+Liquido - 83.49% - amarillo claro - sano
+vaso - 73.77% - azul - peligroso
+Liquido - 43.97% - amarillo intenso - moderado
+botella - 59.67% - amarillo claro - sano
+Liquido - 95.1% - rojo - moderado
+Liquido - 51.12% - amarillo claro - sano
+vaso - 88.51% - azul - peligroso
+Liquido - 93.65% - amarillo intenso - moderado
+botella - 49.25% - amarillo claro - sano
+copa - 49.71% - amarillo claro - sano
+Liquido - 70.07% - rojo - moderado
+Liquido - 60.24% - amarillo claro - sano
+vaso - 76.09% - azul - peligroso
+botella - 84.78% - amarillo claro - sano
+Liquido - 89.76% - amarillo intenso - moderado
+Liquido - 98.4% - rojo - moderado
+Liquido - 50.7% - amarillo claro - sano
+vaso - 87.38% - azul - peligroso
+botella - 87.82% - amarillo claro - sano
+Liquido - 41.21% - amarillo intenso - moderado
+Liquido - 79.75% - rojo - moderado
+Liquido - 94.58% - amarillo claro - sano
+vaso - 54.23% - azul - peligroso
+Liquido - 49.8% - amarillo intenso - moderado
+botella - 63.13% - amarillo claro - sano
+copa - 84.13% - amarillo claro - sano
+Liquido - 78.24% - rojo - moderado
+Liquido - 43.15% - amarillo claro - sano
+vaso - 54.55% - azul - peligroso
+Liquido - 58.04% - amarillo intenso - moderado
+botella - 55.42% - amarillo claro - sano
+copa - 69.96% - amarillo claro - sano
+Liquido - 77.85% - rojo - moderado
+Liquido - 93.81% - amarillo claro - sano
+vaso - 54.64% - azul - peligroso
+Liquido - 92.5% - amarillo intenso - moderado
+botella - 97.4% - amarillo claro - sano
+Liquido - 96.14% - rojo - moderado
+Liquido - 69.76% - amarillo claro - sano
+vaso - 88.78% - azul - peligroso
+Liquido - 56.96% - amarillo intenso - moderado
+botella - 60.79% - amarillo claro - sano
+Liquido - 89.25% - rojo - moderado
+Liquido - 49.51% - amarillo claro - sano
+vaso - 70.15% - azul - peligroso
+Liquido - 65.87% - amarillo intenso - moderado
+botella - 51.62% - amarillo claro - sano
+copa - 62.69% - amarillo claro - sano
+Liquido - 45.12% - rojo - moderado
+vaso - 77.51% - amarillo claro - sano
+Liquido - 77.56% - amarillo claro - sano
+Liquido - 58.83% - amarillo intenso - moderado
+botella - 57.73% - amarillo claro - sano
+Liquido - 95.59% - rojo - moderado
+Liquido - 74.64% - rojo - moderado
+vaso - 65.1% - azul - peligroso
+Liquido - 56.25% - amarillo intenso - moderado
+botella - 52.96% - amarillo claro - sano
+copa - 48.65% - amarillo claro - sano
+Liquido - 94.87% - rojo - moderado
+Liquido - 68.98% - rojo - moderado
+vaso - 52.6% - azul - peligroso
+Liquido - 70.29% - amarillo intenso - moderado
+botella - 69.74% - amarillo claro - sano
+copa - 90.49% - amarillo claro - sano
+Liquido - 40.03% - rojo - moderado
+Liquido - 70.45% - amarillo claro - sano
+vaso - 85.86% - azul - peligroso
+Liquido - 98.14% - amarillo intenso - moderado
+botella - 85.35% - amarillo claro - sano
+Liquido - 95.56% - rojo - moderado
+Liquido - 73.09% - rojo - moderado
+vaso - 44.79% - azul - peligroso
+Liquido - 91.89% - amarillo intenso - moderado
+botella - 88.79% - amarillo claro - sano
+Liquido - 43.22% - rojo - moderado
+Liquido - 72.25% - rojo - moderado
+vaso - 55.67% - azul - peligroso
+Liquido - 87.81% - amarillo intenso - moderado
+botella - 57.04% - amarillo claro - sano
+Liquido - 49.4% - rojo - moderado
+Liquido - 56.87% - amarillo claro - sano
+vaso - 60.62% - azul - peligroso
+Liquido - 62.66% - amarillo intenso - moderado
+botella - 87.87% - amarillo claro - sano
+Liquido - 92.01% - rojo - moderado
+vaso - 85.11% - amarillo claro - sano
+Liquido - 82.36% - amarillo claro - sano
+copa - 85.94% - amarillo claro - sano
+botella - 57.56% - amarillo claro - sano
+Liquido - 49.99% - rojo - moderado
+vaso - 83.25% - amarillo claro - sano
+Liquido - 92.82% - rojo - moderado
+botella - 45.64% - amarillo claro - sano
+copa - 68.03% - amarillo claro - sano
+Liquido - 64.66% - rojo - moderado
+vaso - 45.68% - amarillo claro - sano
+Liquido - 48.6% - amarillo claro - sano
+copa - 85.82% - amarillo claro - sano
+botella - 52.15% - amarillo claro - sano
+Liquido - 47.09% - rojo - moderado
+vaso - 69.62% - amarillo claro - sano
+Liquido - 56.22% - rojo - moderado
+botella - 49.31% - amarillo claro - sano
+copa - 52.86% - amarillo claro - sano
+Liquido - 40.16% - rojo - moderado
+vaso - 96.41% - amarillo claro - sano
+Liquido - 42.46% - amarillo claro - sano
+botella - 69.8% - amarillo claro - sano
+copa - 66.1% - amarillo claro - sano
+Liquido - 84.84% - rojo - moderado
+Liquido - 69.33% - amarillo claro - sano
+vaso - 92.0% - azul - peligroso
+botella - 95.15% - amarillo claro - sano
+copa - 52.57% - amarillo claro - sano
+Liquido - 92.41% - rojo - moderado
+vaso - 44.51% - amarillo claro - sano
+Liquido - 65.56% - rojo - moderado
+botella - 63.41% - amarillo claro - sano
+copa - 41.13% - amarillo claro - sano
+Liquido - 79.22% - rojo - moderado
+Liquido - 46.26% - rojo - moderado
+vaso - 65.03% - azul - peligroso
+copa - 72.05% - amarillo claro - sano
+botella - 40.82% - amarillo claro - sano
+Liquido - 70.92% - rojo - moderado
+Liquido - 60.03% - rojo - moderado
+vaso - 92.89% - azul - peligroso
+copa - 65.85% - amarillo claro - sano
+botella - 94.94% - amarillo claro - sano
+Liquido - 56.24% - rojo - moderado
+Liquido - 72.66% - amarillo claro - sano
+vaso - 83.3% - azul - peligroso
+copa - 76.17% - amarillo claro - sano
+botella - 95.61% - amarillo claro - sano
+Liquido - 40.48% - amarillo intenso - moderado
+Liquido - 68.72% - rojo - moderado
+Liquido - 71.22% - amarillo claro - sano
+vaso - 87.26% - azul - peligroso
+copa - 47.95% - amarillo claro - sano
+Liquido - 98.19% - amarillo intenso - moderado
+botella - 74.42% - amarillo claro - sano
+Liquido - 72.31% - rojo - moderado
+vaso - 53.92% - amarillo claro - sano
+Liquido - 59.46% - amarillo claro - sano
+copa - 49.47% - amarillo claro - sano
+botella - 53.1% - amarillo claro - sano
+Liquido - 67.95% - rojo - moderado
+vaso - 66.83% - amarillo claro - sano
+Liquido - 62.21% - amarillo claro - sano
+copa - 77.52% - amarillo claro - sano
+botella - 79.35% - amarillo claro - sano
+Liquido - 44.37% - amarillo intenso - moderado
+Liquido - 59.23% - rojo - moderado
+Liquido - 71.28% - amarillo claro - sano
+vaso - 51.9% - azul - peligroso
+copa - 99.45% - amarillo claro - sano
+botella - 70.49% - amarillo claro - sano
+Liquido - 54.85% - amarillo intenso - moderado
+Liquido - 78.25% - rojo - moderado
+Liquido - 89.81% - amarillo claro - sano
+vaso - 62.91% - azul - peligroso
+copa - 81.41% - amarillo claro - sano
+botella - 94.67% - amarillo claro - sano
+Liquido - 70.94% - amarillo intenso - moderado
+Liquido - 66.57% - rojo - moderado
+Liquido - 49.81% - amarillo claro - sano
+vaso - 81.09% - azul - peligroso
+copa - 43.61% - amarillo claro - sano
+botella - 53.74% - amarillo claro - sano
+Liquido - 62.45% - rojo - moderado
+Liquido - 45.52% - amarillo claro - sano
+vaso - 90.5% - azul - peligroso
+botella - 96.93% - amarillo claro - sano
+copa - 65.79% - amarillo claro - sano
+Liquido - 85.21% - rojo - moderado
+vaso - 87.72% - amarillo claro - sano
+Liquido - 98.75% - amarillo claro - sano
+copa - 95.89% - amarillo claro - sano
+botella - 69.94% - amarillo claro - sano
+Liquido - 63.01% - rojo - moderado
+Liquido - 65.99% - amarillo claro - sano
+vaso - 99.97% - azul - peligroso
+copa - 54.22% - amarillo claro - sano
+botella - 98.78% - amarillo claro - sano
+Liquido - 68.66% - rojo - moderado
+Liquido - 64.89% - amarillo claro - sano
+vaso - 99.51% - azul - peligroso
+botella - 47.5% - amarillo claro - sano
+copa - 94.24% - amarillo claro - sano
+Liquido - 85.67% - amarillo intenso - moderado
+Liquido - 76.09% - rojo - moderado
+Liquido - 96.62% - amarillo claro - sano
+vaso - 57.51% - azul - peligroso
+copa - 62.26% - amarillo claro - sano
+botella - 82.76% - amarillo claro - sano
+Liquido - 41.0% - amarillo intenso - moderado
+Liquido - 96.74% - rojo - moderado
+vaso - 65.85% - amarillo claro - sano
+Liquido - 53.85% - amarillo claro - sano
+botella - 96.29% - amarillo claro - sano
+Liquido - 84.71% - amarillo intenso - moderado
+Liquido - 85.76% - rojo - moderado
+vaso - 57.57% - amarillo claro - sano
+Liquido - 75.98% - amarillo claro - sano
+botella - 62.18% - amarillo claro - sano
+copa - 69.38% - amarillo claro - sano
+Liquido - 50.91% - rojo - moderado
+Liquido - 91.96% - amarillo claro - sano
+vaso - 97.77% - azul - peligroso
+botella - 91.01% - amarillo claro - sano
+Liquido - 52.45% - rojo - moderado
+Liquido - 87.47% - amarillo claro - sano
+vaso - 97.26% - azul - peligroso
+botella - 85.23% - amarillo claro - sano
+Liquido - 83.49% - rojo - moderado
+Liquido - 42.81% - amarillo claro - sano
+vaso - 47.55% - azul - peligroso
+botella - 46.11% - amarillo claro - sano
+Liquido - 63.57% - rojo - moderado
+Liquido - 89.93% - amarillo claro - sano
+vaso - 55.88% - azul - peligroso
+botella - 47.64% - amarillo claro - sano
+Liquido - 95.85% - rojo - moderado
+Liquido - 47.14% - amarillo claro - sano
+vaso - 64.02% - azul - peligroso
+copa - 82.13% - amarillo claro - sano
+botella - 83.72% - amarillo claro - sano
+Liquido - 96.84% - rojo - moderado
+Liquido - 72.15% - amarillo claro - sano
+vaso - 71.6% - azul - peligroso
+copa - 79.21% - amarillo claro - sano
+botella - 83.92% - amarillo claro - sano
+Liquido - 66.13% - rojo - moderado
+Liquido - 41.4% - amarillo claro - sano
+vaso - 52.32% - azul - peligroso
+copa - 91.44% - amarillo claro - sano
+botella - 73.52% - amarillo claro - sano
+Liquido - 88.11% - amarillo intenso - moderado
+Liquido - 43.21% - rojo - moderado
+Liquido - 68.4% - amarillo claro - sano
+vaso - 83.62% - azul - peligroso
+botella - 94.84% - amarillo claro - sano
+Liquido - 57.09% - amarillo intenso - moderado
+Liquido - 43.31% - rojo - moderado
+Liquido - 56.99% - amarillo claro - sano
+vaso - 68.94% - azul - peligroso
+Liquido - 51.89% - amarillo intenso - moderado
+Liquido - 77.12% - rojo - moderado
+Liquido - 65.12% - amarillo claro - sano
+vaso - 40.85% - azul - peligroso
+Liquido - 84.44% - amarillo intenso - moderado
+botella - 71.99% - amarillo claro - sano
+Liquido - 73.72% - rojo - moderado
+Liquido - 57.99% - amarillo claro - sano
+vaso - 62.37% - azul - peligroso
+copa - 83.42% - amarillo claro - sano
+Liquido - 92.86% - amarillo intenso - moderado
+Liquido - 57.99% - rojo - moderado
+Liquido - 69.04% - amarillo claro - sano
+vaso - 77.14% - azul - peligroso
+copa - 67.61% - amarillo intenso - moderado
+Liquido - 42.94% - amarillo intenso - moderado
+Liquido - 97.19% - rojo - moderado
+Liquido - 49.47% - amarillo claro - sano
+vaso - 85.42% - azul - peligroso
+Liquido - 57.42% - amarillo intenso - moderado
+Liquido - 95.18% - rojo - moderado
+Liquido - 61.04% - amarillo claro - sano
+vaso - 41.88% - azul - peligroso
+Liquido - 71.41% - rojo - moderado
+Liquido - 69.81% - amarillo claro - sano
+vaso - 83.69% - azul - peligroso
+Liquido - 89.32% - amarillo intenso - moderado
+botella - 65.36% - amarillo claro - sano
+Liquido - 61.57% - rojo - moderado
+Liquido - 82.4% - amarillo claro - sano
+vaso - 84.06% - azul - peligroso
+Liquido - 55.57% - amarillo intenso - moderado
+copa - 50.37% - amarillo intenso - moderado
+Liquido - 79.29% - amarillo intenso - moderado
+Liquido - 66.3% - rojo - moderado
+Liquido - 94.64% - amarillo claro - sano
+vaso - 99.93% - azul - peligroso
+Liquido - 55.6% - amarillo intenso - moderado
+copa - 86.05% - amarillo intenso - moderado
+Liquido - 67.54% - amarillo intenso - moderado
+Liquido - 92.93% - amarillo claro - sano
+Liquido - 86.76% - rojo - moderado
+vaso - 85.1% - azul - peligroso
+copa - 86.39% - amarillo intenso - moderado
+Liquido - 74.64% - amarillo intenso - moderado
+botella - 86.69% - amarillo claro - sano
+Liquido - 46.44% - amarillo intenso - moderado
+Liquido - 46.49% - amarillo claro - sano
+Liquido - 92.38% - rojo - moderado
+vaso - 79.65% - azul - peligroso
+copa - 46.13% - amarillo intenso - moderado
+Liquido - 61.73% - amarillo intenso - moderado
+botella - 42.97% - amarillo claro - sano
+Liquido - 76.38% - amarillo intenso - moderado
+Liquido - 64.35% - rojo - moderado
+Liquido - 80.89% - amarillo claro - sano
+vaso - 90.11% - azul - peligroso
+copa - 87.48% - amarillo intenso - moderado
+Liquido - 42.92% - amarillo intenso - moderado
+Liquido - 92.15% - amarillo intenso - moderado
+botella - 56.84% - amarillo claro - sano
+Liquido - 99.12% - rojo - moderado
+Liquido - 78.85% - amarillo claro - sano
+vaso - 54.32% - azul - peligroso
+copa - 86.93% - amarillo intenso - moderado
+Liquido - 56.84% - azul - peligroso
+Liquido - 53.3% - amarillo intenso - moderado
+botella - 78.42% - amarillo claro - sano
+Liquido - 74.61% - rojo - moderado
+Liquido - 62.69% - amarillo claro - sano
+vaso - 63.88% - azul - peligroso
+copa - 63.55% - amarillo intenso - moderado
+Liquido - 41.74% - amarillo intenso - moderado
+Liquido - 95.47% - amarillo intenso - moderado
+botella - 95.16% - amarillo claro - sano
+Liquido - 95.43% - rojo - moderado
+Liquido - 69.62% - amarillo claro - sano
+vaso - 96.93% - azul - peligroso
+copa - 62.92% - amarillo intenso - moderado
+Liquido - 54.06% - amarillo intenso - moderado
+Liquido - 69.9% - amarillo intenso - moderado
+botella - 58.54% - amarillo claro - sano
+Liquido - 97.18% - rojo - moderado
+Liquido - 91.35% - amarillo claro - sano
+vaso - 71.58% - azul - peligroso
+Liquido - 91.73% - amarillo intenso - moderado
+Liquido - 45.14% - amarillo intenso - moderado
+botella - 95.33% - amarillo claro - sano
+Liquido - 97.76% - rojo - moderado
+Liquido - 87.55% - amarillo claro - sano
+vaso - 47.23% - azul - peligroso
+Liquido - 83.74% - amarillo intenso - moderado
+Liquido - 43.62% - amarillo intenso - moderado
+botella - 48.96% - amarillo claro - sano
+copa - 99.56% - amarillo intenso - moderado
+Liquido - 89.42% - rojo - moderado
+Liquido - 93.46% - amarillo claro - sano
+vaso - 98.3% - azul - peligroso
+botella - 79.39% - amarillo claro - sano
+Liquido - 68.96% - amarillo intenso - moderado
+copa - 75.89% - amarillo intenso - moderado
+Liquido - 66.13% - rojo - moderado
+Liquido - 82.39% - amarillo claro - sano
+vaso - 62.21% - azul - peligroso
+Liquido - 65.86% - amarillo intenso - moderado
+Liquido - 42.29% - amarillo intenso - moderado
+botella - 59.85% - amarillo claro - sano
+Liquido - 65.1% - rojo - moderado
+Liquido - 51.39% - amarillo claro - sano
+vaso - 70.43% - azul - peligroso
+Liquido - 55.28% - amarillo intenso - moderado
+Liquido - 77.92% - amarillo intenso - moderado
+botella - 68.13% - amarillo claro - sano
+Liquido - 94.19% - rojo - moderado
+Liquido - 74.48% - amarillo claro - sano
+vaso - 55.25% - azul - peligroso
+Liquido - 84.17% - amarillo intenso - moderado
+Liquido - 81.99% - amarillo intenso - moderado
+botella - 75.5% - amarillo claro - sano
+Liquido - 74.78% - amarillo claro - sano
+Liquido - 77.7% - rojo - moderado
+vaso - 50.96% - azul - peligroso
+Liquido - 86.3% - amarillo intenso - moderado
+copa - 76.01% - amarillo intenso - moderado
+botella - 53.35% - amarillo claro - sano
+Liquido - 85.34% - azul - peligroso
+Liquido - 83.65% - rojo - moderado
+Liquido - 55.79% - amarillo claro - sano
+vaso - 95.85% - azul - peligroso
+Liquido - 66.85% - amarillo intenso - moderado
+Liquido - 91.59% - amarillo intenso - moderado
+botella - 76.01% - amarillo claro - sano
+copa - 87.1% - amarillo intenso - moderado
+Liquido - 57.96% - rojo - moderado
+Liquido - 52.19% - amarillo claro - sano
+vaso - 59.51% - azul - peligroso
+Liquido - 65.32% - amarillo intenso - moderado
+Liquido - 87.93% - amarillo intenso - moderado
+botella - 81.09% - amarillo claro - sano
+Liquido - 49.72% - rojo - moderado
+Liquido - 98.94% - amarillo claro - sano
+vaso - 84.27% - azul - peligroso
+Liquido - 78.38% - amarillo intenso - moderado
+Liquido - 57.04% - amarillo intenso - moderado
+botella - 65.4% - amarillo claro - sano
+Liquido - 92.17% - rojo - moderado
+Liquido - 56.65% - amarillo claro - sano
+vaso - 91.14% - azul - peligroso
+Liquido - 82.1% - amarillo intenso - moderado
+Liquido - 82.77% - amarillo intenso - moderado
+botella - 94.8% - amarillo claro - sano
+copa - 96.7% - azul - peligroso
+Liquido - 40.01% - amarillo claro - sano
+Liquido - 74.33% - rojo - moderado
+vaso - 68.39% - azul - peligroso
+Liquido - 65.33% - amarillo intenso - moderado
+Liquido - 97.61% - amarillo intenso - moderado
+botella - 69.76% - amarillo claro - sano
+copa - 74.58% - amarillo intenso - moderado
+Liquido - 63.21% - amarillo claro - sano
+Liquido - 59.75% - rojo - moderado
+vaso - 82.97% - azul - peligroso
+Liquido - 46.19% - amarillo intenso - moderado
+Liquido - 78.22% - amarillo intenso - moderado
+botella - 64.33% - amarillo claro - sano
+copa - 61.12% - amarillo intenso - moderado
+Liquido - 69.73% - rojo - moderado
+Liquido - 58.56% - amarillo claro - sano
+vaso - 82.76% - azul - peligroso
+Liquido - 44.93% - amarillo intenso - moderado
+Liquido - 93.67% - amarillo intenso - moderado
+copa - 61.98% - amarillo intenso - moderado
+botella - 47.89% - amarillo claro - sano
+Liquido - 56.95% - amarillo claro - sano
+Liquido - 87.77% - rojo - moderado
+vaso - 97.96% - azul - peligroso
+Liquido - 93.01% - amarillo intenso - moderado
+Liquido - 47.51% - amarillo intenso - moderado
+copa - 67.24% - amarillo intenso - moderado
+botella - 89.6% - amarillo claro - sano
+Liquido - 97.7% - rojo - moderado
+Liquido - 56.33% - amarillo claro - sano
+vaso - 78.1% - azul - peligroso
+Liquido - 74.27% - amarillo intenso - moderado
+Liquido - 74.08% - amarillo intenso - moderado
+botella - 42.91% - amarillo claro - sano
+Liquido - 90.55% - rojo - moderado
+Liquido - 63.54% - morado - moderado
+vaso - 97.43% - azul - peligroso
+copa - 67.27% - amarillo intenso - moderado
+botella - 58.21% - amarillo claro - sano
+Liquido - 92.08% - amarillo intenso - moderado
+Liquido - 47.98% - amarillo intenso - moderado
+Liquido - 97.85% - rojo - moderado
+Liquido - 56.36% - morado - moderado
+vaso - 72.6% - azul - peligroso
+copa - 90.71% - amarillo intenso - moderado
+Liquido - 41.64% - amarillo intenso - moderado
+botella - 80.11% - amarillo claro - sano
+Liquido - 42.66% - amarillo intenso - moderado
+Liquido - 71.35% - morado - moderado
+Liquido - 82.93% - rojo - moderado
+vaso - 56.95% - azul - peligroso
+copa - 88.89% - amarillo intenso - moderado
+Liquido - 44.65% - amarillo intenso - moderado
+Liquido - 70.42% - amarillo intenso - moderado
+botella - 55.48% - amarillo claro - sano
+Liquido - 57.25% - rojo - moderado
+Liquido - 54.59% - morado - moderado
+vaso - 59.93% - azul - peligroso
+Liquido - 54.17% - amarillo intenso - moderado
+botella - 40.92% - amarillo claro - sano
+copa - 80.92% - amarillo intenso - moderado
+Liquido - 54.55% - amarillo intenso - moderado
+Liquido - 66.85% - rojo - moderado
+Liquido - 47.95% - amarillo claro - sano
+vaso - 48.77% - azul - peligroso
+copa - 75.07% - amarillo intenso - moderado
+Liquido - 54.09% - amarillo intenso - moderado
+Liquido - 77.45% - amarillo intenso - moderado
+botella - 57.47% - amarillo claro - sano
+Liquido - 47.77% - rojo - moderado
+Liquido - 74.42% - amarillo claro - sano
+vaso - 92.97% - azul - peligroso
+Liquido - 91.4% - amarillo intenso - moderado
+copa - 79.76% - amarillo intenso - moderado
+botella - 48.09% - amarillo claro - sano
+Liquido - 89.88% - amarillo intenso - moderado
+Liquido - 88.21% - rojo - moderado
+Liquido - 95.07% - amarillo claro - sano
+vaso - 51.94% - azul - peligroso
+Liquido - 40.16% - amarillo intenso - moderado
+copa - 40.5% - amarillo intenso - moderado
+botella - 40.81% - amarillo claro - sano
+Liquido - 51.3% - amarillo intenso - moderado
+Liquido - 94.53% - rojo - moderado
+Liquido - 96.98% - amarillo claro - sano
+vaso - 56.15% - azul - peligroso
+Liquido - 61.43% - amarillo intenso - moderado
+botella - 66.93% - amarillo claro - sano
+Liquido - 69.4% - amarillo intenso - moderado
+Liquido - 83.49% - rojo - moderado
+Liquido - 75.28% - amarillo claro - sano
+vaso - 85.92% - azul - peligroso
+copa - 70.37% - amarillo intenso - moderado
+Liquido - 43.87% - amarillo intenso - moderado
+botella - 86.36% - amarillo claro - sano
+Liquido - 73.04% - amarillo intenso - moderado
+Liquido - 60.25% - rojo - moderado
+vaso - 83.98% - amarillo claro - sano
+Liquido - 56.51% - amarillo claro - sano
+Liquido - 52.96% - amarillo intenso - moderado
+copa - 86.29% - azul - peligroso
+Liquido - 95.06% - amarillo intenso - moderado
+botella - 44.4% - amarillo claro - sano
+Liquido - 44.59% - amarillo claro - sano
+Liquido - 83.88% - rojo - moderado
+vaso - 50.86% - azul - peligroso
+Liquido - 40.18% - amarillo intenso - moderado
+copa - 48.11% - amarillo intenso - moderado
+botella - 74.76% - amarillo claro - sano
+Liquido - 88.53% - amarillo intenso - moderado
+Liquido - 64.38% - rojo - moderado
+Liquido - 87.81% - amarillo claro - sano
+vaso - 52.88% - azul - peligroso
+Liquido - 57.35% - amarillo intenso - moderado
+copa - 57.81% - amarillo intenso - moderado
+botella - 72.46% - amarillo claro - sano
+Liquido - 49.89% - amarillo intenso - moderado
+Liquido - 88.68% - amarillo claro - sano
+Liquido - 55.46% - rojo - moderado
+vaso - 88.25% - azul - peligroso
+copa - 79.39% - amarillo intenso - moderado
+Liquido - 80.95% - amarillo intenso - moderado
+botella - 77.85% - amarillo claro - sano
+Liquido - 96.61% - amarillo intenso - moderado
+Liquido - 84.08% - rojo - moderado
+Liquido - 56.82% - amarillo claro - sano
+vaso - 48.72% - azul - peligroso
+copa - 82.52% - amarillo intenso - moderado
+Liquido - 82.77% - amarillo intenso - moderado
+botella - 43.72% - amarillo claro - sano
+Liquido - 58.08% - azul - peligroso
+Liquido - 47.36% - rojo - moderado
+Liquido - 88.61% - amarillo claro - sano
+vaso - 77.36% - azul - peligroso
+Liquido - 89.96% - amarillo intenso - moderado
+copa - 95.72% - amarillo intenso - moderado
+Liquido - 88.78% - azul - peligroso
+botella - 60.72% - amarillo claro - sano
+Liquido - 43.07% - rojo - moderado
+Liquido - 44.86% - amarillo claro - sano
+vaso - 93.03% - azul - peligroso
+Liquido - 73.92% - amarillo intenso - moderado
+copa - 96.17% - amarillo intenso - moderado
+Liquido - 88.55% - amarillo intenso - moderado
+botella - 79.52% - amarillo claro - sano
+Liquido - 54.77% - rojo - moderado
+vaso - 72.16% - amarillo claro - sano
+Liquido - 80.89% - amarillo claro - sano
+Liquido - 45.18% - amarillo intenso - moderado
+copa - 88.59% - amarillo intenso - moderado
+Liquido - 71.11% - amarillo intenso - moderado
+botella - 59.55% - amarillo claro - sano
+Liquido - 71.96% - amarillo claro - sano
+Liquido - 59.81% - rojo - moderado
+vaso - 60.01% - azul - peligroso
+copa - 53.28% - amarillo intenso - moderado
+Liquido - 60.25% - amarillo intenso - moderado
+Liquido - 83.16% - azul - peligroso
+botella - 92.23% - amarillo claro - sano
+Liquido - 54.57% - amarillo claro - sano
+Liquido - 51.53% - rojo - moderado
+vaso - 55.13% - azul - peligroso
+Liquido - 81.68% - amarillo intenso - moderado
+Liquido - 82.25% - amarillo intenso - moderado
+copa - 69.32% - azul - peligroso
+botella - 46.89% - amarillo claro - sano
+Liquido - 55.24% - amarillo claro - sano
+Liquido - 86.76% - rojo - moderado
+vaso - 60.09% - azul - peligroso
+Liquido - 60.79% - amarillo intenso - moderado
+copa - 76.96% - amarillo intenso - moderado
+Liquido - 88.7% - azul - peligroso
+botella - 98.1% - amarillo claro - sano
+Liquido - 67.14% - rojo - moderado
+Liquido - 91.07% - amarillo claro - sano
+vaso - 59.48% - azul - peligroso
+Liquido - 73.39% - amarillo intenso - moderado
+Liquido - 55.38% - amarillo intenso - moderado
+botella - 97.82% - amarillo claro - sano
+copa - 90.42% - amarillo intenso - moderado
+Liquido - 54.71% - amarillo claro - sano
+Liquido - 65.06% - rojo - moderado
+vaso - 73.09% - azul - peligroso
+Liquido - 63.6% - amarillo intenso - moderado
+Liquido - 80.04% - amarillo intenso - moderado
+botella - 92.52% - amarillo claro - sano
+copa - 97.33% - amarillo intenso - moderado
+Liquido - 92.29% - amarillo claro - sano
+Liquido - 75.17% - rojo - moderado
+vaso - 63.24% - azul - peligroso
+copa - 73.22% - amarillo intenso - moderado
+botella - 96.71% - amarillo claro - sano
+Liquido - 90.61% - amarillo intenso - moderado
+Liquido - 43.28% - amarillo intenso - moderado
+Liquido - 91.79% - rojo - moderado
+Liquido - 76.56% - amarillo claro - sano
+vaso - 97.93% - azul - peligroso
+Liquido - 77.93% - amarillo intenso - moderado
+copa - 45.72% - amarillo intenso - moderado
+botella - 84.0% - amarillo claro - sano
+Liquido - 85.09% - amarillo intenso - moderado
+Liquido - 45.39% - rojo - moderado
+Liquido - 85.52% - amarillo claro - sano
+vaso - 77.54% - azul - peligroso
+Liquido - 96.48% - amarillo intenso - moderado
+copa - 84.53% - amarillo intenso - moderado
+botella - 91.94% - amarillo claro - sano
+Liquido - 49.83% - amarillo intenso - moderado
+Liquido - 62.25% - rojo - moderado
+Liquido - 77.17% - amarillo claro - sano
+vaso - 55.01% - azul - peligroso
+botella - 45.05% - amarillo claro - sano
+Liquido - 77.34% - amarillo intenso - moderado
+Liquido - 42.02% - rojo - moderado
+Liquido - 78.81% - amarillo claro - sano
+vaso - 49.82% - azul - peligroso
+Liquido - 71.67% - amarillo intenso - moderado
+botella - 94.94% - amarillo claro - sano
+Liquido - 69.64% - rojo - moderado
+Liquido - 48.87% - amarillo claro - sano
+vaso - 93.13% - azul - peligroso
+Liquido - 41.7% - amarillo intenso - moderado
+botella - 40.16% - amarillo claro - sano
+Liquido - 54.86% - rojo - moderado
+Liquido - 46.49% - amarillo claro - sano
+vaso - 47.04% - azul - peligroso
+Liquido - 82.32% - amarillo intenso - moderado
+Liquido - 85.62% - rojo - moderado
+Liquido - 53.36% - amarillo claro - sano
+vaso - 99.29% - azul - peligroso
+Liquido - 65.26% - amarillo intenso - moderado
+Liquido - 96.59% - amarillo intenso - moderado
+Liquido - 45.84% - rojo - moderado
+Liquido - 45.21% - amarillo claro - sano
+vaso - 55.62% - azul - peligroso
+Liquido - 59.26% - amarillo intenso - moderado
+botella - 65.73% - amarillo claro - sano
+Liquido - 44.93% - rojo - moderado
+Liquido - 53.49% - amarillo claro - sano
+vaso - 87.76% - azul - peligroso
+copa - 43.44% - amarillo intenso - moderado
+Liquido - 61.02% - amarillo intenso - moderado
+botella - 54.59% - amarillo claro - sano
+Liquido - 76.64% - rojo - moderado
+Liquido - 53.12% - amarillo claro - sano
+vaso - 84.12% - azul - peligroso
+copa - 95.34% - amarillo intenso - moderado
+Liquido - 96.27% - amarillo intenso - moderado
+Liquido - 61.39% - rojo - moderado
+Liquido - 96.02% - amarillo claro - sano
+vaso - 97.47% - azul - peligroso
+Liquido - 64.69% - amarillo intenso - moderado
+Liquido - 75.43% - rojo - moderado
+Liquido - 86.3% - amarillo claro - sano
+vaso - 66.73% - azul - peligroso
+Liquido - 79.32% - amarillo intenso - moderado
+botella - 97.39% - amarillo claro - sano
+Liquido - 91.33% - amarillo intenso - moderado
+Liquido - 48.45% - rojo - moderado
+vaso - 63.27% - amarillo claro - sano
+Liquido - 77.51% - amarillo intenso - moderado
+Liquido - 46.5% - amarillo claro - sano
+botella - 99.67% - amarillo claro - sano
+Liquido - 62.14% - rojo - moderado
+vaso - 94.16% - amarillo claro - sano
+Liquido - 83.12% - amarillo intenso - moderado
+Liquido - 62.72% - amarillo claro - sano
+botella - 58.32% - amarillo claro - sano
+Liquido - 83.43% - amarillo intenso - moderado
+Liquido - 92.85% - rojo - moderado
+vaso - 47.07% - rojo - moderado
+Liquido - 77.87% - amarillo intenso - moderado
+Liquido - 42.25% - rojo - moderado
+Liquido - 72.28% - rojo - moderado
+vaso - 45.61% - rojo - moderado
+Liquido - 41.91% - amarillo intenso - moderado
+Liquido - 74.6% - rojo - moderado
+Liquido - 81.11% - amarillo intenso - moderado
+Liquido - 93.05% - rojo - moderado
+botella - 58.97% - amarillo claro - sano
+vaso - 52.82% - rojo - moderado
+Liquido - 94.01% - amarillo intenso - moderado
+Liquido - 55.85% - amarillo intenso - moderado
+Liquido - 59.33% - rojo - moderado
+Liquido - 56.04% - rojo - moderado
+Liquido - 72.67% - rojo - moderado
+Liquido - 82.43% - amarillo intenso - moderado
+vaso - 88.86% - azul - peligroso
+Liquido - 73.71% - amarillo intenso - moderado
+vaso - 69.17% - azul - peligroso
+botella - 70.79% - amarillo claro - sano
+copa - 73.71% - amarillo intenso - moderado
+Liquido - 63.43% - rojo - moderado
+Liquido - 78.01% - rojo - moderado
+Liquido - 80.27% - amarillo intenso - moderado
+vaso - 46.8% - azul - peligroso
+Liquido - 85.33% - amarillo intenso - moderado
+vaso - 91.36% - azul - peligroso
+Liquido - 70.89% - rojo - moderado
+Liquido - 51.75% - rojo - moderado
+Liquido - 75.62% - amarillo intenso - moderado
+Liquido - 52.62% - amarillo intenso - moderado
+Liquido - 65.36% - rojo - moderado
+Liquido - 82.11% - rojo - moderado
+Liquido - 97.35% - amarillo intenso - moderado
+Liquido - 59.03% - amarillo intenso - moderado
+vaso - 46.65% - azul - peligroso
+vaso - 80.84% - azul - peligroso
+botella - 65.96% - amarillo claro - sano
+Liquido - 56.28% - rojo - moderado
+Liquido - 46.59% - rojo - moderado
+Liquido - 75.05% - amarillo claro - sano
+Liquido - 54.53% - amarillo intenso - moderado
+botella - 96.59% - amarillo claro - sano
+Liquido - 43.06% - rojo - moderado
+Liquido - 81.39% - rojo - moderado
+Liquido - 90.95% - amarillo intenso - moderado
+botella - 49.06% - amarillo claro - sano
+Liquido - 59.66% - amarillo claro - sano
+Liquido - 88.42% - rojo - moderado
+Liquido - 76.45% - rojo - moderado
+Liquido - 69.85% - amarillo claro - sano
+Liquido - 89.4% - amarillo intenso - moderado
+Liquido - 87.96% - rojo - moderado
+Liquido - 57.83% - rojo - moderado
+Liquido - 74.73% - amarillo intenso - moderado
+Liquido - 81.85% - amarillo claro - sano
+vaso - 66.23% - rojo - moderado
+Liquido - 64.8% - rojo - moderado
+Liquido - 86.06% - rojo - moderado
+Liquido - 68.26% - amarillo intenso - moderado
+Liquido - 67.78% - amarillo claro - sano
+Liquido - 91.08% - rojo - moderado
+Liquido - 75.33% - rojo - moderado
+Liquido - 88.88% - amarillo intenso - moderado
+vaso - 47.34% - azul - peligroso
+Liquido - 61.89% - amarillo claro - sano
+vaso - 50.37% - rojo - moderado
+copa - 46.79% - amarillo claro - sano
+Liquido - 55.44% - rojo - moderado
+Liquido - 63.37% - rojo - moderado
+Liquido - 68.66% - amarillo intenso - moderado
+Liquido - 47.91% - amarillo claro - sano
+vaso - 94.32% - azul - peligroso
+vaso - 98.59% - rojo - moderado
+Liquido - 49.07% - rojo - moderado
+Liquido - 87.28% - rojo - moderado
+Liquido - 41.43% - amarillo claro - sano
+Liquido - 46.93% - amarillo intenso - moderado
+vaso - 85.93% - azul - peligroso
+copa - 99.14% - amarillo intenso - moderado
+Liquido - 91.77% - rojo - moderado
+Liquido - 67.8% - rojo - moderado
+Liquido - 98.42% - amarillo intenso - moderado
+Liquido - 73.53% - amarillo claro - sano
+vaso - 43.83% - azul - peligroso
+copa - 98.44% - amarillo intenso - moderado
+Liquido - 68.72% - rojo - moderado
+Liquido - 94.95% - rojo - moderado
+Liquido - 92.56% - amarillo intenso - moderado
+Liquido - 73.22% - amarillo claro - sano
+vaso - 52.46% - azul - peligroso
+vaso - 58.98% - rojo - moderado
+Liquido - 67.32% - rojo - moderado
+Liquido - 90.7% - rojo - moderado
+Liquido - 97.28% - amarillo claro - sano
+vaso - 86.84% - amarillo intenso - moderado
+Liquido - 63.1% - amarillo intenso - moderado
+vaso - 49.7% - rojo - moderado
+copa - 76.49% - amarillo claro - sano
+Liquido - 46.15% - rojo - moderado
+Liquido - 70.49% - rojo - moderado
+Liquido - 42.43% - amarillo claro - sano
+vaso - 81.96% - amarillo intenso - moderado
+Liquido - 40.49% - amarillo intenso - moderado
+vaso - 97.28% - rojo - moderado
+copa - 61.42% - amarillo claro - sano
+Liquido - 91.27% - rojo - moderado
+Liquido - 42.71% - rojo - moderado
+Liquido - 41.55% - amarillo intenso - moderado
+vaso - 43.61% - azul - peligroso
+vaso - 90.39% - rojo - moderado
+Liquido - 91.99% - amarillo claro - sano
+Liquido - 46.02% - rojo - moderado
+Liquido - 73.14% - rojo - moderado
+Liquido - 40.69% - amarillo intenso - moderado
+Liquido - 76.21% - amarillo claro - sano
+vaso - 94.85% - azul - peligroso
+Liquido - 85.15% - rojo - moderado
+Liquido - 92.28% - rojo - moderado
+Liquido - 70.34% - amarillo claro - sano
+Liquido - 85.61% - amarillo intenso - moderado
+Liquido - 85.28% - rojo - moderado
+Liquido - 62.09% - rojo - moderado
+Liquido - 84.66% - amarillo claro - sano
+Liquido - 51.3% - amarillo intenso - moderado
+Liquido - 64.48% - rojo - moderado
+Liquido - 62.12% - amarillo claro - sano
+Liquido - 96.32% - rojo - moderado
+Liquido - 94.89% - rojo - moderado
+Liquido - 72.96% - amarillo intenso - moderado
+Liquido - 50.36% - amarillo claro - sano
+Liquido - 58.27% - amarillo intenso - moderado
+Liquido - 55.13% - rojo - moderado
+Liquido - 49.05% - amarillo intenso - moderado
+Liquido - 81.9% - amarillo claro - sano
+Liquido - 41.91% - amarillo intenso - moderado
+Liquido - 65.79% - amarillo intenso - moderado
+Liquido - 89.75% - amarillo claro - sano
+Liquido - 84.83% - amarillo intenso - moderado
+Liquido - 47.29% - amarillo intenso - moderado
+Liquido - 54.71% - rojo - moderado
+Liquido - 42.8% - amarillo intenso - moderado
+Liquido - 41.03% - amarillo intenso - moderado
+Liquido - 68.02% - negro - peligroso
+Liquido - 92.01% - amarillo intenso - moderado
+Liquido - 63.61% - amarillo intenso - moderado
+vaso - 98.99% - azul - peligroso
+Liquido - 46.77% - rojo - moderado
+Liquido - 99.19% - amarillo intenso - moderado
+Liquido - 66.46% - amarillo intenso - moderado
+vaso - 62.72% - azul - peligroso
+Liquido - 75.18% - rojo - moderado
+Liquido - 86.32% - amarillo intenso - moderado
+Liquido - 75.28% - amarillo intenso - moderado
+vaso - 41.24% - azul - peligroso
+Liquido - 83.83% - rojo - moderado
+Liquido - 98.49% - amarillo intenso - moderado
+Liquido - 80.67% - amarillo intenso - moderado
+vaso - 78.06% - azul - peligroso
+Liquido - 61.98% - rojo - moderado
+Liquido - 42.4% - amarillo intenso - moderado
+Liquido - 84.84% - amarillo intenso - moderado
+vaso - 73.44% - azul - peligroso
+Liquido - 83.34% - rojo - moderado
+Liquido - 81.32% - amarillo intenso - moderado
+Liquido - 77.74% - amarillo intenso - moderado
+Liquido - 64.68% - rojo - moderado
+Liquido - 89.41% - amarillo intenso - moderado
+Liquido - 55.37% - amarillo intenso - moderado
+Liquido - 84.06% - rojo - moderado
+Liquido - 76.06% - amarillo intenso - moderado
+Liquido - 81.14% - amarillo intenso - moderado
+Liquido - 72.38% - rojo - moderado
+Liquido - 64.91% - amarillo intenso - moderado
+Liquido - 97.26% - amarillo intenso - moderado
+Liquido - 68.99% - rojo - moderado
+Liquido - 80.08% - amarillo intenso - moderado
+Liquido - 65.89% - amarillo intenso - moderado
+Liquido - 72.03% - rojo - moderado
+Liquido - 93.19% - amarillo intenso - moderado
+Liquido - 65.08% - amarillo intenso - moderado
+Liquido - 82.86% - rojo - moderado
+Liquido - 48.09% - amarillo intenso - moderado
+Liquido - 54.28% - amarillo intenso - moderado
+Liquido - 87.73% - rojo - moderado
+Liquido - 40.69% - amarillo intenso - moderado
+Liquido - 45.49% - amarillo intenso - moderado
+Liquido - 67.06% - rojo - moderado
+Liquido - 75.27% - amarillo intenso - moderado
+Liquido - 94.04% - amarillo claro - sano
+Liquido - 47.38% - amarillo intenso - moderado
+Liquido - 44.67% - amarillo intenso - moderado
+Liquido - 57.91% - amarillo claro - sano
+Liquido - 79.91% - amarillo claro - sano
+Liquido - 94.32% - amarillo intenso - moderado
+Liquido - 46.61% - amarillo claro - sano
+Liquido - 80.26% - amarillo claro - sano
+Liquido - 52.14% - amarillo intenso - moderado
+Liquido - 65.5% - amarillo claro - sano
+Liquido - 49.5% - amarillo claro - sano
+Liquido - 73.08% - amarillo claro - sano
+Liquido - 59.08% - amarillo claro - sano
+Liquido - 97.65% - rojo - moderado
+botella - 73.84% - amarillo claro - sano
+Liquido - 75.71% - amarillo claro - sano
+Liquido - 91.19% - rojo - moderado
+Liquido - 94.79% - amarillo claro - sano
+Liquido - 59.99% - rojo - moderado
+Liquido - 78.46% - amarillo claro - sano
+Liquido - 78.8% - rojo - moderado
+Liquido - 97.38% - amarillo claro - sano
+vaso - 83.9% - azul - peligroso
+Liquido - 95.48% - amarillo claro - sano
+Liquido - 50.88% - rojo - moderado
+Liquido - 64.08% - amarillo claro - sano
+vaso - 60.94% - azul - peligroso
+Liquido - 50.09% - amarillo claro - sano
+Liquido - 42.36% - amarillo claro - sano
+botella - 91.06% - amarillo claro - sano
+Liquido - 71.59% - amarillo claro - sano
+Liquido - 44.61% - rojo - moderado
+botella - 50.78% - amarillo claro - sano
+Liquido - 74.02% - rojo - moderado
+Liquido - 43.92% - amarillo intenso - moderado
+vaso - 64.0% - amarillo intenso - moderado
+botella - 46.74% - amarillo claro - sano
+Liquido - 72.96% - amarillo intenso - moderado
+Liquido - 85.59% - rojo - moderado
+botella - 65.04% - amarillo claro - sano
+vaso - 47.21% - amarillo intenso - moderado
+Liquido - 83.29% - rojo - moderado
+Liquido - 86.28% - amarillo intenso - moderado
+vaso - 54.18% - amarillo intenso - moderado
+botella - 94.52% - amarillo claro - sano
+Liquido - 97.52% - rojo - moderado
+Liquido - 77.58% - amarillo intenso - moderado
+vaso - 52.76% - amarillo intenso - moderado
+botella - 40.34% - amarillo claro - sano
+Liquido - 87.23% - amarillo intenso - moderado
+Liquido - 66.28% - rojo - moderado
+botella - 77.65% - amarillo claro - sano
+Liquido - 88.95% - rojo - moderado
+Liquido - 54.91% - amarillo intenso - moderado
+botella - 92.67% - amarillo claro - sano
+Liquido - 65.45% - rojo - moderado
+Liquido - 96.44% - amarillo intenso - moderado
+Liquido - 80.54% - rojo - moderado
+Liquido - 57.02% - amarillo intenso - moderado
+Liquido - 48.52% - rojo - moderado
+Liquido - 40.81% - amarillo intenso - moderado
+botella - 90.49% - amarillo claro - sano
+Liquido - 51.56% - rojo - moderado
+Liquido - 67.63% - amarillo intenso - moderado
+botella - 42.78% - amarillo claro - sano
+Liquido - 42.42% - rojo - moderado
+Liquido - 84.3% - amarillo intenso - moderado
+botella - 60.24% - amarillo claro - sano
+Liquido - 84.66% - amarillo claro - sano
+Liquido - 40.41% - amarillo intenso - moderado
+vaso - 94.81% - azul - peligroso
+Liquido - 62.07% - amarillo claro - sano
+Liquido - 98.27% - amarillo intenso - moderado
+Liquido - 67.28% - rojo - moderado
+Liquido - 73.01% - amarillo intenso - moderado
+vaso - 89.76% - azul - peligroso
+botella - 58.67% - amarillo claro - sano
+Liquido - 48.8% - amarillo claro - sano
+Liquido - 53.96% - amarillo intenso - moderado
+vaso - 45.52% - azul - peligroso
+botella - 68.04% - amarillo claro - sano
+Liquido - 45.94% - amarillo claro - sano
+vaso - 81.41% - azul - peligroso
+Liquido - 94.28% - amarillo intenso - moderado
+botella - 61.36% - amarillo claro - sano
+Liquido - 93.91% - amarillo claro - sano
+vaso - 53.71% - azul - peligroso
+Liquido - 93.47% - amarillo intenso - moderado
+Liquido - 85.47% - amarillo claro - sano
+vaso - 49.73% - azul - peligroso
+Liquido - 75.7% - amarillo intenso - moderado
+Liquido - 56.32% - rojo - moderado
+vaso - 76.5% - azul - peligroso
+Liquido - 61.75% - amarillo intenso - moderado
+Liquido - 43.93% - amarillo claro - sano
+Liquido - 71.18% - amarillo intenso - moderado
+vaso - 80.36% - azul - peligroso
+Liquido - 60.22% - amarillo claro - sano
+vaso - 50.02% - azul - peligroso
+Liquido - 65.34% - amarillo intenso - moderado
+Liquido - 74.59% - amarillo claro - sano
+vaso - 40.38% - azul - peligroso
+Liquido - 82.73% - amarillo intenso - moderado
+Liquido - 81.77% - amarillo claro - sano
+vaso - 58.44% - azul - peligroso
+Liquido - 49.74% - amarillo intenso - moderado
+Liquido - 90.69% - amarillo claro - sano
+vaso - 90.52% - azul - peligroso
+Liquido - 87.19% - amarillo intenso - moderado
+Liquido - 62.04% - amarillo claro - sano
+Liquido - 50.26% - amarillo intenso - moderado
+vaso - 58.19% - azul - peligroso
+botella - 62.92% - amarillo claro - sano
+Liquido - 72.62% - amarillo claro - sano
+vaso - 50.64% - azul - peligroso
+Liquido - 77.47% - amarillo intenso - moderado
+Liquido - 91.77% - amarillo claro - sano
+vaso - 72.48% - azul - peligroso
+Liquido - 47.4% - amarillo intenso - moderado
+botella - 64.68% - amarillo claro - sano
+Liquido - 43.94% - amarillo claro - sano
+vaso - 89.49% - azul - peligroso
+Liquido - 80.78% - amarillo intenso - moderado
+botella - 88.55% - amarillo claro - sano
+Liquido - 98.56% - rojo - moderado
+Liquido - 41.65% - amarillo intenso - moderado
+vaso - 62.09% - azul - peligroso
+Liquido - 69.95% - rojo - moderado
+vaso - 48.96% - azul - peligroso
+Liquido - 90.12% - amarillo intenso - moderado
+Liquido - 92.21% - amarillo claro - sano
+vaso - 98.37% - azul - peligroso
+Liquido - 85.78% - amarillo intenso - moderado
+botella - 97.57% - amarillo claro - sano
+Liquido - 90.3% - amarillo claro - sano
+vaso - 55.01% - azul - peligroso
+Liquido - 91.32% - amarillo intenso - moderado
+botella - 94.41% - amarillo claro - sano
+Liquido - 51.08% - amarillo claro - sano
+vaso - 75.12% - azul - peligroso
+Liquido - 79.79% - amarillo intenso - moderado
+botella - 71.28% - amarillo claro - sano
+Liquido - 45.19% - amarillo claro - sano
+vaso - 55.06% - azul - peligroso
+Liquido - 87.11% - amarillo intenso - moderado
+botella - 42.24% - amarillo claro - sano
+Liquido - 53.34% - amarillo claro - sano
+Liquido - 43.36% - amarillo intenso - moderado
+vaso - 79.73% - azul - peligroso
+botella - 48.5% - amarillo claro - sano
+Liquido - 45.49% - amarillo claro - sano
+Liquido - 84.91% - amarillo intenso - moderado
+vaso - 41.59% - azul - peligroso
+botella - 89.3% - amarillo claro - sano
+Liquido - 54.9% - amarillo claro - sano
+vaso - 52.42% - azul - peligroso
+Liquido - 74.11% - amarillo intenso - moderado
+botella - 80.7% - amarillo claro - sano
+Liquido - 84.51% - amarillo claro - sano
+vaso - 99.46% - azul - peligroso
+Liquido - 40.66% - amarillo intenso - moderado
+botella - 82.01% - amarillo claro - sano
+Liquido - 84.03% - amarillo claro - sano
+Liquido - 69.77% - amarillo intenso - moderado
+vaso - 90.26% - azul - peligroso
+botella - 50.65% - amarillo claro - sano
+Liquido - 69.39% - verde - sano
+Liquido - 87.7% - amarillo intenso - moderado
+botella - 61.51% - amarillo claro - sano
+vaso - 91.15% - azul - peligroso
+Liquido - 75.02% - verde - sano
+vaso - 82.17% - azul - peligroso
+Liquido - 99.02% - amarillo intenso - moderado
+botella - 81.63% - amarillo claro - sano
+Liquido - 47.86% - amarillo claro - sano
+Liquido - 42.85% - amarillo intenso - moderado
+botella - 97.83% - amarillo claro - sano
+vaso - 75.13% - azul - peligroso
+vaso - 41.07% - amarillo intenso - moderado
+Liquido - 92.93% - verde - sano
+Liquido - 86.5% - amarillo intenso - moderado
+vaso - 94.85% - amarillo claro - sano
+Liquido - 63.41% - verde - sano
+Liquido - 81.4% - amarillo intenso - moderado
+vaso - 46.15% - amarillo claro - sano
+Liquido - 46.83% - rojo - moderado
+Liquido - 93.94% - amarillo intenso - moderado
+botella - 97.53% - amarillo claro - sano
+Liquido - 67.23% - amarillo claro - sano
+vaso - 84.38% - azul - peligroso
+Liquido - 91.77% - amarillo claro - sano
+Liquido - 41.71% - rojo - moderado
+Liquido - 59.81% - amarillo claro - sano
+Liquido - 91.07% - amarillo intenso - moderado
+botella - 83.13% - amarillo claro - sano
+Liquido - 61.08% - rojo - moderado
+Liquido - 50.2% - amarillo intenso - moderado
+Liquido - 91.04% - rojo - moderado
+Liquido - 54.18% - amarillo claro - sano
+vaso - 57.92% - azul - peligroso
+Liquido - 77.32% - rojo - moderado
+Liquido - 62.84% - amarillo intenso - moderado
+Liquido - 42.25% - verde - sano
+Liquido - 73.7% - verde - sano
+Liquido - 72.19% - verde - sano
+Liquido - 73.44% - amarillo intenso - moderado
+Liquido - 69.36% - amarillo claro - sano
+Liquido - 76.8% - verde - sano
+Liquido - 74.6% - amarillo intenso - moderado
+Liquido - 46.61% - verde - sano
+Liquido - 96.17% - amarillo intenso - moderado
+Liquido - 50.21% - verde - sano
+Liquido - 67.51% - amarillo intenso - moderado
+Liquido - 84.15% - amarillo claro - sano
+Liquido - 85.22% - verde - sano
+Liquido - 82.63% - amarillo intenso - moderado
+Liquido - 94.74% - amarillo claro - sano
+Liquido - 57.58% - amarillo claro - sano
+Liquido - 81.97% - verde - sano
+Liquido - 52.09% - verde - sano
+Liquido - 95.97% - amarillo claro - sano
+Liquido - 99.56% - negro - peligroso
+Liquido - 78.29% - amarillo claro - sano
+Liquido - 79.81% - amarillo intenso - moderado
+Liquido - 73.09% - amarillo intenso - moderado
+Liquido - 93.18% - amarillo intenso - moderado
+Liquido - 45.24% - amarillo intenso - moderado
+Liquido - 74.02% - rojo - moderado
+Liquido - 99.53% - negro - peligroso
+Liquido - 69.71% - rojo - moderado
+Liquido - 76.69% - negro - peligroso
+Liquido - 79.36% - negro - peligroso
+Liquido - 71.54% - rojo - moderado
+Liquido - 45.71% - rojo - moderado
+Liquido - 98.41% - negro - peligroso
+Liquido - 61.74% - rojo - moderado
+Liquido - 85.92% - amarillo claro - sano
+Liquido - 78.21% - rojo - moderado
+Liquido - 56.21% - amarillo intenso - moderado
+Liquido - 63.79% - rojo - moderado
+Liquido - 86.3% - amarillo claro - sano
+botella - 78.89% - amarillo claro - sano
+Liquido - 95.57% - rojo - moderado
+Liquido - 51.33% - amarillo intenso - moderado
+Liquido - 69.98% - rojo - moderado
+Liquido - 85.87% - amarillo intenso - moderado
+Liquido - 76.39% - amarillo intenso - moderado
+Liquido - 77.45% - amarillo intenso - moderado
+Liquido - 78.47% - amarillo claro - sano
+Liquido - 47.67% - amarillo claro - sano
+Liquido - 73.66% - amarillo claro - sano
+vaso - 51.49% - azul - peligroso
+Liquido - 87.05% - amarillo claro - sano
+vaso - 74.92% - azul - peligroso
+Liquido - 52.92% - amarillo claro - sano
+vaso - 70.69% - azul - peligroso
+Liquido - 66.64% - amarillo claro - sano
+vaso - 77.92% - azul - peligroso
+Liquido - 41.06% - amarillo claro - sano
+Liquido - 53.87% - amarillo claro - sano
+vaso - 70.94% - azul - peligroso
+Liquido - 65.18% - amarillo claro - sano
+vaso - 77.62% - azul - peligroso
+Liquido - 73.6% - amarillo claro - sano
+vaso - 98.53% - azul - peligroso
+Liquido - 92.95% - amarillo claro - sano
+Liquido - 44.2% - amarillo claro - sano
+vaso - 75.52% - azul - peligroso
+Liquido - 52.94% - rojo - moderado
+Liquido - 66.95% - amarillo claro - sano
+botella - 80.37% - amarillo intenso - moderado
+Liquido - 55.94% - amarillo claro - sano
+Liquido - 92.86% - amarillo intenso - moderado
+Liquido - 83.91% - amarillo claro - sano
+Liquido - 58.41% - amarillo intenso - moderado
+Liquido - 61.79% - amarillo claro - sano
+Liquido - 58.4% - amarillo claro - sano
+botella - 65.84% - amarillo intenso - moderado
+botella - 78.15% - amarillo claro - sano
+botella - 90.85% - amarillo claro - sano
+botella - 64.07% - amarillo intenso - moderado
+botella - 44.24% - amarillo intenso - moderado
+botella - 60.34% - amarillo intenso - moderado
+botella - 56.49% - amarillo intenso - moderado
+Liquido - 70.79% - negro - peligroso
+Liquido - 81.11% - amarillo intenso - moderado
+vaso - 74.52% - amarillo intenso - moderado
+Liquido - 65.72% - amarillo intenso - moderado
+vaso - 43.93% - amarillo intenso - moderado
+Liquido - 93.64% - amarillo intenso - moderado
+Liquido - 78.63% - amarillo intenso - moderado
+Liquido - 94.48% - amarillo intenso - moderado
+Liquido - 46.54% - amarillo intenso - moderado
+botella - 40.87% - amarillo intenso - moderado
+Liquido - 81.05% - amarillo intenso - moderado
+botella - 76.28% - amarillo intenso - moderado
+Liquido - 96.02% - amarillo intenso - moderado
+botella - 66.16% - amarillo claro - sano
+vaso - 92.37% - amarillo intenso - moderado
+Liquido - 49.35% - amarillo intenso - moderado
+Liquido - 87.43% - amarillo intenso - moderado
+Liquido - 86.35% - amarillo intenso - moderado
+botella - 62.93% - amarillo intenso - moderado
+Liquido - 97.81% - amarillo intenso - moderado
+botella - 68.62% - amarillo intenso - moderado
+Liquido - 76.11% - amarillo intenso - moderado
+botella - 96.04% - amarillo claro - sano
+vaso - 65.71% - amarillo intenso - moderado
+Liquido - 76.1% - amarillo intenso - moderado
+vaso - 46.85% - amarillo intenso - moderado
+botella - 94.69% - amarillo claro - sano
+Liquido - 93.42% - amarillo intenso - moderado
+vaso - 69.34% - amarillo intenso - moderado
+botella - 43.14% - amarillo claro - sano
+Liquido - 45.97% - amarillo intenso - moderado
+vaso - 85.21% - amarillo claro - sano
+Liquido - 44.18% - amarillo intenso - moderado
+botella - 65.1% - amarillo claro - sano
+Liquido - 99.71% - amarillo intenso - moderado
+vaso - 43.4% - amarillo intenso - moderado
+botella - 73.33% - amarillo claro - sano
+Liquido - 60.06% - amarillo intenso - moderado
+vaso - 85.4% - amarillo claro - sano
+botella - 99.16% - amarillo claro - sano
+Liquido - 96.7% - amarillo intenso - moderado
+Liquido - 81.44% - amarillo intenso - moderado
+vaso - 69.33% - amarillo claro - sano
+botella - 42.39% - amarillo claro - sano
+Liquido - 69.2% - amarillo intenso - moderado
+botella - 53.86% - amarillo claro - sano
+vaso - 94.76% - amarillo intenso - moderado
+Liquido - 49.71% - amarillo intenso - moderado
+botella - 84.27% - amarillo claro - sano
+vaso - 81.5% - amarillo intenso - moderado
+Liquido - 56.62% - amarillo intenso - moderado
+botella - 86.31% - amarillo claro - sano
+Liquido - 43.21% - amarillo intenso - moderado
+botella - 52.57% - amarillo claro - sano
+Liquido - 89.41% - amarillo intenso - moderado
+botella - 59.78% - rojo - moderado
+vaso - 56.02% - amarillo intenso - moderado
+Liquido - 52.39% - amarillo intenso - moderado
+botella - 68.49% - rojo - moderado
+vaso - 41.74% - amarillo intenso - moderado
+Liquido - 58.02% - amarillo intenso - moderado
+botella - 80.34% - rojo - moderado
+vaso - 46.99% - amarillo intenso - moderado
+Liquido - 51.14% - amarillo intenso - moderado
+botella - 44.64% - amarillo claro - sano
+vaso - 94.94% - amarillo intenso - moderado
+Liquido - 70.31% - amarillo intenso - moderado
+Liquido - 97.66% - amarillo intenso - moderado
+botella - 98.55% - amarillo claro - sano
+botella - 71.25% - rojo - moderado
+Liquido - 84.26% - amarillo intenso - moderado
+botella - 58.28% - rojo - moderado
+vaso - 70.17% - amarillo intenso - moderado
+vaso - 74.2% - amarillo claro - sano
+Liquido - 96.11% - amarillo intenso - moderado
+botella - 67.07% - rojo - moderado
+Liquido - 73.36% - amarillo intenso - moderado
+botella - 80.06% - amarillo claro - sano
+vaso - 85.4% - amarillo intenso - moderado
+Liquido - 47.4% - amarillo intenso - moderado
+vaso - 59.0% - amarillo intenso - moderado
+botella - 66.14% - amarillo claro - sano
+Liquido - 77.08% - amarillo intenso - moderado
+Liquido - 82.88% - amarillo intenso - moderado
+botella - 83.17% - amarillo claro - sano
+vaso - 85.54% - amarillo intenso - moderado
+botella - 89.09% - amarillo claro - sano
+Liquido - 43.22% - amarillo intenso - moderado
+vaso - 63.19% - amarillo intenso - moderado
+botella - 96.77% - amarillo claro - sano
+Liquido - 99.96% - amarillo intenso - moderado
+vaso - 68.4% - amarillo intenso - moderado
+Liquido - 81.95% - amarillo intenso - moderado
+botella - 51.68% - rojo - moderado
+Liquido - 81.36% - amarillo intenso - moderado
+vaso - 74.31% - amarillo intenso - moderado
+Liquido - 52.52% - amarillo intenso - moderado
+botella - 79.63% - amarillo claro - sano
+Liquido - 99.65% - amarillo intenso - moderado
+Liquido - 76.6% - amarillo intenso - moderado
+botella - 79.8% - amarillo claro - sano
+vaso - 59.36% - amarillo intenso - moderado
+Liquido - 95.08% - amarillo intenso - moderado
+vaso - 65.43% - amarillo intenso - moderado
+botella - 96.9% - amarillo claro - sano
+Liquido - 84.27% - amarillo intenso - moderado
+vaso - 94.16% - amarillo intenso - moderado
+botella - 49.32% - amarillo claro - sano
+Liquido - 66.78% - amarillo intenso - moderado
+botella - 93.74% - amarillo claro - sano
+vaso - 91.76% - amarillo intenso - moderado
+Liquido - 77.69% - amarillo intenso - moderado
+vaso - 92.95% - amarillo intenso - moderado
+botella - 52.28% - amarillo claro - sano
+Liquido - 59.78% - amarillo intenso - moderado
+vaso - 42.22% - amarillo intenso - moderado
+Liquido - 67.03% - amarillo intenso - moderado
+botella - 73.11% - amarillo claro - sano
+vaso - 97.6% - amarillo intenso - moderado
+Liquido - 49.11% - amarillo intenso - moderado
+botella - 90.1% - amarillo claro - sano
+vaso - 90.31% - amarillo intenso - moderado
+Liquido - 68.55% - amarillo intenso - moderado
+Liquido - 51.0% - amarillo intenso - moderado
+botella - 91.73% - rojo - moderado
+botella - 47.72% - amarillo claro - sano
+Liquido - 95.62% - amarillo intenso - moderado
+vaso - 52.19% - amarillo intenso - moderado
+Liquido - 43.87% - amarillo intenso - moderado
+vaso - 77.24% - amarillo intenso - moderado
+botella - 66.75% - amarillo claro - sano
+Liquido - 43.27% - amarillo intenso - moderado
+botella - 74.38% - amarillo claro - sano
+vaso - 59.83% - amarillo intenso - moderado
+Liquido - 43.99% - amarillo intenso - moderado
+botella - 88.32% - amarillo claro - sano
+Liquido - 59.56% - amarillo intenso - moderado
+Liquido - 71.92% - amarillo intenso - moderado
+botella - 60.73% - amarillo claro - sano
+botella - 86.73% - amarillo intenso - moderado
+botella - 75.75% - amarillo claro - sano
+Liquido - 85.4% - amarillo intenso - moderado
+botella - 71.56% - amarillo intenso - moderado
+Liquido - 45.92% - amarillo intenso - moderado
+Liquido - 64.61% - amarillo intenso - moderado
+botella - 58.43% - amarillo claro - sano
+botella - 57.61% - amarillo claro - sano
+Liquido - 40.28% - amarillo intenso - moderado
+vaso - 79.71% - amarillo intenso - moderado
+botella - 54.0% - amarillo claro - sano
+vaso - 80.33% - amarillo intenso - moderado
+Liquido - 44.51% - amarillo intenso - moderado
+vaso - 57.81% - amarillo intenso - moderado
+botella - 50.46% - amarillo claro - sano
+botella - 72.14% - amarillo intenso - moderado
+botella - 99.9% - amarillo claro - sano
+vaso - 96.94% - amarillo intenso - moderado
+vaso - 76.67% - amarillo intenso - moderado
+botella - 58.82% - amarillo claro - sano
+vaso - 50.8% - amarillo intenso - moderado
+botella - 46.57% - amarillo claro - sano
+vaso - 84.1% - amarillo intenso - moderado
+Liquido - 81.95% - amarillo intenso - moderado
+Liquido - 50.57% - rojo - moderado
+vaso - 95.79% - amarillo intenso - moderado
+Liquido - 84.41% - rojo - moderado
+Liquido - 89.96% - amarillo claro - sano
+Liquido - 75.56% - amarillo claro - sano
+Liquido - 99.43% - amarillo claro - sano
+Liquido - 83.86% - amarillo claro - sano
+Liquido - 80.72% - amarillo claro - sano
+vaso - 75.35% - amarillo claro - sano
+Liquido - 52.61% - amarillo claro - sano
+Liquido - 64.78% - amarillo claro - sano
+botella - 47.45% - amarillo intenso - moderado
+Liquido - 91.98% - amarillo claro - sano
+vaso - 62.34% - amarillo intenso - moderado
+vaso - 76.26% - azul - peligroso
+Liquido - 78.99% - amarillo claro - sano
+vaso - 90.64% - amarillo intenso - moderado
+Liquido - 88.15% - amarillo claro - sano
+vaso - 92.93% - amarillo intenso - moderado
+vaso - 61.54% - azul - peligroso
+Liquido - 92.67% - amarillo claro - sano
+vaso - 86.09% - amarillo intenso - moderado
+Liquido - 50.18% - amarillo claro - sano
+botella - 94.51% - amarillo intenso - moderado
+Liquido - 91.61% - amarillo claro - sano
+Liquido - 92.63% - amarillo claro - sano
+Liquido - 70.15% - amarillo claro - sano
+botella - 57.91% - amarillo intenso - moderado
+Liquido - 41.79% - amarillo claro - sano
+Liquido - 45.16% - amarillo claro - sano
+vaso - 84.15% - amarillo intenso - moderado
+vaso - 44.36% - azul - peligroso
+Liquido - 76.97% - amarillo claro - sano
+Liquido - 64.59% - amarillo claro - sano
+Liquido - 43.14% - rojo - moderado
+Liquido - 89.42% - amarillo claro - sano
+Liquido - 52.64% - amarillo claro - sano
+Liquido - 88.53% - amarillo claro - sano
+Liquido - 53.78% - amarillo claro - sano
+Liquido - 43.41% - rojo - moderado
+Liquido - 68.86% - amarillo intenso - moderado
+Liquido - 65.44% - rojo - moderado
+Liquido - 91.14% - amarillo claro - sano
+Liquido - 90.01% - amarillo intenso - moderado
+Liquido - 98.87% - amarillo claro - sano
+vaso - 90.91% - amarillo claro - sano
+Liquido - 72.96% - rojo - moderado
+Liquido - 81.77% - amarillo claro - sano
+Liquido - 83.71% - rojo - moderado
+Liquido - 65.76% - amarillo claro - sano
+Liquido - 61.29% - rojo - moderado
+Liquido - 77.14% - rojo - moderado
+Liquido - 61.7% - rojo - moderado
+Liquido - 99.45% - amarillo claro - sano
+Liquido - 83.87% - rojo - moderado
+Liquido - 91.32% - rojo - moderado
+Liquido - 79.4% - amarillo claro - sano
+Liquido - 61.04% - rojo - moderado
+Liquido - 95.81% - rojo - moderado
+Liquido - 80.2% - amarillo claro - sano
+Liquido - 79.13% - rojo - moderado
+vaso - 54.09% - amarillo claro - sano
+Liquido - 82.98% - amarillo claro - sano
+Liquido - 75.0% - rojo - moderado
+Liquido - 93.49% - rojo - moderado
+vaso - 83.66% - amarillo claro - sano
+Liquido - 95.91% - amarillo claro - sano
+Liquido - 45.31% - rojo - moderado
+Liquido - 71.1% - rojo - moderado
+Liquido - 64.07% - rojo - moderado
+Liquido - 75.56% - amarillo claro - sano
+Liquido - 63.1% - rojo - moderado
+Liquido - 92.92% - amarillo claro - sano
+Liquido - 55.62% - rojo - moderado
+Liquido - 52.81% - amarillo claro - sano
+Liquido - 67.54% - amarillo claro - sano
+Liquido - 56.52% - rojo - moderado
+Liquido - 55.52% - amarillo claro - sano
+Liquido - 54.96% - amarillo claro - sano
+Liquido - 90.03% - amarillo claro - sano
+Liquido - 55.16% - amarillo claro - sano
+Liquido - 73.4% - amarillo claro - sano
+Liquido - 68.71% - amarillo claro - sano
+Liquido - 78.81% - amarillo claro - sano
+Liquido - 76.68% - amarillo claro - sano
+Liquido - 72.43% - rojo - moderado
+Liquido - 46.2% - rojo - moderado
+botella - 77.33% - amarillo claro - sano
+Liquido - 80.52% - rojo - moderado
+Liquido - 86.84% - amarillo intenso - moderado
+Liquido - 47.44% - rojo - moderado
+Liquido - 64.69% - amarillo intenso - moderado
+Liquido - 63.62% - rojo - moderado
+Liquido - 43.67% - amarillo intenso - moderado
+vaso - 99.97% - azul - peligroso
+Liquido - 93.77% - rojo - moderado
+Liquido - 66.71% - amarillo intenso - moderado
+Liquido - 82.43% - rojo - moderado
+Liquido - 93.29% - amarillo intenso - moderado
+Liquido - 54.96% - rojo - moderado
+Liquido - 75.25% - amarillo intenso - moderado
+Liquido - 90.09% - rojo - moderado
+Liquido - 53.09% - amarillo intenso - moderado
+vaso - 43.27% - rojo - moderado
+Liquido - 61.41% - rojo - moderado
+Liquido - 95.63% - amarillo claro - sano
+vaso - 96.11% - azul - peligroso
+Liquido - 71.27% - rojo - moderado
+Liquido - 73.66% - amarillo claro - sano
+vaso - 81.03% - azul - peligroso
+Liquido - 83.53% - rojo - moderado
+Liquido - 54.05% - amarillo intenso - moderado
+Liquido - 40.89% - rojo - moderado
+Liquido - 53.27% - amarillo intenso - moderado
+vaso - 43.62% - rojo - moderado
+Liquido - 90.37% - rojo - moderado
+Liquido - 48.25% - amarillo intenso - moderado
+Liquido - 65.42% - rojo - moderado
+Liquido - 80.25% - amarillo intenso - moderado
+Liquido - 69.67% - rojo - moderado
+Liquido - 67.16% - amarillo intenso - moderado
+Liquido - 85.17% - rojo - moderado
+Liquido - 84.06% - amarillo intenso - moderado
+Liquido - 99.6% - rojo - moderado
+Liquido - 69.01% - amarillo intenso - moderado
+Liquido - 68.48% - rojo - moderado
+Liquido - 62.31% - amarillo intenso - moderado
+Liquido - 79.55% - rojo - moderado
+Liquido - 71.63% - amarillo intenso - moderado
+Liquido - 79.41% - rojo - moderado
+Liquido - 50.75% - amarillo intenso - moderado
+Liquido - 87.54% - rojo - moderado
+Liquido - 92.25% - amarillo claro - sano
+Liquido - 57.01% - rojo - moderado
+Liquido - 71.9% - amarillo claro - sano
+Liquido - 85.31% - rojo - moderado
+Liquido - 91.68% - amarillo claro - sano
+Liquido - 93.25% - rojo - moderado
+vaso - 95.15% - azul - peligroso
+Liquido - 56.68% - rojo - moderado
+Liquido - 92.63% - amarillo claro - sano
+Liquido - 77.62% - rojo - moderado
+vaso - 71.76% - azul - peligroso
+Liquido - 62.39% - rojo - moderado
+Liquido - 81.69% - amarillo claro - sano
+Liquido - 94.18% - rojo - moderado
+Liquido - 45.01% - rojo - moderado
+Liquido - 56.64% - amarillo claro - sano
+vaso - 59.47% - azul - peligroso
+Liquido - 79.23% - rojo - moderado
+vaso - 99.57% - azul - peligroso
+Liquido - 53.94% - rojo - moderado
+Liquido - 83.14% - amarillo claro - sano
+Liquido - 89.64% - rojo - moderado
+vaso - 68.97% - azul - peligroso
+vaso - 85.56% - azul - peligroso
+Liquido - 69.12% - rojo - moderado
+Liquido - 50.5% - amarillo claro - sano
+Liquido - 57.98% - rojo - moderado
+vaso - 74.79% - azul - peligroso
+vaso - 65.0% - azul - peligroso
+Liquido - 71.46% - rojo - moderado
+Liquido - 50.28% - amarillo claro - sano
+vaso - 87.37% - azul - peligroso
+vaso - 47.89% - azul - peligroso
+Liquido - 46.45% - rojo - moderado
+Liquido - 46.38% - rojo - moderado
+Liquido - 60.63% - amarillo claro - sano
+vaso - 63.73% - azul - peligroso
+vaso - 49.0% - azul - peligroso
+Liquido - 45.22% - rojo - moderado
+Liquido - 49.84% - rojo - moderado
+Liquido - 74.05% - amarillo claro - sano
+vaso - 41.27% - azul - peligroso
+vaso - 70.55% - azul - peligroso
+Liquido - 87.96% - rojo - moderado
+Liquido - 92.39% - rojo - moderado
+Liquido - 53.27% - amarillo claro - sano
+Liquido - 89.02% - rojo - moderado
+vaso - 90.34% - azul - peligroso
+vaso - 79.78% - azul - peligroso
+Liquido - 77.92% - rojo - moderado
+Liquido - 81.74% - amarillo claro - sano
+vaso - 45.28% - azul - peligroso
+vaso - 64.09% - azul - peligroso
+Liquido - 55.82% - rojo - moderado
+Liquido - 61.61% - rojo - moderado
+Liquido - 50.17% - amarillo claro - sano
+vaso - 67.49% - azul - peligroso
+vaso - 56.88% - azul - peligroso
+Liquido - 72.43% - rojo - moderado
+Liquido - 40.79% - amarillo claro - sano
+vaso - 48.7% - azul - peligroso
+vaso - 59.41% - azul - peligroso
+Liquido - 73.27% - rojo - moderado
+Liquido - 47.04% - amarillo claro - sano
+vaso - 66.69% - azul - peligroso
+vaso - 66.01% - azul - peligroso
+Liquido - 43.23% - rojo - moderado
+Liquido - 44.31% - amarillo claro - sano
+vaso - 63.56% - azul - peligroso
+vaso - 89.21% - azul - peligroso
+Liquido - 98.62% - rojo - moderado
+Liquido - 73.86% - amarillo claro - sano
+vaso - 95.29% - azul - peligroso
+Liquido - 99.99% - rojo - moderado
+Liquido - 65.45% - amarillo claro - sano
+vaso - 48.29% - azul - peligroso
+vaso - 54.6% - azul - peligroso
+Liquido - 63.02% - rojo - moderado
+Liquido - 67.48% - amarillo claro - sano
+vaso - 86.42% - azul - peligroso
+vaso - 71.73% - azul - peligroso
+Liquido - 90.99% - rojo - moderado
+Liquido - 73.59% - amarillo claro - sano
+vaso - 84.6% - azul - peligroso
+Liquido - 59.02% - negro - peligroso
+Liquido - 98.45% - amarillo claro - sano
+vaso - 84.15% - azul - peligroso
+Liquido - 56.3% - rojo - moderado
+Liquido - 77.5% - amarillo claro - sano
+vaso - 84.42% - azul - peligroso
+Liquido - 62.7% - rojo - moderado
+Liquido - 99.62% - amarillo claro - sano
+Liquido - 99.89% - rojo - moderado
+Liquido - 89.39% - amarillo claro - sano
+Liquido - 92.02% - rojo - moderado
+Liquido - 57.24% - amarillo claro - sano
+vaso - 87.94% - azul - peligroso
+botella - 89.51% - amarillo claro - sano
+vaso - 45.58% - rojo - moderado
+Liquido - 43.13% - negro - peligroso
+Liquido - 94.98% - amarillo claro - sano
+Liquido - 56.11% - rojo - moderado
+Liquido - 40.44% - amarillo claro - sano
+botella - 73.63% - amarillo claro - sano
+Liquido - 75.16% - negro - peligroso
+Liquido - 82.19% - amarillo claro - sano
+vaso - 47.92% - azul - peligroso
+botella - 77.26% - amarillo claro - sano
+Liquido - 73.71% - negro - peligroso
+Liquido - 76.06% - amarillo claro - sano
+botella - 96.52% - amarillo claro - sano
+Liquido - 90.08% - negro - peligroso
+Liquido - 57.39% - amarillo claro - sano
+vaso - 92.45% - azul - peligroso
+vaso - 86.86% - rojo - moderado
+botella - 74.72% - amarillo claro - sano
+Liquido - 52.21% - rojo - moderado
+Liquido - 55.66% - amarillo claro - sano
+botella - 51.46% - amarillo claro - sano
+vaso - 82.57% - azul - peligroso
+vaso - 86.25% - rojo - moderado
+Liquido - 82.0% - rojo - moderado
+Liquido - 63.57% - amarillo claro - sano
+vaso - 41.18% - azul - peligroso
+botella - 64.16% - amarillo claro - sano
+vaso - 97.82% - rojo - moderado
+Liquido - 95.43% - negro - peligroso
+Liquido - 49.41% - amarillo claro - sano
+vaso - 49.33% - azul - peligroso
+botella - 47.2% - amarillo claro - sano
+vaso - 94.03% - rojo - moderado
+Liquido - 58.19% - negro - peligroso
+Liquido - 74.13% - amarillo claro - sano
+vaso - 81.68% - azul - peligroso
+botella - 54.81% - amarillo claro - sano
+vaso - 42.59% - rojo - moderado
+Liquido - 52.33% - negro - peligroso
+Liquido - 44.19% - amarillo claro - sano
+vaso - 42.61% - azul - peligroso
+vaso - 93.08% - rojo - moderado
+botella - 91.92% - amarillo claro - sano
+Liquido - 62.39% - negro - peligroso
+Liquido - 96.4% - amarillo claro - sano
+vaso - 66.85% - azul - peligroso
+vaso - 50.17% - rojo - moderado
+botella - 69.5% - amarillo claro - sano
+Liquido - 59.3% - negro - peligroso
+vaso - 98.77% - amarillo claro - sano
+Liquido - 57.61% - amarillo claro - sano
+vaso - 68.18% - azul - peligroso
+botella - 74.75% - amarillo claro - sano
+Liquido - 47.11% - negro - peligroso
+Liquido - 95.91% - amarillo claro - sano
+vaso - 75.48% - azul - peligroso
+vaso - 42.81% - azul - peligroso
+botella - 43.64% - amarillo claro - sano
+Liquido - 76.18% - negro - peligroso
+Liquido - 69.84% - amarillo claro - sano
+vaso - 93.97% - azul - peligroso
+vaso - 72.15% - azul - peligroso
+botella - 52.96% - amarillo claro - sano
+Liquido - 62.21% - negro - peligroso
+Liquido - 78.42% - amarillo claro - sano
+vaso - 82.4% - azul - peligroso
+vaso - 55.75% - azul - peligroso
+botella - 59.86% - amarillo claro - sano
+Liquido - 53.37% - negro - peligroso
+Liquido - 79.35% - amarillo claro - sano
+vaso - 99.59% - azul - peligroso
+vaso - 68.93% - azul - peligroso
+botella - 64.36% - amarillo claro - sano
+Liquido - 48.68% - negro - peligroso
+Liquido - 44.37% - amarillo claro - sano
+vaso - 57.01% - azul - peligroso
+vaso - 44.85% - azul - peligroso
+botella - 71.19% - amarillo claro - sano
+Liquido - 77.06% - negro - peligroso
+vaso - 56.35% - amarillo claro - sano
+Liquido - 49.67% - amarillo claro - sano
+vaso - 78.31% - azul - peligroso
+botella - 94.52% - amarillo claro - sano
+Liquido - 88.47% - negro - peligroso
+vaso - 76.09% - amarillo claro - sano
+Liquido - 64.31% - amarillo claro - sano
+vaso - 88.68% - azul - peligroso
+botella - 62.37% - amarillo claro - sano
+Liquido - 80.74% - negro - peligroso
+Liquido - 97.2% - amarillo claro - sano
+vaso - 84.86% - azul - peligroso
+vaso - 48.1% - azul - peligroso
+botella - 90.69% - amarillo claro - sano
+Liquido - 50.43% - negro - peligroso
+Liquido - 83.06% - amarillo claro - sano
+vaso - 72.42% - azul - peligroso
+vaso - 80.45% - azul - peligroso
+botella - 99.78% - amarillo claro - sano
+Liquido - 88.95% - negro - peligroso
+Liquido - 60.0% - amarillo claro - sano
+vaso - 83.4% - azul - peligroso
+vaso - 85.99% - azul - peligroso
+botella - 77.06% - amarillo claro - sano
+Liquido - 64.01% - negro - peligroso
+vaso - 97.92% - amarillo claro - sano
+Liquido - 86.4% - amarillo claro - sano
+vaso - 81.77% - azul - peligroso
+botella - 61.98% - amarillo claro - sano
+Liquido - 74.74% - negro - peligroso
+Liquido - 77.64% - amarillo claro - sano
+vaso - 76.75% - azul - peligroso
+vaso - 79.15% - azul - peligroso
+botella - 43.73% - amarillo claro - sano
+Liquido - 99.17% - negro - peligroso
+Liquido - 91.56% - amarillo claro - sano
+vaso - 45.7% - azul - peligroso
+vaso - 45.89% - azul - peligroso
+botella - 92.45% - amarillo claro - sano
+Liquido - 99.02% - negro - peligroso
+Liquido - 41.82% - amarillo claro - sano
+vaso - 63.67% - azul - peligroso
+vaso - 72.47% - azul - peligroso
+botella - 44.23% - amarillo claro - sano
+Liquido - 44.17% - rojo - moderado
+Liquido - 91.23% - amarillo claro - sano
+vaso - 79.84% - azul - peligroso
+botella - 40.79% - amarillo claro - sano
+vaso - 64.36% - azul - peligroso
+Liquido - 99.57% - rojo - moderado
+Liquido - 74.39% - amarillo claro - sano
+vaso - 77.2% - azul - peligroso
+botella - 57.1% - amarillo claro - sano
+vaso - 71.14% - azul - peligroso
+Liquido - 89.24% - rojo - moderado
+Liquido - 82.44% - amarillo claro - sano
+vaso - 75.01% - azul - peligroso
+vaso - 66.22% - azul - peligroso
+botella - 92.83% - amarillo claro - sano
+Liquido - 90.8% - negro - peligroso
+Liquido - 61.03% - amarillo claro - sano
+vaso - 96.93% - azul - peligroso
+vaso - 60.97% - azul - peligroso
+botella - 88.84% - amarillo claro - sano
+Liquido - 78.91% - negro - peligroso
+Liquido - 58.89% - amarillo claro - sano
+vaso - 95.14% - azul - peligroso
+vaso - 93.98% - azul - peligroso
+botella - 74.31% - amarillo claro - sano
+Liquido - 51.73% - rojo - moderado
+Liquido - 88.9% - amarillo claro - sano
+vaso - 88.34% - azul - peligroso
+vaso - 64.45% - azul - peligroso
+Liquido - 80.36% - rojo - moderado
+Liquido - 79.32% - amarillo claro - sano
+vaso - 42.29% - azul - peligroso
+vaso - 73.85% - azul - peligroso
+botella - 48.9% - amarillo claro - sano
+Liquido - 63.13% - rojo - moderado
+Liquido - 54.41% - amarillo claro - sano
+vaso - 41.39% - azul - peligroso
+vaso - 78.45% - azul - peligroso
+botella - 40.49% - amarillo claro - sano
+Liquido - 77.29% - rojo - moderado
+Liquido - 91.9% - amarillo claro - sano
+vaso - 77.89% - azul - peligroso
+vaso - 60.05% - azul - peligroso
+botella - 47.3% - amarillo claro - sano
+Liquido - 79.88% - negro - peligroso
+Liquido - 43.32% - amarillo claro - sano
+vaso - 86.34% - azul - peligroso
+vaso - 77.51% - azul - peligroso
+botella - 93.51% - amarillo claro - sano
+Liquido - 74.8% - negro - peligroso
+vaso - 85.58% - amarillo claro - sano
+Liquido - 57.09% - amarillo claro - sano
+vaso - 77.69% - azul - peligroso
+botella - 52.52% - amarillo claro - sano
+Liquido - 99.02% - negro - peligroso
+vaso - 66.51% - amarillo claro - sano
+Liquido - 96.86% - amarillo claro - sano
+vaso - 85.64% - azul - peligroso
+botella - 44.26% - amarillo claro - sano
+Liquido - 54.66% - negro - peligroso
+vaso - 52.79% - amarillo claro - sano
+Liquido - 93.49% - amarillo claro - sano
+vaso - 79.65% - azul - peligroso
+botella - 73.26% - amarillo claro - sano
+Liquido - 40.88% - rojo - moderado
+Liquido - 84.74% - amarillo claro - sano
+vaso - 46.66% - azul - peligroso
+vaso - 96.39% - azul - peligroso
+botella - 42.69% - amarillo claro - sano
+Liquido - 92.37% - negro - peligroso
+Liquido - 48.92% - amarillo claro - sano
+vaso - 43.38% - azul - peligroso
+vaso - 88.18% - azul - peligroso
+botella - 65.04% - amarillo claro - sano
+Liquido - 83.31% - negro - peligroso
+Liquido - 46.33% - amarillo claro - sano
+vaso - 56.26% - azul - peligroso
+vaso - 62.51% - azul - peligroso
+Liquido - 42.18% - negro - peligroso
+Liquido - 92.24% - amarillo claro - sano
+vaso - 81.71% - azul - peligroso
+vaso - 72.32% - azul - peligroso
+Liquido - 45.46% - negro - peligroso
+Liquido - 85.88% - amarillo claro - sano
+vaso - 64.57% - azul - peligroso
+vaso - 52.38% - azul - peligroso
+Liquido - 78.96% - negro - peligroso
+Liquido - 61.44% - amarillo claro - sano
+vaso - 49.73% - azul - peligroso
+vaso - 84.33% - azul - peligroso
+Liquido - 99.49% - negro - peligroso
+Liquido - 83.11% - amarillo claro - sano
+vaso - 98.44% - azul - peligroso
+vaso - 77.55% - azul - peligroso
+Liquido - 60.11% - negro - peligroso
+Liquido - 97.52% - amarillo claro - sano
+vaso - 70.38% - azul - peligroso
+vaso - 84.97% - azul - peligroso
+Liquido - 96.08% - negro - peligroso
+Liquido - 68.37% - amarillo claro - sano
+vaso - 82.21% - azul - peligroso
+vaso - 72.63% - azul - peligroso
+Liquido - 62.64% - negro - peligroso
+Liquido - 85.89% - amarillo claro - sano
+vaso - 93.23% - azul - peligroso
+vaso - 95.69% - azul - peligroso
+Liquido - 55.22% - negro - peligroso
+Liquido - 83.14% - amarillo intenso - moderado
+vaso - 78.9% - azul - peligroso
+vaso - 74.83% - azul - peligroso
+Liquido - 70.11% - negro - peligroso
+Liquido - 86.1% - amarillo claro - sano
+vaso - 79.07% - azul - peligroso
+vaso - 74.77% - azul - peligroso
+Liquido - 46.89% - negro - peligroso
+Liquido - 48.85% - amarillo claro - sano
+vaso - 52.7% - azul - peligroso
+vaso - 65.35% - azul - peligroso
+Liquido - 87.68% - negro - peligroso
+Liquido - 88.82% - amarillo claro - sano
+vaso - 71.22% - azul - peligroso
+botella - 68.64% - amarillo claro - sano
+Liquido - 72.36% - negro - peligroso
+Liquido - 70.38% - amarillo claro - sano
+vaso - 96.5% - azul - peligroso
+botella - 89.97% - amarillo claro - sano
+Liquido - 74.99% - negro - peligroso
+Liquido - 99.64% - amarillo claro - sano
+vaso - 95.77% - azul - peligroso
+Liquido - 88.84% - negro - peligroso
+Liquido - 94.57% - amarillo claro - sano
+vaso - 67.12% - amarillo claro - sano
+vaso - 59.11% - azul - peligroso
+Liquido - 77.89% - negro - peligroso
+Liquido - 86.39% - amarillo claro - sano
+vaso - 42.78% - amarillo claro - sano
+vaso - 59.94% - azul - peligroso
+Liquido - 72.83% - negro - peligroso
+vaso - 67.52% - amarillo claro - sano
+Liquido - 42.12% - amarillo claro - sano
+vaso - 56.8% - azul - peligroso
+Liquido - 40.89% - amarillo claro - sano
+Liquido - 61.45% - negro - peligroso
+vaso - 57.39% - amarillo claro - sano
+vaso - 64.86% - azul - peligroso
+Liquido - 78.25% - negro - peligroso
+Liquido - 60.86% - amarillo claro - sano
+vaso - 57.92% - azul - peligroso
+vaso - 55.32% - amarillo claro - sano
+Liquido - 55.26% - negro - peligroso
+Liquido - 98.08% - amarillo claro - sano
+vaso - 95.17% - azul - peligroso
+vaso - 48.79% - amarillo claro - sano
+Liquido - 71.82% - negro - peligroso
+Liquido - 59.99% - amarillo claro - sano
+vaso - 79.97% - azul - peligroso
+vaso - 57.47% - amarillo claro - sano
+Liquido - 48.98% - negro - peligroso
+Liquido - 85.49% - amarillo claro - sano
+vaso - 68.2% - azul - peligroso
+vaso - 46.57% - amarillo claro - sano
+Liquido - 63.73% - negro - peligroso
+Liquido - 59.82% - amarillo claro - sano
+vaso - 96.41% - amarillo claro - sano
+vaso - 92.96% - azul - peligroso
+Liquido - 59.69% - negro - peligroso
+Liquido - 75.87% - amarillo claro - sano
+vaso - 76.96% - azul - peligroso
+vaso - 86.29% - azul - peligroso
+Liquido - 84.97% - negro - peligroso
+Liquido - 64.45% - amarillo claro - sano
+vaso - 91.55% - azul - peligroso
+vaso - 72.3% - azul - peligroso
+Liquido - 79.75% - negro - peligroso
+Liquido - 46.46% - amarillo claro - sano
+vaso - 41.36% - azul - peligroso
+vaso - 98.39% - azul - peligroso
+Liquido - 78.6% - negro - peligroso
+Liquido - 70.6% - amarillo claro - sano
+vaso - 48.07% - azul - peligroso
+vaso - 90.62% - azul - peligroso
+Liquido - 60.6% - negro - peligroso
+vaso - 83.41% - azul - peligroso
+Liquido - 62.2% - amarillo claro - sano
+vaso - 60.25% - azul - peligroso
+Liquido - 81.0% - negro - peligroso
+vaso - 61.67% - azul - peligroso
+Liquido - 98.74% - amarillo claro - sano
+vaso - 78.9% - azul - peligroso
+Liquido - 64.79% - negro - peligroso
+vaso - 89.36% - azul - peligroso
+Liquido - 52.65% - amarillo claro - sano
+vaso - 62.03% - azul - peligroso
+Liquido - 72.27% - negro - peligroso
+vaso - 45.63% - azul - peligroso
+Liquido - 73.44% - amarillo claro - sano
+vaso - 48.2% - azul - peligroso
+Liquido - 43.15% - negro - peligroso
+Liquido - 87.74% - amarillo claro - sano
+vaso - 63.58% - azul - peligroso
+vaso - 73.35% - azul - peligroso
+Liquido - 98.94% - negro - peligroso
+vaso - 79.19% - azul - peligroso
+Liquido - 93.91% - amarillo claro - sano
+vaso - 61.44% - azul - peligroso
+vaso - 94.63% - azul - peligroso
+Liquido - 78.82% - negro - peligroso
+Liquido - 59.16% - amarillo claro - sano
+vaso - 41.75% - azul - peligroso
+vaso - 67.25% - azul - peligroso
+Liquido - 71.62% - negro - peligroso
+Liquido - 61.88% - amarillo claro - sano
+vaso - 62.37% - azul - peligroso
+vaso - 81.75% - azul - peligroso
+Liquido - 97.16% - amarillo claro - sano
+Liquido - 76.37% - negro - peligroso
+vaso - 51.4% - azul - peligroso
+Liquido - 58.79% - negro - peligroso
+Liquido - 45.72% - amarillo claro - sano
+vaso - 99.18% - azul - peligroso
+vaso - 72.96% - azul - peligroso
+vaso - 88.21% - azul - peligroso
+Liquido - 72.96% - amarillo claro - sano
+Liquido - 58.85% - negro - peligroso
+vaso - 70.06% - azul - peligroso
+vaso - 91.82% - azul - peligroso
+Liquido - 50.09% - amarillo claro - sano
+Liquido - 92.95% - negro - peligroso
+vaso - 49.0% - azul - peligroso
+Liquido - 53.77% - negro - peligroso
+vaso - 91.85% - azul - peligroso
+Liquido - 55.03% - amarillo claro - sano
+vaso - 92.63% - azul - peligroso
+Liquido - 59.98% - negro - peligroso
+vaso - 85.99% - azul - peligroso
+Liquido - 67.66% - amarillo claro - sano
+vaso - 80.26% - azul - peligroso
+Liquido - 88.59% - negro - peligroso
+Liquido - 95.78% - amarillo claro - sano
+vaso - 49.58% - azul - peligroso
+vaso - 45.94% - azul - peligroso
+Liquido - 41.3% - negro - peligroso
+Liquido - 77.87% - amarillo claro - sano
+vaso - 50.39% - azul - peligroso
+vaso - 98.78% - azul - peligroso
+vaso - 99.67% - azul - peligroso
+Liquido - 81.97% - negro - peligroso
+Liquido - 42.57% - amarillo claro - sano
+vaso - 98.19% - azul - peligroso
+vaso - 50.94% - azul - peligroso
+Liquido - 94.33% - negro - peligroso
+Liquido - 77.0% - amarillo claro - sano
+vaso - 81.28% - azul - peligroso
+vaso - 89.38% - rojo - moderado
+vaso - 58.07% - amarillo claro - sano
+Liquido - 63.35% - negro - peligroso
+Liquido - 57.05% - amarillo claro - sano
+vaso - 41.22% - rojo - moderado
+Liquido - 60.98% - amarillo claro - sano
+Liquido - 48.17% - negro - peligroso
+vaso - 68.56% - azul - peligroso
+vaso - 76.5% - rojo - moderado
+Liquido - 50.52% - amarillo claro - sano
+Liquido - 75.96% - negro - peligroso
+vaso - 43.74% - azul - peligroso
+vaso - 53.95% - rojo - moderado
+Liquido - 69.21% - negro - peligroso
+Liquido - 71.74% - amarillo claro - sano
+vaso - 55.76% - azul - peligroso
+vaso - 92.13% - amarillo claro - sano
+Liquido - 83.91% - negro - peligroso
+Liquido - 58.24% - amarillo claro - sano
+vaso - 72.45% - azul - peligroso
+vaso - 88.43% - amarillo claro - sano
+Liquido - 42.78% - negro - peligroso
+Liquido - 66.36% - amarillo claro - sano
+vaso - 98.67% - azul - peligroso
+vaso - 98.3% - rojo - moderado
+Liquido - 51.94% - negro - peligroso
+Liquido - 79.23% - amarillo claro - sano
+vaso - 80.78% - azul - peligroso
+vaso - 91.1% - rojo - moderado
+Liquido - 98.07% - negro - peligroso
+Liquido - 69.75% - amarillo claro - sano
+vaso - 98.12% - azul - peligroso
+vaso - 58.83% - amarillo claro - sano
+Liquido - 74.94% - negro - peligroso
+Liquido - 75.65% - amarillo claro - sano
+vaso - 42.54% - azul - peligroso
+Liquido - 46.86% - negro - peligroso
+vaso - 81.85% - azul - peligroso
+Liquido - 76.26% - amarillo claro - sano
+vaso - 85.27% - azul - peligroso
+vaso - 49.17% - azul - peligroso
+Liquido - 47.02% - negro - peligroso
+Liquido - 64.13% - amarillo claro - sano
+vaso - 85.73% - azul - peligroso
+vaso - 89.1% - azul - peligroso
+Liquido - 42.44% - negro - peligroso
+Liquido - 93.62% - amarillo claro - sano
+vaso - 59.77% - azul - peligroso
+vaso - 49.51% - azul - peligroso
+Liquido - 79.28% - negro - peligroso
+Liquido - 42.06% - amarillo claro - sano
+vaso - 74.93% - azul - peligroso
+Liquido - 40.72% - negro - peligroso
+vaso - 72.22% - azul - peligroso
+Liquido - 79.17% - amarillo claro - sano
+vaso - 70.47% - azul - peligroso
+Liquido - 58.57% - negro - peligroso
+vaso - 93.3% - azul - peligroso
+Liquido - 74.65% - amarillo claro - sano
+vaso - 57.17% - azul - peligroso
+Liquido - 63.78% - negro - peligroso
+vaso - 84.48% - azul - peligroso
+vaso - 85.29% - amarillo claro - sano
+Liquido - 72.23% - amarillo claro - sano
+Liquido - 60.99% - negro - peligroso
+vaso - 79.24% - azul - peligroso
+vaso - 56.63% - amarillo claro - sano
+Liquido - 93.93% - amarillo claro - sano
+Liquido - 43.97% - negro - peligroso
+Liquido - 52.31% - amarillo claro - sano
+vaso - 86.67% - azul - peligroso
+vaso - 86.8% - azul - peligroso
+Liquido - 82.09% - negro - peligroso
+Liquido - 57.89% - amarillo claro - sano
+vaso - 51.86% - azul - peligroso
+vaso - 81.91% - azul - peligroso
+vaso - 69.22% - azul - peligroso
+Liquido - 47.58% - negro - peligroso
+Liquido - 46.14% - amarillo claro - sano
+vaso - 44.07% - azul - peligroso
+vaso - 65.13% - azul - peligroso
+Liquido - 67.7% - negro - peligroso
+Liquido - 78.83% - amarillo claro - sano
+vaso - 49.34% - azul - peligroso
+vaso - 42.5% - azul - peligroso
+Liquido - 43.45% - negro - peligroso
+Liquido - 91.88% - amarillo claro - sano
+vaso - 53.16% - azul - peligroso
+vaso - 89.66% - amarillo claro - sano
+Liquido - 73.34% - amarillo claro - sano
+Liquido - 95.68% - negro - peligroso
+vaso - 97.48% - azul - peligroso
+Liquido - 68.74% - negro - peligroso
+vaso - 96.73% - azul - peligroso
+Liquido - 90.86% - amarillo claro - sano
+vaso - 77.25% - azul - peligroso
+Liquido - 44.2% - negro - peligroso
+Liquido - 47.19% - amarillo claro - sano
+vaso - 50.8% - azul - peligroso
+vaso - 64.49% - azul - peligroso
+vaso - 55.02% - amarillo claro - sano
+Liquido - 50.36% - negro - peligroso
+Liquido - 91.03% - amarillo claro - sano
+vaso - 98.22% - azul - peligroso
+Liquido - 42.23% - negro - peligroso
+Liquido - 59.26% - amarillo claro - sano
+vaso - 56.04% - azul - peligroso
+vaso - 96.15% - azul - peligroso
+Liquido - 79.82% - negro - peligroso
+Liquido - 74.61% - amarillo claro - sano
+vaso - 90.52% - azul - peligroso
+vaso - 77.34% - azul - peligroso
+Liquido - 76.79% - negro - peligroso
+vaso - 50.31% - azul - peligroso
+vaso - 44.33% - amarillo claro - sano
+Liquido - 97.06% - amarillo claro - sano
+Liquido - 61.81% - negro - peligroso
+vaso - 47.77% - azul - peligroso
+vaso - 84.44% - amarillo claro - sano
+Liquido - 40.36% - amarillo claro - sano
+Liquido - 84.55% - negro - peligroso
+vaso - 97.52% - azul - peligroso
+Liquido - 54.53% - amarillo claro - sano
+vaso - 76.38% - azul - peligroso
+Liquido - 80.23% - negro - peligroso
+vaso - 74.62% - azul - peligroso
+Liquido - 68.57% - amarillo claro - sano
+vaso - 96.59% - azul - peligroso
+Liquido - 98.37% - negro - peligroso
+vaso - 56.1% - azul - peligroso
+vaso - 43.19% - amarillo claro - sano
+Liquido - 74.72% - amarillo claro - sano
+Liquido - 75.98% - negro - peligroso
+vaso - 40.8% - azul - peligroso
+Liquido - 84.34% - amarillo claro - sano
+vaso - 66.61% - azul - peligroso
+Liquido - 68.4% - negro - peligroso
+Liquido - 53.96% - amarillo claro - sano
+vaso - 71.16% - azul - peligroso
+vaso - 53.22% - azul - peligroso
+Liquido - 81.93% - negro - peligroso
+Liquido - 49.24% - amarillo claro - sano
+Liquido - 98.21% - negro - peligroso
+Liquido - 77.94% - amarillo intenso - moderado
+Liquido - 87.09% - verde - sano
+Liquido - 76.39% - amarillo intenso - moderado
+Liquido - 42.31% - negro - peligroso
+Liquido - 88.77% - amarillo intenso - moderado
+Liquido - 52.89% - negro - peligroso
+Liquido - 95.9% - amarillo intenso - moderado
+Liquido - 79.0% - azul - peligroso
+botella - 90.62% - amarillo claro - sano
+botella - 59.91% - amarillo claro - sano
+botella - 54.02% - amarillo claro - sano
+botella - 82.08% - amarillo claro - sano

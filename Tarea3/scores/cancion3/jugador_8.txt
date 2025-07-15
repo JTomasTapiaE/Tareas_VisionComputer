@@ -1,0 +1,9 @@
+Jugador 8
+------------------------------
+Total poses evaluadas: 45
+Perfect: 45
+Good: 0
+Ok: 0
+Bad: 0
+Estrellas: 5.0 *
+Clasificación final: Excelente

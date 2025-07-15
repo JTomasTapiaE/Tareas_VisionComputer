@@ -1,0 +1,9 @@
+Jugador 5
+------------------------------
+Total poses evaluadas: 60
+Perfect: 60
+Good: 0
+Ok: 0
+Bad: 0
+Estrellas: 5.0 *
+Clasificación final: Excelente

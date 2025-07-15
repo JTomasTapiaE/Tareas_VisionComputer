@@ -1,0 +1,18 @@
+[
+  {
+    "prompt": "Una ilustración que representa un libro abierto con páginas que se reflejan en un espejo, mostrando el alma de una persona con pensamientos y emociones en forma de reflejos y sombras. El fondo debería ser oscuro y la iluminación debería ser suave y misteriosa.",
+    "negative_prompt": "No incluir animales, objetos cotidianos ni paisajes naturales. Evitar colores brillantes y mantener la escena sombría y emotiva."
+  },
+  {
+    "prompt": "Una persona sentada sobre una roca en la orilla de un mar tormentoso, con olas que se reflejan en el cielo. La luz del sol se cuela entre las nubes, creando un efecto de contrastes entre la calma y el estruendo del mar. La persona debe parecer reflexiva, con una expresión que sugiera la mezcla de sentimientos de alegría y tristeza.",
+    "negative_prompt": "No incluir botes, personas nadando o haciendo surf, cielos despejados o paisajes idílicos. Evitar imágenes que sugieran una tranquilidad excesiva o una sensación de peligro."
+  },
+  {
+    "prompt": "A un grupo de hermanos rodeados de un halo de luz celestial, con sus brazos extendidos en un gesto unido, sobre un fondo de colores pastel que evocan sensación de paz y armonía.",
+    "negative_prompt": "Gritos, lágrimas, rabia, enemistades, desunión, batallas, oscuridad, sombras, desesperanza"
+  },
+  {
+    "prompt": "Ilustración de Cristóbal Colón en un paisaje natural, rodeado de fuego y humo, con indígenas americanos acercándose, en un estilo artístico realista con colores vivos y texturas naturales.",
+    "negative_prompt": "ciudades, edificios, máquinas, armas, uniformes militares, ropas modernas, personas blancas, firmes, diversas etnias, logos, marcas, números, relojes, símbolos religiosos, banderas"
+  }
+]

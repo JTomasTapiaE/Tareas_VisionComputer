@@ -1,0 +1,9 @@
+Jugador 10
+------------------------------
+Total poses evaluadas: 88
+Perfect: 88
+Good: 0
+Ok: 0
+Bad: 0
+Estrellas: 5.0 *
+Clasificación final: Excelente
